@@ -1,0 +1,4104 @@
+[
+    {
+        "pk": 0,
+        "slug": "potages",
+        "title": "POTAGES",
+        "class": "chapter pg_1",
+        "parent": null
+    },
+    {
+        "pk": 1,
+        "slug": "grands-bouillons-et-clarification-des-consommes-divers",
+        "title": "Grands bouillons et clarification des consommés divers",
+        "class": "article pg_3",
+        "parent": 0
+    },
+    {
+        "pk": 2,
+        "slug": "royales-diverses",
+        "title": "Royales diverses",
+        "class": "article pg_4",
+        "parent": 0
+    },
+    {
+        "pk": 3,
+        "slug": "proportions-des-farces-fines-de-volaille--gibier-et-poisson-pour-quenelles-a-potages",
+        "title": "Proportions des farces fines de volaille, gibier et poisson pour quenelles à potages",
+        "class": "article pg_5",
+        "parent": 0
+    },
+    {
+        "pk": 4,
+        "slug": "proportions-des-pates-diverses-pour-4-litres-de-consomme",
+        "title": "Proportions des pâtes diverses pour 4 litres de consommé",
+        "class": "article pg_6",
+        "parent": 0
+    },
+    {
+        "pk": 5,
+        "slug": "oeufs-files-pour-garniture-auxiliaire-de-4-litres-de-consomme",
+        "title": "Oeufs filés pour garniture auxiliaire de 4 litres de consommé",
+        "class": "article pg_6",
+        "parent": 0
+    },
+    {
+        "pk": 6,
+        "slug": "profiterolles-pour-garniture-de-potages",
+        "title": "Profiterolles pour garniture de potages",
+        "class": "article pg_6",
+        "parent": 0
+    },
+    {
+        "pk": 7,
+        "slug": "potages-clairs-et-consommes-garnis",
+        "title": "Potages clairs et consommés garnis",
+        "class": "serie pg_7",
+        "parent": 0
+    },
+    {
+        "pk": 8,
+        "slug": "potages-lies",
+        "title": "Potages liés",
+        "class": "serie pg_28",
+        "parent": 0
+    },
+    {
+        "pk": 9,
+        "slug": "formules-preliminaires-des-potages-lies",
+        "title": "Formules préliminaires des potages liés",
+        "class": "article pg_28",
+        "parent": 8
+    },
+    {
+        "pk": 10,
+        "slug": "purees",
+        "title": "Purées",
+        "class": "serie pg_32",
+        "parent": 8
+    },
+    {
+        "pk": 11,
+        "slug": "purees-ou-cremes",
+        "title": "Purées ou crèmes",
+        "class": "serie pg_38",
+        "parent": 8
+    },
+    {
+        "pk": 12,
+        "slug": "veloutes-ou-cremes",
+        "title": "Veloutés ou crèmes",
+        "class": "serie pg_41",
+        "parent": 8
+    },
+    {
+        "pk": 13,
+        "slug": "potages-invariables",
+        "title": "Potages invariables",
+        "class": "serie pg_49",
+        "parent": 8
+    },
+    {
+        "pk": 14,
+        "slug": "potages-de-legumes",
+        "title": "Potages de légumes",
+        "class": "serie pg_57",
+        "parent": 0
+    },
+    {
+        "pk": 15,
+        "slug": "garbures",
+        "title": "Garbures",
+        "class": "serie pg_59",
+        "parent": 0
+    },
+    {
+        "pk": 16,
+        "slug": "soupes-de-l-ecole-provencale",
+        "title": "Soupes de l'école provençale",
+        "class": "serie pg_65",
+        "parent": 0
+    },
+    {
+        "pk": 17,
+        "slug": "potages-etrangers",
+        "title": "Potages étrangers",
+        "class": "serie pg_67",
+        "parent": 0
+    },
+    {
+        "pk": 18,
+        "slug": "hors-d-oeuvre-froids-et-chauds",
+        "title": "HORS-D'OEUVRE FROIDS ET CHAUDS",
+        "class": "chapter pg_79",
+        "parent": null
+    },
+    {
+        "pk": 19,
+        "slug": "hors-d-oeuvre-froids",
+        "title": "Hors-d'oeuvre froids",
+        "class": "serie pg_79",
+        "parent": 18
+    },
+    {
+        "pk": 20,
+        "slug": "hors-d-oeuvre-chauds-ou-entrees-volantes",
+        "title": "Hors-d'oeuvre chauds ou entrées volantes",
+        "class": "serie pg_93",
+        "parent": 18
+    },
+    {
+        "pk": 21,
+        "slug": "sauces",
+        "title": "SAUCES",
+        "class": "chapter pg_125",
+        "parent": null
+    },
+    {
+        "pk": 22,
+        "slug": "principes-generaux",
+        "title": "Principes généraux",
+        "class": "article pg_125",
+        "parent": 21
+    },
+    {
+        "pk": 23,
+        "slug": "traitement-des-elements-de-base",
+        "title": "Traitement des éléments de base",
+        "class": "article pg_127",
+        "parent": 21
+    },
+    {
+        "pk": 24,
+        "slug": "grandes-sauces-de-base",
+        "title": "Grandes sauces de base",
+        "class": "article pg_132",
+        "parent": 21
+    },
+    {
+        "pk": 25,
+        "slug": "petites-sauces-brunes",
+        "title": "Petites sauces brunes",
+        "class": "serie pg_136",
+        "parent": 21
+    },
+    {
+        "pk": 26,
+        "slug": "petites-sauces-blanches-et-composees",
+        "title": "Petites sauces blanches et composées",
+        "class": "serie pg_145",
+        "parent": 21
+    },
+    {
+        "pk": 27,
+        "slug": "sauces-anglaises",
+        "title": "Sauces anglaises",
+        "class": "serie pg_157",
+        "parent": 21
+    },
+    {
+        "pk": 28,
+        "slug": "sauces-froides",
+        "title": "Sauces froides",
+        "class": "serie pg_162",
+        "parent": 21
+    },
+    {
+        "pk": 29,
+        "slug": "sauces-froides-anglaises",
+        "title": "Sauces froides anglaises",
+        "class": "serie pg_165",
+        "parent": 21
+    },
+    {
+        "pk": 30,
+        "slug": "beurres-composes",
+        "title": "Beurres composés",
+        "class": "serie pg_166",
+        "parent": 21
+    },
+    {
+        "pk": 31,
+        "slug": "marinades-et-saumures",
+        "title": "Marinades et saumures",
+        "class": "serie pg_171",
+        "parent": 21
+    },
+    {
+        "pk": 32,
+        "slug": "gelees-diverses",
+        "title": "Gelées diverses",
+        "class": "article pg_173",
+        "parent": 21
+    },
+    {
+        "pk": 33,
+        "slug": "garnitures",
+        "title": "GARNITURES",
+        "class": "chapter pg_177",
+        "parent": null
+    },
+    {
+        "pk": 34,
+        "slug": "farces-diverses",
+        "title": "Farces diverses",
+        "class": "article pg_177",
+        "parent": 33
+    },
+    {
+        "pk": 35,
+        "slug": "farces-gratins",
+        "title": "Farces gratins",
+        "class": "article pg_183",
+        "parent": 33
+    },
+    {
+        "pk": 36,
+        "slug": "appareils-divers",
+        "title": "Appareils divers",
+        "class": "serie pg_185",
+        "parent": 33
+    },
+    {
+        "pk": 37,
+        "slug": "appareils-et-preparations-diverses-pour-garnitures",
+        "title": "Appareils et preparations diverses pour garnitures",
+        "class": "serie pg_189",
+        "parent": 33
+    },
+    {
+        "pk": 38,
+        "slug": "oeufs",
+        "title": "OEUFS",
+        "class": "chapter pg_209",
+        "parent": null
+    },
+    {
+        "pk": 39,
+        "slug": "oeufs-sur-le-plat",
+        "title": "Oeufs sur le plat",
+        "class": "serie pg_209",
+        "parent": 38
+    },
+    {
+        "pk": 40,
+        "slug": "oeufs-poches-et-mollets",
+        "title": "Oeufs pochés et mollets",
+        "class": "serie pg_215",
+        "parent": 38
+    },
+    {
+        "pk": 41,
+        "slug": "oeufs-moules",
+        "title": "Oeufs moulés",
+        "class": "serie pg_225",
+        "parent": 38
+    },
+    {
+        "pk": 42,
+        "slug": "oeufs-en-cocottes-et-en-caisses",
+        "title": "Oeufs en cocottes et en caisses",
+        "class": "serie pg_228",
+        "parent": 38
+    },
+    {
+        "pk": 43,
+        "slug": "oeufs-frits",
+        "title": "Oeufs frits",
+        "class": "serie pg_230",
+        "parent": 38
+    },
+    {
+        "pk": 44,
+        "slug": "oeufs-durs--farcis-et-gratines",
+        "title": "Oeufs durs, farcis et gratinés",
+        "class": "serie pg_231",
+        "parent": 38
+    },
+    {
+        "pk": 45,
+        "slug": "oeufs-brouilles",
+        "title": "Oeufs brouillés",
+        "class": "serie pg_235",
+        "parent": 38
+    },
+    {
+        "pk": 46,
+        "slug": "oeufs-de-vanneaux-et-de-pluviers",
+        "title": "Oeufs de vanneaux et de pluviers",
+        "class": "serie pg_239",
+        "parent": 38
+    },
+    {
+        "pk": 47,
+        "slug": "omelettes",
+        "title": "Omelettes",
+        "class": "serie pg_240",
+        "parent": 38
+    },
+    {
+        "pk": 48,
+        "slug": "oeufs-froids",
+        "title": "Oeufs froids",
+        "class": "serie pg_246",
+        "parent": 38
+    },
+    {
+        "pk": 49,
+        "slug": "poissons",
+        "title": "POISSONS",
+        "class": "chapter pg_251",
+        "parent": null
+    },
+    {
+        "pk": 50,
+        "slug": "courts-bouillons",
+        "title": "Courts-bouillons",
+        "class": "article pg_251",
+        "parent": 49
+    },
+    {
+        "pk": 51,
+        "slug": "emploi-des-courts-bouillons",
+        "title": "Emploi des courts-bouillons",
+        "class": "article pg_252",
+        "parent": 49
+    },
+    {
+        "pk": 52,
+        "slug": "traitement-des-poissons-au-bleu",
+        "title": "Traitement des poissons au bleu",
+        "class": "article pg_252",
+        "parent": 49
+    },
+    {
+        "pk": 53,
+        "slug": "farces-pour-poissons",
+        "title": "Farces pour poissons",
+        "class": "article pg_253",
+        "parent": 49
+    },
+    {
+        "pk": 54,
+        "slug": "friture-pour-poissons",
+        "title": "Friture pour poissons",
+        "class": "article pg_255",
+        "parent": 49
+    },
+    {
+        "pk": 55,
+        "slug": "mousselines-de-crustaces",
+        "title": "Mousselines de Crustacés",
+        "class": "article pg_255",
+        "parent": 49
+    },
+    {
+        "pk": 56,
+        "slug": "theorie-de-la-friture-pour-poissons",
+        "title": "Théorie de la Friture pour Poissons",
+        "class": "article pg_255",
+        "parent": 49
+    },
+    {
+        "pk": 57,
+        "slug": "poissons-d-eau-douce-",
+        "title": "POISSONS D'EAU DOUCE ",
+        "class": "serie pg_256",
+        "parent": 49
+    },
+    {
+        "pk": 58,
+        "slug": "matelotes-types",
+        "title": "Matelotes types",
+        "class": "article pg_256",
+        "parent": 57
+    },
+    {
+        "pk": 59,
+        "slug": "matelotes-diverses",
+        "title": "Matelotes diverses",
+        "class": "serie pg_257",
+        "parent": 57
+    },
+    {
+        "pk": 60,
+        "slug": "alose",
+        "title": "Alose",
+        "class": "serie pg_258",
+        "parent": 57
+    },
+    {
+        "pk": 61,
+        "slug": "anguille",
+        "title": "Anguille",
+        "class": "serie pg_259",
+        "parent": 57
+    },
+    {
+        "pk": 62,
+        "slug": "barbeau-et-barbillon",
+        "title": "Barbeau et Barbillon",
+        "class": "serie pg_264",
+        "parent": 57
+    },
+    {
+        "pk": 63,
+        "slug": "blanchaille",
+        "title": "Blanchaille",
+        "class": "article pg_265",
+        "parent": 57
+    },
+    {
+        "pk": 64,
+        "slug": "breme",
+        "title": "Brême",
+        "class": "article pg_265",
+        "parent": 57
+    },
+    {
+        "pk": 65,
+        "slug": "brochet-",
+        "title": "Brochet ",
+        "class": "serie pg_265",
+        "parent": 57
+    },
+    {
+        "pk": 66,
+        "slug": "brocheton",
+        "title": "Brocheton",
+        "class": "serie pg_268",
+        "parent": 57
+    },
+    {
+        "pk": 67,
+        "slug": "carpe",
+        "title": "Carpe",
+        "class": "serie pg_268",
+        "parent": 57
+    },
+    {
+        "pk": 68,
+        "slug": "laitances",
+        "title": "Laitances",
+        "class": "serie pg_272",
+        "parent": 57
+    },
+    {
+        "pk": 69,
+        "slug": "esturgeon",
+        "title": "Esturgeon",
+        "class": "serie pg_273",
+        "parent": 57
+    },
+    {
+        "pk": 70,
+        "slug": "fera",
+        "title": "Féra",
+        "class": "article pg_273",
+        "parent": 57
+    },
+    {
+        "pk": 71,
+        "slug": "goujon",
+        "title": "Goujon",
+        "class": "article pg_273",
+        "parent": 57
+    },
+    {
+        "pk": 72,
+        "slug": "lamproie",
+        "title": "Lamproie",
+        "class": "serie pg_274",
+        "parent": 57
+    },
+    {
+        "pk": 73,
+        "slug": "lavaret",
+        "title": "Lavaret",
+        "class": "article pg_274",
+        "parent": 57
+    },
+    {
+        "pk": 74,
+        "slug": "lotte",
+        "title": "Lotte",
+        "class": "article pg_274",
+        "parent": 57
+    },
+    {
+        "pk": 75,
+        "slug": "ombre-chevalier",
+        "title": "Ombre-Chevalier",
+        "class": "article pg_274",
+        "parent": 57
+    },
+    {
+        "pk": 76,
+        "slug": "perche",
+        "title": "Perche",
+        "class": "article pg_275",
+        "parent": 57
+    },
+    {
+        "pk": 77,
+        "slug": "rothel-ou-ruthel",
+        "title": "Rothel ou Ruthel",
+        "class": "article pg_275",
+        "parent": 57
+    },
+    {
+        "pk": 78,
+        "slug": "saumon",
+        "title": "Saumon",
+        "class": "serie pg_275",
+        "parent": 57
+    },
+    {
+        "pk": 79,
+        "slug": "sterlet",
+        "title": "Sterlet",
+        "class": "article pg_278",
+        "parent": 57
+    },
+    {
+        "pk": 80,
+        "slug": "tanche",
+        "title": "Tanche",
+        "class": "article pg_278",
+        "parent": 57
+    },
+    {
+        "pk": 81,
+        "slug": "truite",
+        "title": "Truite",
+        "class": "article pg_278",
+        "parent": 57
+    },
+    {
+        "pk": 82,
+        "slug": "truites-de-riviere",
+        "title": "Truites de Rivière",
+        "class": "serie pg_279",
+        "parent": 57
+    },
+    {
+        "pk": 83,
+        "slug": "white-bait",
+        "title": "White-bait",
+        "class": "article pg_280",
+        "parent": 57
+    },
+    {
+        "pk": 84,
+        "slug": "poissons-de-mer",
+        "title": "POISSONS DE MER",
+        "class": "serie pg_282",
+        "parent": 49
+    },
+    {
+        "pk": 85,
+        "slug": "bouillabaisses-diverses",
+        "title": "Bouillabaisses diverses",
+        "class": "serie pg_282",
+        "parent": 84
+    },
+    {
+        "pk": 86,
+        "slug": "anchois",
+        "title": "Anchois",
+        "class": "article pg_284",
+        "parent": 84
+    },
+    {
+        "pk": 87,
+        "slug": "bar-ou-loup-de-mer",
+        "title": "Bar ou Loup de mer",
+        "class": "article pg_284",
+        "parent": 84
+    },
+    {
+        "pk": 88,
+        "slug": "barbue",
+        "title": "Barbue",
+        "class": "article pg_284",
+        "parent": 84
+    },
+    {
+        "pk": 89,
+        "slug": "bloaters",
+        "title": "Bloaters",
+        "class": "article pg_284",
+        "parent": 84
+    },
+    {
+        "pk": 90,
+        "slug": "cabillaud",
+        "title": "Cabillaud",
+        "class": "serie pg_284",
+        "parent": 84
+    },
+    {
+        "pk": 91,
+        "slug": "carrelet",
+        "title": "Carrelet",
+        "class": "serie pg_285",
+        "parent": 84
+    },
+    {
+        "pk": 92,
+        "slug": "congre",
+        "title": "Congre",
+        "class": "article pg_285",
+        "parent": 84
+    },
+    {
+        "pk": 93,
+        "slug": "coquilles-diverses",
+        "title": "Coquilles diverses",
+        "class": "serie pg_286",
+        "parent": 84
+    },
+    {
+        "pk": 94,
+        "slug": "dorade",
+        "title": "Dorade",
+        "class": "article pg_287",
+        "parent": 84
+    },
+    {
+        "pk": 95,
+        "slug": "eperlans",
+        "title": "Eperlans",
+        "class": "serie pg_287",
+        "parent": 84
+    },
+    {
+        "pk": 96,
+        "slug": "haddock",
+        "title": "Haddock",
+        "class": "serie pg_288",
+        "parent": 84
+    },
+    {
+        "pk": 97,
+        "slug": "harengs",
+        "title": "Harengs",
+        "class": "serie pg_288",
+        "parent": 84
+    },
+    {
+        "pk": 98,
+        "slug": "maquereaux",
+        "title": "Maquereaux",
+        "class": "serie pg_289",
+        "parent": 84
+    },
+    {
+        "pk": 99,
+        "slug": "merlans",
+        "title": "Merlans",
+        "class": "serie pg_290",
+        "parent": 84
+    },
+    {
+        "pk": 100,
+        "slug": "morue",
+        "title": "Morue",
+        "class": "serie pg_292",
+        "parent": 84
+    },
+    {
+        "pk": 101,
+        "slug": "mostele",
+        "title": "Mostèle",
+        "class": "article pg_294",
+        "parent": 84
+    },
+    {
+        "pk": 102,
+        "slug": "mulet",
+        "title": "Mulet",
+        "class": "article pg_295",
+        "parent": 84
+    },
+    {
+        "pk": 103,
+        "slug": "nonats",
+        "title": "Nonats",
+        "class": "article pg_295",
+        "parent": 84
+    },
+    {
+        "pk": 104,
+        "slug": "poutine",
+        "title": "Poutine",
+        "class": "article pg_295",
+        "parent": 84
+    },
+    {
+        "pk": 105,
+        "slug": "raie",
+        "title": "Raie",
+        "class": "serie pg_295",
+        "parent": 84
+    },
+    {
+        "pk": 106,
+        "slug": "rougets",
+        "title": "Rougets",
+        "class": "serie pg_296",
+        "parent": 84
+    },
+    {
+        "pk": 107,
+        "slug": "saint-pierre",
+        "title": "Saint-Pierre",
+        "class": "article pg_298",
+        "parent": 84
+    },
+    {
+        "pk": 108,
+        "slug": "sardines-et-royans",
+        "title": "Sardines et Royans",
+        "class": "serie pg_298",
+        "parent": 84
+    },
+    {
+        "pk": 109,
+        "slug": "soles-et-filets-de-soles",
+        "title": "SOLES ET FILETS DE SOLES",
+        "class": "serie pg_301",
+        "parent": 84
+    },
+    {
+        "pk": 110,
+        "slug": "soles-entieres",
+        "title": "Soles entières",
+        "class": "serie pg_301",
+        "parent": 109
+    },
+    {
+        "pk": 111,
+        "slug": "filets-de-soles",
+        "title": "Filets de Soles",
+        "class": "serie pg_307",
+        "parent": 109
+    },
+    {
+        "pk": 112,
+        "slug": "stockfish",
+        "title": "Stockfish",
+        "class": "article pg_320",
+        "parent": 84
+    },
+    {
+        "pk": 113,
+        "slug": "thon",
+        "title": "Thon",
+        "class": "serie pg_320",
+        "parent": 84
+    },
+    {
+        "pk": 114,
+        "slug": "turbot",
+        "title": "Turbot",
+        "class": "serie pg_321",
+        "parent": 84
+    },
+    {
+        "pk": 115,
+        "slug": "turbotin",
+        "title": "Turbotin",
+        "class": "serie pg_323",
+        "parent": 84
+    },
+    {
+        "pk": 116,
+        "slug": "vive",
+        "title": "Vive",
+        "class": "article pg_325",
+        "parent": 84
+    },
+    {
+        "pk": 117,
+        "slug": "crustaces--mollusques-et-batraciens",
+        "title": "CRUSTACÉS, MOLLUSQUES ET BATRACIENS",
+        "class": "serie pg_326",
+        "parent": 49
+    },
+    {
+        "pk": 118,
+        "slug": "crevettes",
+        "title": "Crevettes",
+        "class": "serie pg_326",
+        "parent": 117
+    },
+    {
+        "pk": 119,
+        "slug": "ecrevisses",
+        "title": "Ecrevisses",
+        "class": "serie pg_326",
+        "parent": 117
+    },
+    {
+        "pk": 120,
+        "slug": "homard",
+        "title": "Homard",
+        "class": "serie pg_328",
+        "parent": 117
+    },
+    {
+        "pk": 121,
+        "slug": "langouste",
+        "title": "Langouste",
+        "class": "article pg_332",
+        "parent": 117
+    },
+    {
+        "pk": 122,
+        "slug": "langoustine",
+        "title": "Langoustine",
+        "class": "serie pg_332",
+        "parent": 117
+    },
+    {
+        "pk": 123,
+        "slug": "terrapene",
+        "title": "Terrapène",
+        "class": "serie pg_332",
+        "parent": 117
+    },
+    {
+        "pk": 124,
+        "slug": "tortue",
+        "title": "Tortue",
+        "class": "serie pg_333",
+        "parent": 117
+    },
+    {
+        "pk": 125,
+        "slug": "oursins",
+        "title": "Oursins",
+        "class": "serie pg_334",
+        "parent": 117
+    },
+    {
+        "pk": 126,
+        "slug": "huitres",
+        "title": "Huîtres",
+        "class": "article pg_334",
+        "parent": 117
+    },
+    {
+        "pk": 127,
+        "slug": "moules",
+        "title": "Moules",
+        "class": "serie pg_334",
+        "parent": 117
+    },
+    {
+        "pk": 128,
+        "slug": "escargots",
+        "title": "Escargots",
+        "class": "serie pg_335",
+        "parent": 117
+    },
+    {
+        "pk": 129,
+        "slug": "grenouilles",
+        "title": "Grenouilles",
+        "class": "serie pg_337",
+        "parent": 117
+    },
+    {
+        "pk": 130,
+        "slug": "releves-et-entrees",
+        "title": "RELEVÉS ET ENTRÉES",
+        "class": "chapter pg_337",
+        "parent": null
+    },
+    {
+        "pk": 131,
+        "slug": "viandes-de-boucherie",
+        "title": "VIANDES DE BOUCHERIE",
+        "class": "serie pg_337",
+        "parent": 130
+    },
+    {
+        "pk": 132,
+        "slug": "principes-generaux-de-conduite-des-braises",
+        "title": "Principes généraux de conduite des braisés",
+        "class": "article pg_338",
+        "parent": 131
+    },
+    {
+        "pk": 133,
+        "slug": "principes-generaux-de-conduite-des-sautes",
+        "title": "Principes généraux de conduite des sautés",
+        "class": "article pg_343",
+        "parent": 131
+    },
+    {
+        "pk": 134,
+        "slug": "principes-generaux-de-conduite-des-poches",
+        "title": "Principes généraux de conduite des pochés",
+        "class": "article pg_344",
+        "parent": 131
+    },
+    {
+        "pk": 135,
+        "slug": "considerations-sur-le-dressage",
+        "title": "Considérations sur le dressage",
+        "class": "article pg_345",
+        "parent": 131
+    },
+    {
+        "pk": 136,
+        "slug": "boeuf-",
+        "title": "BOEUF ",
+        "class": "serie pg_347",
+        "parent": 130
+    },
+    {
+        "pk": 137,
+        "slug": "aloyau",
+        "title": "Aloyau",
+        "class": "article pg_347",
+        "parent": 136
+    },
+    {
+        "pk": 138,
+        "slug": "amourettes-et-cervelle",
+        "title": "Amourettes et Cervelle",
+        "class": "article pg_347",
+        "parent": 136
+    },
+    {
+        "pk": 139,
+        "slug": "amourettes",
+        "title": "Amourettes",
+        "class": "serie pg_348",
+        "parent": 136
+    },
+    {
+        "pk": 140,
+        "slug": "cervelles",
+        "title": "Cervelles",
+        "class": "serie pg_349",
+        "parent": 136
+    },
+    {
+        "pk": 141,
+        "slug": "contrefilet",
+        "title": "Contrefilet",
+        "class": "article pg_352",
+        "parent": 136
+    },
+    {
+        "pk": 142,
+        "slug": "entrecote",
+        "title": "Entrecôte",
+        "class": "serie pg_352",
+        "parent": 136
+    },
+    {
+        "pk": 143,
+        "slug": "cote-de-boeuf-ou-train-de-cotes",
+        "title": "Côte de boeuf ou train de côtes",
+        "class": "article pg_354",
+        "parent": 136
+    },
+    {
+        "pk": 144,
+        "slug": "cotes-et-entrecotes-de-detail",
+        "title": "Côtes et entrecôtes de détail",
+        "class": "article pg_354",
+        "parent": 136
+    },
+    {
+        "pk": 145,
+        "slug": "culotte",
+        "title": "Culotte",
+        "class": "article pg_355",
+        "parent": 136
+    },
+    {
+        "pk": 146,
+        "slug": "hampes-ou-onglees",
+        "title": "Hampes ou onglées",
+        "class": "article pg_355",
+        "parent": 136
+    },
+    {
+        "pk": 147,
+        "slug": "filet-de-boeuf-et-derives",
+        "title": "Filet de boeuf et dérivés",
+        "class": "serie pg_355",
+        "parent": 136
+    },
+    {
+        "pk": 148,
+        "slug": "biftecks",
+        "title": "Biftecks",
+        "class": "serie pg_360",
+        "parent": 136
+    },
+    {
+        "pk": 149,
+        "slug": "bitokes",
+        "title": "Bitokes",
+        "class": "serie pg_361",
+        "parent": 136
+    },
+    {
+        "pk": 150,
+        "slug": "chateaubriand",
+        "title": "Châteaubriand",
+        "class": "article pg_361",
+        "parent": 136
+    },
+    {
+        "pk": 151,
+        "slug": "filets-de-detail",
+        "title": "Filets de détail",
+        "class": "article pg_362",
+        "parent": 136
+    },
+    {
+        "pk": 152,
+        "slug": "filets-mignons",
+        "title": "Filets mignons",
+        "class": "article pg_362",
+        "parent": 136
+    },
+    {
+        "pk": 153,
+        "slug": "filets-en-chevreuil",
+        "title": "Filets en chevreuil",
+        "class": "article pg_362",
+        "parent": 136
+    },
+    {
+        "pk": 154,
+        "slug": "keftedes",
+        "title": "Keftédès",
+        "class": "article pg_362",
+        "parent": 136
+    },
+    {
+        "pk": 155,
+        "slug": "tournedos-et-medaillons",
+        "title": "Tournedos et médaillons",
+        "class": "serie pg_363",
+        "parent": 136
+    },
+    {
+        "pk": 156,
+        "slug": "langue",
+        "title": "Langue",
+        "class": "serie pg_372",
+        "parent": 136
+    },
+    {
+        "pk": 157,
+        "slug": "museau",
+        "title": "Museau",
+        "class": "article pg_373",
+        "parent": 136
+    },
+    {
+        "pk": 158,
+        "slug": "palais",
+        "title": "Palais",
+        "class": "serie pg_373",
+        "parent": 136
+    },
+    {
+        "pk": 159,
+        "slug": "paleron",
+        "title": "Paleron",
+        "class": "article pg_374",
+        "parent": 136
+    },
+    {
+        "pk": 160,
+        "slug": "pointe-de-culotte",
+        "title": "Pointe de culotte",
+        "class": "serie pg_374",
+        "parent": 136
+    },
+    {
+        "pk": 161,
+        "slug": "plat-de-cote",
+        "title": "Plat-de-côte",
+        "class": "article pg_376",
+        "parent": 136
+    },
+    {
+        "pk": 162,
+        "slug": "poitrine",
+        "title": "Poitrine",
+        "class": "article pg_376",
+        "parent": 136
+    },
+    {
+        "pk": 163,
+        "slug": "queue",
+        "title": "Queue",
+        "class": "serie pg_376",
+        "parent": 136
+    },
+    {
+        "pk": 164,
+        "slug": "rognon",
+        "title": "Rognon",
+        "class": "serie pg_378",
+        "parent": 136
+    },
+    {
+        "pk": 165,
+        "slug": "tete-d-aloyau",
+        "title": "Tête d'aloyau",
+        "class": "serie pg_379",
+        "parent": 136
+    },
+    {
+        "pk": 166,
+        "slug": "tripes",
+        "title": "Tripes",
+        "class": "article pg_380",
+        "parent": 136
+    },
+    {
+        "pk": 167,
+        "slug": "gras-double",
+        "title": "Gras-double",
+        "class": "serie pg_380",
+        "parent": 136
+    },
+    {
+        "pk": 168,
+        "slug": "tripes-a-la-mode-de-caen",
+        "title": "Tripes a la mode de Caen",
+        "class": "article pg_381",
+        "parent": 136
+    },
+    {
+        "pk": 169,
+        "slug": "preparations-diverses-du-boeuf",
+        "title": "PRÉPARATIONS DIVERSES DU BOEUF",
+        "class": "serie pg_383",
+        "parent": 136
+    },
+    {
+        "pk": 170,
+        "slug": "beefsteack-pies-et-puddings-a-l-anglaise",
+        "title": "Beefsteack-pies et puddings à l'anglaise",
+        "class": "serie pg_383",
+        "parent": 169
+    },
+    {
+        "pk": 171,
+        "slug": "carbonades",
+        "title": "Carbonades",
+        "class": "article pg_384",
+        "parent": 169
+    },
+    {
+        "pk": 172,
+        "slug": "choesels",
+        "title": "Choesels",
+        "class": "article pg_384",
+        "parent": 169
+    },
+    {
+        "pk": 173,
+        "slug": "daube",
+        "title": "Daube",
+        "class": "serie pg_385",
+        "parent": 169
+    },
+    {
+        "pk": 174,
+        "slug": "eminces",
+        "title": "Emincés",
+        "class": "serie pg_386",
+        "parent": 169
+    },
+    {
+        "pk": 175,
+        "slug": "estouffade",
+        "title": "Estouffade",
+        "class": "serie pg_386",
+        "parent": 169
+    },
+    {
+        "pk": 176,
+        "slug": "fricadelles",
+        "title": "Fricadelles",
+        "class": "serie pg_387",
+        "parent": 169
+    },
+    {
+        "pk": 177,
+        "slug": "goulash-et-sautes",
+        "title": "Goulash et sautés",
+        "class": "serie pg_388",
+        "parent": 169
+    },
+    {
+        "pk": 178,
+        "slug": "hachis",
+        "title": "Hachis",
+        "class": "serie pg_389",
+        "parent": 169
+    },
+    {
+        "pk": 179,
+        "slug": "paupiettes",
+        "title": "Paupiettes",
+        "class": "serie pg_390",
+        "parent": 169
+    },
+    {
+        "pk": 180,
+        "slug": "sale-et-fume-(boeuf)",
+        "title": "Salé et fumé (Boeuf)",
+        "class": "serie pg_390",
+        "parent": 169
+    },
+    {
+        "pk": 181,
+        "slug": "veau-",
+        "title": "VEAU ",
+        "class": "serie pg_391",
+        "parent": 130
+    },
+    {
+        "pk": 182,
+        "slug": "amourettes-et-cervelles",
+        "title": "Amourettes et Cervelles",
+        "class": "serie pg_391",
+        "parent": 181
+    },
+    {
+        "pk": 183,
+        "slug": "carre",
+        "title": "Carré",
+        "class": "article pg_392",
+        "parent": 181
+    },
+    {
+        "pk": 184,
+        "slug": "coeur",
+        "title": "Coeur",
+        "class": "serie pg_392",
+        "parent": 181
+    },
+    {
+        "pk": 185,
+        "slug": "cotes",
+        "title": "Côtes",
+        "class": "serie pg_393",
+        "parent": 181
+    },
+    {
+        "pk": 186,
+        "slug": "epaule",
+        "title": "Epaule",
+        "class": "serie pg_396",
+        "parent": 181
+    },
+    {
+        "pk": 187,
+        "slug": "filet",
+        "title": "Filet",
+        "class": "serie pg_396",
+        "parent": 181
+    },
+    {
+        "pk": 188,
+        "slug": "foie",
+        "title": "Foie",
+        "class": "serie pg_397",
+        "parent": 181
+    },
+    {
+        "pk": 189,
+        "slug": "fraise",
+        "title": "Fraise",
+        "class": "serie pg_399",
+        "parent": 181
+    },
+    {
+        "pk": 190,
+        "slug": "jarrets",
+        "title": "Jarrets",
+        "class": "serie pg_400",
+        "parent": 181
+    },
+    {
+        "pk": 191,
+        "slug": "langues",
+        "title": "Langues",
+        "class": "serie pg_400",
+        "parent": 181
+    },
+    {
+        "pk": 192,
+        "slug": "longe",
+        "title": "Longe",
+        "class": "article pg_401",
+        "parent": 181
+    },
+    {
+        "pk": 193,
+        "slug": "mou",
+        "title": "Mou",
+        "class": "serie pg_402",
+        "parent": 181
+    },
+    {
+        "pk": 194,
+        "slug": "noix-de-veau",
+        "title": "Noix de veau",
+        "class": "serie pg_402",
+        "parent": 181
+    },
+    {
+        "pk": 195,
+        "slug": "escalopes",
+        "title": "Escalopes",
+        "class": "serie pg_404",
+        "parent": 181
+    },
+    {
+        "pk": 196,
+        "slug": "fricandeau",
+        "title": "Fricandeau",
+        "class": "article pg_405",
+        "parent": 181
+    },
+    {
+        "pk": 197,
+        "slug": "grenadins",
+        "title": "Grenadins",
+        "class": "article pg_405",
+        "parent": 181
+    },
+    {
+        "pk": 198,
+        "slug": "medaillons-et-noisettes",
+        "title": "Médaillons et Noisettes",
+        "class": "serie pg_406",
+        "parent": 181
+    },
+    {
+        "pk": 199,
+        "slug": "oreilles",
+        "title": "Oreilles",
+        "class": "serie pg_406",
+        "parent": 181
+    },
+    {
+        "pk": 200,
+        "slug": "paupiettes",
+        "title": "Paupiettes",
+        "class": "serie pg_406",
+        "parent": 181
+    },
+    {
+        "pk": 201,
+        "slug": "pieds",
+        "title": "Pieds",
+        "class": "serie pg_408",
+        "parent": 181
+    },
+    {
+        "pk": 202,
+        "slug": "poitrine",
+        "title": "Poitrine",
+        "class": "serie pg_408",
+        "parent": 181
+    },
+    {
+        "pk": 203,
+        "slug": "tendrons",
+        "title": "Tendrons",
+        "class": "serie pg_409",
+        "parent": 181
+    },
+    {
+        "pk": 204,
+        "slug": "quasi-et-rouelle",
+        "title": "Quasi et rouelle",
+        "class": "article pg_410",
+        "parent": 181
+    },
+    {
+        "pk": 205,
+        "slug": "ris",
+        "title": "Ris",
+        "class": "serie pg_410",
+        "parent": 181
+    },
+    {
+        "pk": 206,
+        "slug": "rognons",
+        "title": "Rognons",
+        "class": "serie pg_415",
+        "parent": 181
+    },
+    {
+        "pk": 207,
+        "slug": "selle",
+        "title": "Selle",
+        "class": "serie pg_417",
+        "parent": 181
+    },
+    {
+        "pk": 208,
+        "slug": "tete",
+        "title": "Tête",
+        "class": "serie pg_419",
+        "parent": 181
+    },
+    {
+        "pk": 209,
+        "slug": "tetine",
+        "title": "Tétine",
+        "class": "article pg_421",
+        "parent": 181
+    },
+    {
+        "pk": 210,
+        "slug": "preparations-diverses-du-veau",
+        "title": "PRÉPARATIONS DIVERSES DU VEAU",
+        "class": "serie pg_421",
+        "parent": 181
+    },
+    {
+        "pk": 211,
+        "slug": "blanquette",
+        "title": "Blanquette",
+        "class": "serie pg_421",
+        "parent": 210
+    },
+    {
+        "pk": 212,
+        "slug": "fricadelles",
+        "title": "Fricadelles",
+        "class": "article pg_422",
+        "parent": 210
+    },
+    {
+        "pk": 213,
+        "slug": "fricassee",
+        "title": "Fricassée",
+        "class": "article pg_422",
+        "parent": 210
+    },
+    {
+        "pk": 214,
+        "slug": "matelote",
+        "title": "Matelote",
+        "class": "article pg_422",
+        "parent": 210
+    },
+    {
+        "pk": 215,
+        "slug": "pain-de-veau",
+        "title": "Pain de veau",
+        "class": "article pg_423",
+        "parent": 210
+    },
+    {
+        "pk": 216,
+        "slug": "sautes",
+        "title": "Sautés",
+        "class": "serie pg_423",
+        "parent": 210
+    },
+    {
+        "pk": 217,
+        "slug": "mouton-",
+        "title": "MOUTON ",
+        "class": "serie pg_425",
+        "parent": 130
+    },
+    {
+        "pk": 218,
+        "slug": "animelles",
+        "title": "Animelles",
+        "class": "serie pg_425",
+        "parent": 217
+    },
+    {
+        "pk": 219,
+        "slug": "baron-et-double",
+        "title": "Baron et Double",
+        "class": "article pg_425",
+        "parent": 217
+    },
+    {
+        "pk": 220,
+        "slug": "cervelles",
+        "title": "Cervelles",
+        "class": "article pg_426",
+        "parent": 217
+    },
+    {
+        "pk": 221,
+        "slug": "cotelettes",
+        "title": "Côtelettes",
+        "class": "serie pg_426",
+        "parent": 217
+    },
+    {
+        "pk": 222,
+        "slug": "epaule",
+        "title": "Epaule",
+        "class": "serie pg_429",
+        "parent": 217
+    },
+    {
+        "pk": 223,
+        "slug": "gigots",
+        "title": "Gigots",
+        "class": "serie pg_430",
+        "parent": 217
+    },
+    {
+        "pk": 224,
+        "slug": "langues",
+        "title": "Langues",
+        "class": "article pg_431",
+        "parent": 217
+    },
+    {
+        "pk": 225,
+        "slug": "pieds",
+        "title": "Pieds",
+        "class": "serie pg_431",
+        "parent": 217
+    },
+    {
+        "pk": 226,
+        "slug": "poitrine",
+        "title": "Poitrine",
+        "class": "serie pg_432",
+        "parent": 217
+    },
+    {
+        "pk": 227,
+        "slug": "rognons",
+        "title": "Rognons",
+        "class": "serie pg_432",
+        "parent": 217
+    },
+    {
+        "pk": 228,
+        "slug": "selle",
+        "title": "Selle",
+        "class": "serie pg_435",
+        "parent": 217
+    },
+    {
+        "pk": 229,
+        "slug": "filets-mignons",
+        "title": "Filets mignons",
+        "class": "article pg_436",
+        "parent": 217
+    },
+    {
+        "pk": 230,
+        "slug": "noisettes",
+        "title": "Noisettes",
+        "class": "article pg_436",
+        "parent": 217
+    },
+    {
+        "pk": 231,
+        "slug": "cassoulet",
+        "title": "Cassoulet",
+        "class": "article pg_436",
+        "parent": 217
+    },
+    {
+        "pk": 232,
+        "slug": "currie-a-l-indienne",
+        "title": "Currie à l'Indienne",
+        "class": "article pg_437",
+        "parent": 217
+    },
+    {
+        "pk": 233,
+        "slug": "daube-a-l-avignonnaise",
+        "title": "Daube à l'Avignonnaise",
+        "class": "serie pg_437",
+        "parent": 217
+    },
+    {
+        "pk": 234,
+        "slug": "eminces-et-hachis",
+        "title": "Emincés et Hachis",
+        "class": "article pg_437",
+        "parent": 217
+    },
+    {
+        "pk": 235,
+        "slug": "epigramme",
+        "title": "Epigramme",
+        "class": "article pg_438",
+        "parent": 217
+    },
+    {
+        "pk": 236,
+        "slug": "haricot-de-mouton",
+        "title": "Haricot de mouton",
+        "class": "article pg_438",
+        "parent": 217
+    },
+    {
+        "pk": 237,
+        "slug": "irish-stew",
+        "title": "Irish-Stew",
+        "class": "article pg_438",
+        "parent": 217
+    },
+    {
+        "pk": 238,
+        "slug": "moussaka",
+        "title": "Moussaka",
+        "class": "article pg_439",
+        "parent": 217
+    },
+    {
+        "pk": 239,
+        "slug": "mutton-pie",
+        "title": "Mutton-pie",
+        "class": "article pg_439",
+        "parent": 217
+    },
+    {
+        "pk": 240,
+        "slug": "navarin",
+        "title": "Navarin",
+        "class": "serie pg_439",
+        "parent": 217
+    },
+    {
+        "pk": 241,
+        "slug": "pilaw-a-la-turque",
+        "title": "Pilaw à la Turque",
+        "class": "article pg_440",
+        "parent": 217
+    },
+    {
+        "pk": 242,
+        "slug": "ragout-(de)-au-riz",
+        "title": "Ragoût (de) au riz",
+        "class": "article pg_440",
+        "parent": 217
+    },
+    {
+        "pk": 243,
+        "slug": "agneau-de-lait",
+        "title": "AGNEAU DE LAIT",
+        "class": "serie pg_440",
+        "parent": 130
+    },
+    {
+        "pk": 244,
+        "slug": "baron-et-double",
+        "title": "Baron et Double",
+        "class": "article pg_441",
+        "parent": 243
+    },
+    {
+        "pk": 245,
+        "slug": "cervelles",
+        "title": "Cervelles",
+        "class": "article pg_441",
+        "parent": 243
+    },
+    {
+        "pk": 246,
+        "slug": "carres",
+        "title": "Carrés",
+        "class": "serie pg_441",
+        "parent": 243
+    },
+    {
+        "pk": 247,
+        "slug": "cotelettes",
+        "title": "Côtelettes",
+        "class": "serie pg_443",
+        "parent": 243
+    },
+    {
+        "pk": 248,
+        "slug": "epaules",
+        "title": "Epaules",
+        "class": "serie pg_447",
+        "parent": 243
+    },
+    {
+        "pk": 249,
+        "slug": "gigot",
+        "title": "Gigot",
+        "class": "serie pg_447",
+        "parent": 243
+    },
+    {
+        "pk": 250,
+        "slug": "langues-et-pieds",
+        "title": "Langues et pieds",
+        "class": "article pg_448",
+        "parent": 243
+    },
+    {
+        "pk": 251,
+        "slug": "poitrine",
+        "title": "Poitrine",
+        "class": "article pg_448",
+        "parent": 243
+    },
+    {
+        "pk": 252,
+        "slug": "ris",
+        "title": "Ris",
+        "class": "article pg_448",
+        "parent": 243
+    },
+    {
+        "pk": 253,
+        "slug": "selle",
+        "title": "Selle",
+        "class": "serie pg_449",
+        "parent": 243
+    },
+    {
+        "pk": 254,
+        "slug": "noisettes",
+        "title": "Noisettes",
+        "class": "article pg_449",
+        "parent": 243
+    },
+    {
+        "pk": 255,
+        "slug": "quartier",
+        "title": "Quartier",
+        "class": "article pg_449",
+        "parent": 243
+    },
+    {
+        "pk": 256,
+        "slug": "preparations-diverses-de-l-agneau",
+        "title": "Préparations diverses de l'agneau",
+        "class": "serie pg_450",
+        "parent": 243
+    },
+    {
+        "pk": 257,
+        "slug": "blanquette",
+        "title": "Blanquette",
+        "class": "article pg_450",
+        "parent": 256
+    },
+    {
+        "pk": 258,
+        "slug": "crepinettes",
+        "title": "Crépinettes",
+        "class": "article pg_450",
+        "parent": 256
+    },
+    {
+        "pk": 259,
+        "slug": "currie",
+        "title": "Currie",
+        "class": "article pg_450",
+        "parent": 256
+    },
+    {
+        "pk": 260,
+        "slug": "eminces-et-hachis",
+        "title": "Emincés et Hachis",
+        "class": "article pg_450",
+        "parent": 256
+    },
+    {
+        "pk": 261,
+        "slug": "epigrammes",
+        "title": "Epigrammes",
+        "class": "article pg_450",
+        "parent": 256
+    },
+    {
+        "pk": 262,
+        "slug": "irish-stew-et-pilaw-a-la-turque-sautes",
+        "title": "Irish-stew et Pilaw à la turque sautés",
+        "class": "serie pg_451",
+        "parent": 256
+    },
+    {
+        "pk": 263,
+        "slug": "porc-",
+        "title": "PORC ",
+        "class": "serie pg_452",
+        "parent": 130
+    },
+    {
+        "pk": 264,
+        "slug": "carre",
+        "title": "Carré",
+        "class": "serie pg_452",
+        "parent": 263
+    },
+    {
+        "pk": 265,
+        "slug": "cervelles",
+        "title": "Cervelles",
+        "class": "article pg_453",
+        "parent": 263
+    },
+    {
+        "pk": 266,
+        "slug": "cotes",
+        "title": "Côtes",
+        "class": "serie pg_453",
+        "parent": 263
+    },
+    {
+        "pk": 267,
+        "slug": "echinee",
+        "title": "Echinée",
+        "class": "article pg_453",
+        "parent": 263
+    },
+    {
+        "pk": 268,
+        "slug": "epaule",
+        "title": "Epaule",
+        "class": "article pg_454",
+        "parent": 263
+    },
+    {
+        "pk": 269,
+        "slug": "filet",
+        "title": "Filet",
+        "class": "article pg_454",
+        "parent": 263
+    },
+    {
+        "pk": 270,
+        "slug": "foie",
+        "title": "Foie",
+        "class": "article pg_454",
+        "parent": 263
+    },
+    {
+        "pk": 271,
+        "slug": "jambe-farcie-ou-zampino",
+        "title": "Jambe farcie ou Zampino",
+        "class": "article pg_454",
+        "parent": 263
+    },
+    {
+        "pk": 272,
+        "slug": "jambon",
+        "title": "Jambon",
+        "class": "serie pg_454",
+        "parent": 263
+    },
+    {
+        "pk": 273,
+        "slug": "jambonneau",
+        "title": "Jambonneau",
+        "class": "article pg_457",
+        "parent": 263
+    },
+    {
+        "pk": 274,
+        "slug": "sur-les-mousses-et--les-mousselines",
+        "title": "Sur les Mousses et  les Mousselines",
+        "class": "article pg_457",
+        "parent": 263
+    },
+    {
+        "pk": 275,
+        "slug": "mousselines",
+        "title": "Mousselines",
+        "class": "serie pg_457",
+        "parent": 263
+    },
+    {
+        "pk": 276,
+        "slug": "souffles",
+        "title": "Soufflés",
+        "class": "serie pg_458",
+        "parent": 263
+    },
+    {
+        "pk": 277,
+        "slug": "langues",
+        "title": "Langues",
+        "class": "article pg_459",
+        "parent": 263
+    },
+    {
+        "pk": 278,
+        "slug": "oreilles",
+        "title": "Oreilles",
+        "class": "serie pg_460",
+        "parent": 263
+    },
+    {
+        "pk": 279,
+        "slug": "pieds",
+        "title": "Pieds",
+        "class": "serie pg_460",
+        "parent": 263
+    },
+    {
+        "pk": 280,
+        "slug": "queues",
+        "title": "Queues",
+        "class": "article pg_461",
+        "parent": 263
+    },
+    {
+        "pk": 281,
+        "slug": "rognons",
+        "title": "Rognons",
+        "class": "article pg_461",
+        "parent": 263
+    },
+    {
+        "pk": 282,
+        "slug": "tete",
+        "title": "Tête",
+        "class": "article pg_461",
+        "parent": 263
+    },
+    {
+        "pk": 283,
+        "slug": "preparations-diverses-du-porc",
+        "title": "PRÉPARATIONS DIVERSES DU PORC",
+        "class": "serie pg_461",
+        "parent": 263
+    },
+    {
+        "pk": 284,
+        "slug": "andouilles-et-andouillettes",
+        "title": "Andouilles et Andouillettes",
+        "class": "serie pg_461",
+        "parent": 283
+    },
+    {
+        "pk": 285,
+        "slug": "boudins-blancs-et-noirs",
+        "title": "Boudins blancs et noirs",
+        "class": "serie pg_462",
+        "parent": 283
+    },
+    {
+        "pk": 286,
+        "slug": "carbonades",
+        "title": "Carbonades",
+        "class": "article pg_463",
+        "parent": 283
+    },
+    {
+        "pk": 287,
+        "slug": "crepinettes",
+        "title": "Crépinettes",
+        "class": "serie pg_463",
+        "parent": 283
+    },
+    {
+        "pk": 288,
+        "slug": "eminces-et-hachis",
+        "title": "Emincés et Hachis",
+        "class": "article pg_464",
+        "parent": 283
+    },
+    {
+        "pk": 289,
+        "slug": "fricadelles",
+        "title": "Fricadelles",
+        "class": "article pg_464",
+        "parent": 283
+    },
+    {
+        "pk": 290,
+        "slug": "gayettes",
+        "title": "Gayettes",
+        "class": "article pg_464",
+        "parent": 283
+    },
+    {
+        "pk": 291,
+        "slug": "pate-a-l-anglaise",
+        "title": "Pâté à l'Anglaise",
+        "class": "article pg_465",
+        "parent": 283
+    },
+    {
+        "pk": 292,
+        "slug": "petit-sale",
+        "title": "Petit salé",
+        "class": "article pg_465",
+        "parent": 283
+    },
+    {
+        "pk": 293,
+        "slug": "porc-bouilli-a-l-anglaise",
+        "title": "Porc bouilli à l'Anglaise",
+        "class": "article pg_465",
+        "parent": 283
+    },
+    {
+        "pk": 294,
+        "slug": "saucisses",
+        "title": "Saucisses",
+        "class": "article pg_466",
+        "parent": 283
+    },
+    {
+        "pk": 295,
+        "slug": "cochon-de-lait",
+        "title": "Cochon de lait",
+        "class": "serie pg_467",
+        "parent": 283
+    },
+    {
+        "pk": 296,
+        "slug": "releves-et-entrees-de-volaille",
+        "title": "RELEVÉS ET ENTRÉES DE VOLAILLE",
+        "class": "chapter pg_468",
+        "parent": null
+    },
+    {
+        "pk": 297,
+        "slug": "poulardes-entieres",
+        "title": "Poulardes entières",
+        "class": "serie pg_469",
+        "parent": 296
+    },
+    {
+        "pk": 298,
+        "slug": "filets--supremes--cotelettes",
+        "title": "Filets, Suprêmes, Côtelettes",
+        "class": "serie pg_485",
+        "parent": 296
+    },
+    {
+        "pk": 299,
+        "slug": "poulets-sautes",
+        "title": "Poulets sautés",
+        "class": "serie pg_491",
+        "parent": 296
+    },
+    {
+        "pk": 300,
+        "slug": "poulets-grilles-en-cocotte-et-poeles",
+        "title": "Poulets grillés en cocotte et poêlés",
+        "class": "serie pg_501",
+        "parent": 296
+    },
+    {
+        "pk": 301,
+        "slug": "poussins",
+        "title": "Poussins",
+        "class": "serie pg_504",
+        "parent": 296
+    },
+    {
+        "pk": 302,
+        "slug": "preparations-diverses-de-la-volaille",
+        "title": "Préparations diverses de la Volaille",
+        "class": "serie pg_505",
+        "parent": 296
+    },
+    {
+        "pk": 303,
+        "slug": "abatis",
+        "title": "Abatis",
+        "class": "serie pg_505",
+        "parent": 302
+    },
+    {
+        "pk": 304,
+        "slug": "ailerons",
+        "title": "Ailerons",
+        "class": "article pg_506",
+        "parent": 302
+    },
+    {
+        "pk": 305,
+        "slug": "ballotines-et-jambonneaux",
+        "title": "Ballotines et jambonneaux",
+        "class": "article pg_507",
+        "parent": 302
+    },
+    {
+        "pk": 306,
+        "slug": "boudins-de-volaille-et-quenelles",
+        "title": "Boudins de volaille et quenelles",
+        "class": "article pg_508",
+        "parent": 302
+    },
+    {
+        "pk": 307,
+        "slug": "blanquette-de-volaille",
+        "title": "Blanquette de volaille",
+        "class": "article pg_508",
+        "parent": 302
+    },
+    {
+        "pk": 308,
+        "slug": "capilotade",
+        "title": "Capilotade",
+        "class": "article pg_509",
+        "parent": 302
+    },
+    {
+        "pk": 309,
+        "slug": "chicken-pie",
+        "title": "Chicken-Pie",
+        "class": "article pg_509",
+        "parent": 302
+    },
+    {
+        "pk": 310,
+        "slug": "coquilles-de-volaille",
+        "title": "Coquilles de volaille",
+        "class": "serie pg_509",
+        "parent": 302
+    },
+    {
+        "pk": 311,
+        "slug": "cotelettes",
+        "title": "Côtelettes",
+        "class": "article pg_510",
+        "parent": 302
+    },
+    {
+        "pk": 312,
+        "slug": "crepinettes",
+        "title": "Crépinettes",
+        "class": "article pg_510",
+        "parent": 302
+    },
+    {
+        "pk": 313,
+        "slug": "crete-et-rognons",
+        "title": "Crête et rognons",
+        "class": "article pg_510",
+        "parent": 302
+    },
+    {
+        "pk": 314,
+        "slug": "cromesquis-et-croquettes",
+        "title": "Cromesquis et croquettes",
+        "class": "article pg_511",
+        "parent": 302
+    },
+    {
+        "pk": 315,
+        "slug": "escalopes-et-grenadins",
+        "title": "Escalopes et grenadins",
+        "class": "article pg_511",
+        "parent": 302
+    },
+    {
+        "pk": 316,
+        "slug": "eminces",
+        "title": "Émincés",
+        "class": "serie pg_511",
+        "parent": 302
+    },
+    {
+        "pk": 317,
+        "slug": "foies-de-volaille",
+        "title": "Foies de volaille",
+        "class": "article pg_511",
+        "parent": 302
+    },
+    {
+        "pk": 318,
+        "slug": "fricassee",
+        "title": "Fricassée",
+        "class": "serie pg_511",
+        "parent": 302
+    },
+    {
+        "pk": 319,
+        "slug": "fritot-ou-marinade",
+        "title": "Fritot ou marinade",
+        "class": "serie pg_512",
+        "parent": 302
+    },
+    {
+        "pk": 320,
+        "slug": "mazagran",
+        "title": "Mazagran",
+        "class": "article pg_513",
+        "parent": 302
+    },
+    {
+        "pk": 321,
+        "slug": "mousses-et-mousselines-de-volaille",
+        "title": "Mousses et mousselines de volaille",
+        "class": "serie pg_513",
+        "parent": 302
+    },
+    {
+        "pk": 322,
+        "slug": "pilafs-de-volaille",
+        "title": "Pilafs de volaille",
+        "class": "serie pg_513",
+        "parent": 302
+    },
+    {
+        "pk": 323,
+        "slug": "souffles-de-volaille",
+        "title": "Soufflés de volaille",
+        "class": "serie pg_514",
+        "parent": 302
+    },
+    {
+        "pk": 324,
+        "slug": "dindonneau",
+        "title": "Dindonneau",
+        "class": "serie pg_515",
+        "parent": 302
+    },
+    {
+        "pk": 325,
+        "slug": "pigeons-et-pigeonneaux",
+        "title": "Pigeons et Pigeonneaux",
+        "class": "serie pg_517",
+        "parent": 302
+    },
+    {
+        "pk": 326,
+        "slug": "pintade",
+        "title": "Pintade",
+        "class": "serie pg_521",
+        "parent": 302
+    },
+    {
+        "pk": 327,
+        "slug": "oie",
+        "title": "Oie",
+        "class": "serie pg_522",
+        "parent": 302
+    },
+    {
+        "pk": 328,
+        "slug": "canards-et-canetons",
+        "title": "Canards et canetons",
+        "class": "serie pg_524",
+        "parent": 302
+    },
+    {
+        "pk": 329,
+        "slug": "canards-nantais",
+        "title": "Canards Nantais",
+        "class": "serie pg_524",
+        "parent": 328
+    },
+    {
+        "pk": 330,
+        "slug": "caneton-rouennais",
+        "title": "Caneton Rouennais",
+        "class": "serie pg_527",
+        "parent": 328
+    },
+    {
+        "pk": 331,
+        "slug": "foies-gras",
+        "title": "Foies Gras",
+        "class": "serie pg_530",
+        "parent": 302
+    },
+    {
+        "pk": 332,
+        "slug": "gibier",
+        "title": "GIBIER",
+        "class": "chapter pg_534",
+        "parent": null
+    },
+    {
+        "pk": 333,
+        "slug": "gibiers-a-poil",
+        "title": "GIBIERS À POIL",
+        "class": "serie pg_534",
+        "parent": 332
+    },
+    {
+        "pk": 334,
+        "slug": "chevreuil",
+        "title": "Chevreuil",
+        "class": "serie pg_534",
+        "parent": 333
+    },
+    {
+        "pk": 335,
+        "slug": "civet",
+        "title": "Civet",
+        "class": "article pg_534",
+        "parent": 334
+    },
+    {
+        "pk": 336,
+        "slug": "cotelettes",
+        "title": "Côtelettes",
+        "class": "serie pg_535",
+        "parent": 334
+    },
+    {
+        "pk": 337,
+        "slug": "cuissot",
+        "title": "Cuissot",
+        "class": "article pg_536",
+        "parent": 334
+    },
+    {
+        "pk": 338,
+        "slug": "filets-mignons",
+        "title": "Filets mignons",
+        "class": "serie pg_536",
+        "parent": 334
+    },
+    {
+        "pk": 339,
+        "slug": "noisettes",
+        "title": "Noisettes",
+        "class": "serie pg_536",
+        "parent": 334
+    },
+    {
+        "pk": 340,
+        "slug": "selle-ou-cimier",
+        "title": "Selle ou cimier",
+        "class": "serie pg_537",
+        "parent": 334
+    },
+    {
+        "pk": 341,
+        "slug": "sanglier-et-marcassin",
+        "title": "Sanglier et Marcassin",
+        "class": "serie pg_538",
+        "parent": 333
+    },
+    {
+        "pk": 342,
+        "slug": "lievre",
+        "title": "Lièvre",
+        "class": "serie pg_539",
+        "parent": 333
+    },
+    {
+        "pk": 343,
+        "slug": "lapin-de-choux-et-garennes",
+        "title": "Lapin de choux et garennes",
+        "class": "serie pg_544",
+        "parent": 333
+    },
+    {
+        "pk": 344,
+        "slug": "gibiers-a-plume",
+        "title": "GIBIERS À PLUME",
+        "class": "serie pg_546",
+        "parent": 332
+    },
+    {
+        "pk": 345,
+        "slug": "faisan",
+        "title": "Faisan",
+        "class": "serie pg_546",
+        "parent": 344
+    },
+    {
+        "pk": 346,
+        "slug": "coq-de-bruyere-et-derives",
+        "title": "Coq de Bruyère et dérivés",
+        "class": "article pg_550",
+        "parent": 344
+    },
+    {
+        "pk": 347,
+        "slug": "perdreaux-et-perdrix",
+        "title": "Perdreaux et Perdrix",
+        "class": "serie pg_551",
+        "parent": 344
+    },
+    {
+        "pk": 348,
+        "slug": "rale-de-genet",
+        "title": "Râle de Genêt",
+        "class": "article pg_554",
+        "parent": 344
+    },
+    {
+        "pk": 349,
+        "slug": "cailles",
+        "title": "Cailles",
+        "class": "serie pg_554",
+        "parent": 344
+    },
+    {
+        "pk": 350,
+        "slug": "grives-et-merles",
+        "title": "Grives et Merles",
+        "class": "serie pg_558",
+        "parent": 344
+    },
+    {
+        "pk": 351,
+        "slug": "alouettes-ou-mauviette",
+        "title": "Alouettes ou Mauviette",
+        "class": "serie pg_559",
+        "parent": 344
+    },
+    {
+        "pk": 352,
+        "slug": "ortolans",
+        "title": "Ortolans",
+        "class": "serie pg_560",
+        "parent": 344
+    },
+    {
+        "pk": 353,
+        "slug": "bec-figues-et-beguinettes",
+        "title": "Bec-Figues et béguinettes",
+        "class": "serie pg_561",
+        "parent": 344
+    },
+    {
+        "pk": 354,
+        "slug": "becasses-et-becassines",
+        "title": "Bécasses et bécassines",
+        "class": "serie pg_562",
+        "parent": 344
+    },
+    {
+        "pk": 355,
+        "slug": "pluviers-et-vanneaux",
+        "title": "Pluviers et vanneaux",
+        "class": "article pg_564",
+        "parent": 344
+    },
+    {
+        "pk": 356,
+        "slug": "canard-sauvages",
+        "title": "Canard sauvages",
+        "class": "article pg_564",
+        "parent": 344
+    },
+    {
+        "pk": 357,
+        "slug": "entrees-mixtes",
+        "title": "ENTRÉES MIXTES",
+        "class": "chapter pg_565",
+        "parent": null
+    },
+    {
+        "pk": 358,
+        "slug": "pates-chauds",
+        "title": "Pâtés chauds",
+        "class": "serie pg_566",
+        "parent": 357
+    },
+    {
+        "pk": 359,
+        "slug": "timbales",
+        "title": "Timbales",
+        "class": "serie pg_570",
+        "parent": 357
+    },
+    {
+        "pk": 360,
+        "slug": "tourtes-et-vol-au-vent",
+        "title": "Tourtes et Vol-au-Vent",
+        "class": "serie pg_577",
+        "parent": 357
+    },
+    {
+        "pk": 361,
+        "slug": "froid",
+        "title": "FROID",
+        "class": "chapter pg_579",
+        "parent": null
+    },
+    {
+        "pk": 362,
+        "slug": "aspics",
+        "title": "Aspics",
+        "class": "article pg_579",
+        "parent": 361
+    },
+    {
+        "pk": 363,
+        "slug": "chaud-froids",
+        "title": "Chaud-froids",
+        "class": "article pg_580",
+        "parent": 361
+    },
+    {
+        "pk": 364,
+        "slug": "mousses",
+        "title": "Mousses",
+        "class": "article pg_580",
+        "parent": 361
+    },
+    {
+        "pk": 365,
+        "slug": "mousselines-froides",
+        "title": "Mousselines froides",
+        "class": "article pg_580",
+        "parent": 361
+    },
+    {
+        "pk": 366,
+        "slug": "pains-froids",
+        "title": "Pains froids",
+        "class": "article pg_580",
+        "parent": 361
+    },
+    {
+        "pk": 367,
+        "slug": "poissons-et-crustaces",
+        "title": "Poissons et crustacés",
+        "class": "serie pg_583",
+        "parent": 361
+    },
+    {
+        "pk": 368,
+        "slug": "carpe",
+        "title": "CARPE",
+        "class": "serie pg_583",
+        "parent": 367
+    },
+    {
+        "pk": 369,
+        "slug": "crabe",
+        "title": "CRABE",
+        "class": "serie pg_583",
+        "parent": 367
+    },
+    {
+        "pk": 370,
+        "slug": "crevettes",
+        "title": "CREVETTES",
+        "class": "serie pg_583",
+        "parent": 367
+    },
+    {
+        "pk": 371,
+        "slug": "ecrevisse",
+        "title": "ECREVISSE",
+        "class": "serie pg_584",
+        "parent": 367
+    },
+    {
+        "pk": 372,
+        "slug": "homard",
+        "title": "HOMARD",
+        "class": "serie pg_584",
+        "parent": 367
+    },
+    {
+        "pk": 373,
+        "slug": "langouste",
+        "title": "LANGOUSTE",
+        "class": "serie pg_585",
+        "parent": 367
+    },
+    {
+        "pk": 374,
+        "slug": "rougets",
+        "title": "ROUGETS",
+        "class": "serie pg_587",
+        "parent": 367
+    },
+    {
+        "pk": 375,
+        "slug": "saumon",
+        "title": "SAUMON",
+        "class": "serie pg_587",
+        "parent": 367
+    },
+    {
+        "pk": 376,
+        "slug": "soles",
+        "title": "SOLES",
+        "class": "serie pg_588",
+        "parent": 367
+    },
+    {
+        "pk": 377,
+        "slug": "truite",
+        "title": "TRUITE",
+        "class": "serie pg_589",
+        "parent": 367
+    },
+    {
+        "pk": 378,
+        "slug": "turbot",
+        "title": "TURBOT",
+        "class": "serie pg_590",
+        "parent": 367
+    },
+    {
+        "pk": 379,
+        "slug": "grenouilles",
+        "title": "GRENOUILLES",
+        "class": "serie pg_590",
+        "parent": 367
+    },
+    {
+        "pk": 380,
+        "slug": "viandes-de-boucherie",
+        "title": "Viandes de boucherie",
+        "class": "serie pg_591",
+        "parent": 361
+    },
+    {
+        "pk": 381,
+        "slug": "boeuf",
+        "title": "BOEUF",
+        "class": "serie pg_591",
+        "parent": 380
+    },
+    {
+        "pk": 382,
+        "slug": "veau",
+        "title": "VEAU",
+        "class": "serie pg_592",
+        "parent": 380
+    },
+    {
+        "pk": 383,
+        "slug": "mouton-et-agneau",
+        "title": "MOUTON ET AGNEAU",
+        "class": "serie pg_593",
+        "parent": 380
+    },
+    {
+        "pk": 384,
+        "slug": "porc",
+        "title": "PORC",
+        "class": "serie pg_593",
+        "parent": 380
+    },
+    {
+        "pk": 385,
+        "slug": "volaille",
+        "title": "Volaille",
+        "class": "serie pg_595",
+        "parent": 361
+    },
+    {
+        "pk": 386,
+        "slug": "poulardes",
+        "title": "POULARDES",
+        "class": "serie pg_595",
+        "parent": 385
+    },
+    {
+        "pk": 387,
+        "slug": "volailles-entieres-froides",
+        "title": "Volailles entières froides",
+        "class": "serie pg_597",
+        "parent": 361
+    },
+    {
+        "pk": 388,
+        "slug": "canetons",
+        "title": "CANETONS",
+        "class": "serie pg_599",
+        "parent": 387
+    },
+    {
+        "pk": 389,
+        "slug": "preparations-froides-du-foie-gras",
+        "title": "Préparations froides du foie gras",
+        "class": "serie pg_601",
+        "parent": 361
+    },
+    {
+        "pk": 390,
+        "slug": "pigeons",
+        "title": "Pigeons",
+        "class": "serie pg_604",
+        "parent": 361
+    },
+    {
+        "pk": 391,
+        "slug": "gibiers-a-poil-et-a-plume",
+        "title": "Gibiers à poil et à plume",
+        "class": "serie pg_605",
+        "parent": 361
+    },
+    {
+        "pk": 392,
+        "slug": "lievre",
+        "title": "LIEVRE",
+        "class": "serie pg_605",
+        "parent": 391
+    },
+    {
+        "pk": 393,
+        "slug": "lapereau",
+        "title": "LAPEREAU",
+        "class": "serie pg_606",
+        "parent": 391
+    },
+    {
+        "pk": 394,
+        "slug": "faisan",
+        "title": "FAISAN",
+        "class": "serie pg_606",
+        "parent": 391
+    },
+    {
+        "pk": 395,
+        "slug": "perdreau",
+        "title": "PERDREAU",
+        "class": "serie pg_608",
+        "parent": 391
+    },
+    {
+        "pk": 396,
+        "slug": "cailles",
+        "title": "CAILLES",
+        "class": "serie pg_608",
+        "parent": 391
+    },
+    {
+        "pk": 397,
+        "slug": "grives",
+        "title": "GRIVES",
+        "class": "serie pg_611",
+        "parent": 391
+    },
+    {
+        "pk": 398,
+        "slug": "mauviettes",
+        "title": "MAUVIETTES",
+        "class": "serie pg_611",
+        "parent": 391
+    },
+    {
+        "pk": 399,
+        "slug": "ortolans-et-becs-figues",
+        "title": "ORTOLANS ET BECS-FIGUES",
+        "class": "serie pg_611",
+        "parent": 391
+    },
+    {
+        "pk": 400,
+        "slug": "becasses",
+        "title": "BÉCASSES",
+        "class": "serie pg_612",
+        "parent": 391
+    },
+    {
+        "pk": 401,
+        "slug": "becassines-et-becots",
+        "title": "BÉCASSINES ET BÉCOTS",
+        "class": "serie pg_614",
+        "parent": 391
+    },
+    {
+        "pk": 402,
+        "slug": "assaisonnement-et-liaison-des-farces",
+        "title": "Assaisonnement et liaison des farces",
+        "class": "article pg_615",
+        "parent": 361
+    },
+    {
+        "pk": 403,
+        "slug": "galantine-type",
+        "title": "Galantine type",
+        "class": "article pg_616",
+        "parent": 361
+    },
+    {
+        "pk": 404,
+        "slug": "pates-en-croute",
+        "title": "Pâtés en croûte",
+        "class": "serie pg_618",
+        "parent": 361
+    },
+    {
+        "pk": 405,
+        "slug": "pates-de-poisson",
+        "title": "PÂTÉS DE POISSON",
+        "class": "serie pg_647",
+        "parent": 404
+    },
+    {
+        "pk": 406,
+        "slug": "pates-de-viandes",
+        "title": "PÂTÉS DE VIANDES",
+        "class": "serie pg_649",
+        "parent": 404
+    },
+    {
+        "pk": 407,
+        "slug": "pates-de-volaille",
+        "title": "PÂTÉS DE VOLAILLE",
+        "class": "serie pg_649",
+        "parent": 404
+    },
+    {
+        "pk": 408,
+        "slug": "pates-de-gibier",
+        "title": "PÂTÉS DE GIBIER",
+        "class": "serie pg_650",
+        "parent": 404
+    },
+    {
+        "pk": 409,
+        "slug": "pate-de-foie-gras",
+        "title": "Pâté de foie gras",
+        "class": "article pg_650",
+        "parent": 361
+    },
+    {
+        "pk": 410,
+        "slug": "terrines",
+        "title": "Terrines",
+        "class": "article pg_621",
+        "parent": 361
+    },
+    {
+        "pk": 411,
+        "slug": "terrines-et-pates-a-la-menagere",
+        "title": "Terrines et pâtés à la ménagère",
+        "class": "article pg_622",
+        "parent": 361
+    },
+    {
+        "pk": 412,
+        "slug": "salades-simples",
+        "title": "Salades simples",
+        "class": "serie pg_623",
+        "parent": 361
+    },
+    {
+        "pk": 413,
+        "slug": "salades-composees",
+        "title": "Salades composées",
+        "class": "serie pg_624",
+        "parent": 361
+    },
+    {
+        "pk": 414,
+        "slug": "mayonnaises",
+        "title": "Mayonnaises",
+        "class": "serie pg_629",
+        "parent": 361
+    },
+    {
+        "pk": 415,
+        "slug": "rotis",
+        "title": "ROTIS",
+        "class": "chapter pg_631",
+        "parent": null
+    },
+    {
+        "pk": 416,
+        "slug": "notice-sur-la-conduite-des-rotis",
+        "title": "Notice sur la conduite des rôtis",
+        "class": "article pg_631",
+        "parent": 415
+    },
+    {
+        "pk": 417,
+        "slug": "sauces-pour-rotis-a-l-anglaise",
+        "title": "Sauces pour rôtis à l'anglaise",
+        "class": "serie pg_634",
+        "parent": 415
+    },
+    {
+        "pk": 418,
+        "slug": "rotis-de-boeuf",
+        "title": "Rôtis de boeuf",
+        "class": "serie pg_634",
+        "parent": 415
+    },
+    {
+        "pk": 419,
+        "slug": "rotis-de-veau",
+        "title": "Rôtis de veau",
+        "class": "serie pg_635",
+        "parent": 415
+    },
+    {
+        "pk": 420,
+        "slug": "rotis-de-mouton-et-agneau",
+        "title": "Rôtis de mouton et agneau",
+        "class": "serie pg_635",
+        "parent": 415
+    },
+    {
+        "pk": 421,
+        "slug": "rotis-de-porc",
+        "title": "Rôtis de porc",
+        "class": "serie pg_636",
+        "parent": 415
+    },
+    {
+        "pk": 422,
+        "slug": "rotis-de-venaison",
+        "title": "Rôtis de Venaison",
+        "class": "serie pg_636",
+        "parent": 415
+    },
+    {
+        "pk": 423,
+        "slug": "rotis-de-gibiers-a-plume-et-a-poil",
+        "title": "Rôtis de gibiers à plume et à poil",
+        "class": "serie pg_637",
+        "parent": 415
+    },
+    {
+        "pk": 424,
+        "slug": "rotis-de-volaille",
+        "title": "Rôtis de volaille",
+        "class": "serie pg_639",
+        "parent": 415
+    },
+    {
+        "pk": 425,
+        "slug": "legumes-et-farinages",
+        "title": "LÉGUMES ET FARINAGES",
+        "class": "chapter pg_641",
+        "parent": null
+    },
+    {
+        "pk": 426,
+        "slug": "legumes",
+        "title": "LÉGUMES",
+        "class": "serie pg_641",
+        "parent": 425
+    },
+    {
+        "pk": 427,
+        "slug": "observations-preliminaires",
+        "title": "Observations préliminaires",
+        "class": "serie pg_641",
+        "parent": 426
+    },
+    {
+        "pk": 428,
+        "slug": "artichauts",
+        "title": "Artichauts",
+        "class": "serie pg_643",
+        "parent": 426
+    },
+    {
+        "pk": 429,
+        "slug": "asperges",
+        "title": "Asperges",
+        "class": "serie pg_646",
+        "parent": 426
+    },
+    {
+        "pk": 430,
+        "slug": "aubergines",
+        "title": "Aubergines",
+        "class": "serie pg_647",
+        "parent": 426
+    },
+    {
+        "pk": 431,
+        "slug": "cardons",
+        "title": "Cardons",
+        "class": "serie pg_648",
+        "parent": 426
+    },
+    {
+        "pk": 432,
+        "slug": "carottes",
+        "title": "Carottes",
+        "class": "serie pg_649",
+        "parent": 426
+    },
+    {
+        "pk": 433,
+        "slug": "celeris",
+        "title": "Céleris",
+        "class": "serie pg_650",
+        "parent": 426
+    },
+    {
+        "pk": 434,
+        "slug": "celeri-rave",
+        "title": "Céleri-rave",
+        "class": "serie pg_650",
+        "parent": 426
+    },
+    {
+        "pk": 435,
+        "slug": "cepes",
+        "title": "Cèpes",
+        "class": "serie pg_651",
+        "parent": 426
+    },
+    {
+        "pk": 436,
+        "slug": "cerfeuil-tubereux",
+        "title": "Cerfeuil-tubéreux",
+        "class": "article pg_651",
+        "parent": 426
+    },
+    {
+        "pk": 437,
+        "slug": "champignons",
+        "title": "Champignons",
+        "class": "serie pg_651",
+        "parent": 426
+    },
+    {
+        "pk": 438,
+        "slug": "chayottes",
+        "title": "Chayottes",
+        "class": "article pg_652",
+        "parent": 426
+    },
+    {
+        "pk": 439,
+        "slug": "chicoree",
+        "title": "Chicorée",
+        "class": "serie pg_653",
+        "parent": 426
+    },
+    {
+        "pk": 440,
+        "slug": "choux",
+        "title": "Choux",
+        "class": "serie pg_653",
+        "parent": 426
+    },
+    {
+        "pk": 441,
+        "slug": "choux-de-bruxelles",
+        "title": "Choux de Bruxelles",
+        "class": "serie pg_654",
+        "parent": 426
+    },
+    {
+        "pk": 442,
+        "slug": "choux-feurs-et-brocolis",
+        "title": "Choux-Feurs et Brocolis",
+        "class": "serie pg_654",
+        "parent": 426
+    },
+    {
+        "pk": 443,
+        "slug": "choux-marin-(seakale)-et-chou-de-mai",
+        "title": "Choux marin (Seakale) et Chou de Mai",
+        "class": "article pg_655",
+        "parent": 426
+    },
+    {
+        "pk": 444,
+        "slug": "choux-rouges",
+        "title": "Choux rouges",
+        "class": "serie pg_655",
+        "parent": 426
+    },
+    {
+        "pk": 445,
+        "slug": "choux-verts",
+        "title": "Choux verts",
+        "class": "serie pg_656",
+        "parent": 426
+    },
+    {
+        "pk": 446,
+        "slug": "concombres-et-courgettes",
+        "title": "Concombres et Courgettes",
+        "class": "serie pg_657",
+        "parent": 426
+    },
+    {
+        "pk": 447,
+        "slug": "crosnes-ou-stachys",
+        "title": "Crosnes ou Stachys",
+        "class": "serie pg_657",
+        "parent": 426
+    },
+    {
+        "pk": 448,
+        "slug": "endives",
+        "title": "Endives",
+        "class": "serie pg_658",
+        "parent": 426
+    },
+    {
+        "pk": 449,
+        "slug": "epinards",
+        "title": "Epinards",
+        "class": "serie pg_658",
+        "parent": 426
+    },
+    {
+        "pk": 450,
+        "slug": "fenouil-tubereux",
+        "title": "Fenouil tubéreux",
+        "class": "article pg_659",
+        "parent": 426
+    },
+    {
+        "pk": 451,
+        "slug": "feves",
+        "title": "Fèves",
+        "class": "article pg_659",
+        "parent": 426
+    },
+    {
+        "pk": 452,
+        "slug": "gombos",
+        "title": "Gombos",
+        "class": "serie pg_660",
+        "parent": 426
+    },
+    {
+        "pk": 453,
+        "slug": "houblon",
+        "title": "Houblon",
+        "class": "serie pg_660",
+        "parent": 426
+    },
+    {
+        "pk": 454,
+        "slug": "haricots-blancs",
+        "title": "Haricots blancs",
+        "class": "serie pg_661",
+        "parent": 426
+    },
+    {
+        "pk": 455,
+        "slug": "haricots-flageolets",
+        "title": "Haricots flageolets",
+        "class": "article pg_661",
+        "parent": 426
+    },
+    {
+        "pk": 456,
+        "slug": "haricots-rouges",
+        "title": "Haricots rouges",
+        "class": "article pg_661",
+        "parent": 426
+    },
+    {
+        "pk": 457,
+        "slug": "haricots-verts",
+        "title": "Haricots verts",
+        "class": "serie pg_661",
+        "parent": 426
+    },
+    {
+        "pk": 458,
+        "slug": "laitues",
+        "title": "Laitues",
+        "class": "serie pg_662",
+        "parent": 426
+    },
+    {
+        "pk": 459,
+        "slug": "lentilles",
+        "title": "Lentilles",
+        "class": "article pg_662",
+        "parent": 426
+    },
+    {
+        "pk": 460,
+        "slug": "mais",
+        "title": "Maïs",
+        "class": "article pg_662",
+        "parent": 426
+    },
+    {
+        "pk": 461,
+        "slug": "marrons",
+        "title": "Marrons",
+        "class": "serie pg_663",
+        "parent": 426
+    },
+    {
+        "pk": 462,
+        "slug": "morilles",
+        "title": "Morilles",
+        "class": "serie pg_663",
+        "parent": 426
+    },
+    {
+        "pk": 463,
+        "slug": "mousserons",
+        "title": "Mousserons",
+        "class": "article pg_665",
+        "parent": 426
+    },
+    {
+        "pk": 464,
+        "slug": "navets",
+        "title": "Navets",
+        "class": "article pg_665",
+        "parent": 426
+    },
+    {
+        "pk": 465,
+        "slug": "oignons",
+        "title": "Oignons",
+        "class": "serie pg_665",
+        "parent": 426
+    },
+    {
+        "pk": 466,
+        "slug": "oseille",
+        "title": "Oseille",
+        "class": "article pg_666",
+        "parent": 426
+    },
+    {
+        "pk": 467,
+        "slug": "oxalis",
+        "title": "Oxalis",
+        "class": "article pg_666",
+        "parent": 426
+    },
+    {
+        "pk": 468,
+        "slug": "petits-pois",
+        "title": "Petits pois",
+        "class": "serie pg_666",
+        "parent": 426
+    },
+    {
+        "pk": 469,
+        "slug": "piments",
+        "title": "Piments",
+        "class": "article pg_668",
+        "parent": 426
+    },
+    {
+        "pk": 470,
+        "slug": "pommes-de-terre",
+        "title": "Pommes de terre",
+        "class": "serie pg_668",
+        "parent": 426
+    },
+    {
+        "pk": 471,
+        "slug": "riz",
+        "title": "Riz",
+        "class": "serie pg_675",
+        "parent": 426
+    },
+    {
+        "pk": 472,
+        "slug": "salsifis",
+        "title": "Salsifis",
+        "class": "article pg_676",
+        "parent": 426
+    },
+    {
+        "pk": 473,
+        "slug": "tomates",
+        "title": "Tomates",
+        "class": "serie pg_677",
+        "parent": 426
+    },
+    {
+        "pk": 474,
+        "slug": "topinambours",
+        "title": "Topinambours",
+        "class": "serie pg_678",
+        "parent": 426
+    },
+    {
+        "pk": 475,
+        "slug": "truffes",
+        "title": "Truffes",
+        "class": "serie pg_678",
+        "parent": 426
+    },
+    {
+        "pk": 476,
+        "slug": "farinages",
+        "title": "FARINAGES",
+        "class": "serie pg_680",
+        "parent": 425
+    },
+    {
+        "pk": 477,
+        "slug": "fondus-au-parmesan",
+        "title": "Fondus au parmesan",
+        "class": "article pg_680",
+        "parent": 476
+    },
+    {
+        "pk": 478,
+        "slug": "gnokis",
+        "title": "Gnokis",
+        "class": "serie pg_680",
+        "parent": 476
+    },
+    {
+        "pk": 479,
+        "slug": "lasagnes",
+        "title": "Lasagnes",
+        "class": "article pg_681",
+        "parent": 476
+    },
+    {
+        "pk": 480,
+        "slug": "macaronis",
+        "title": "Macaronis",
+        "class": "serie pg_681",
+        "parent": 476
+    },
+    {
+        "pk": 481,
+        "slug": "nouilles",
+        "title": "Nouilles",
+        "class": "article pg_683",
+        "parent": 476
+    },
+    {
+        "pk": 482,
+        "slug": "polenta-ou-pouleinte",
+        "title": "Polenta ou Pouleinte",
+        "class": "serie pg_683",
+        "parent": 476
+    },
+    {
+        "pk": 483,
+        "slug": "raviolis-ou-ravioles",
+        "title": "Raviolis ou ravioles",
+        "class": "serie pg_684",
+        "parent": 476
+    },
+    {
+        "pk": 484,
+        "slug": "entremets",
+        "title": "ENTREMETS",
+        "class": "chapter pg_686",
+        "parent": null
+    },
+    {
+        "pk": 485,
+        "slug": "entremets-chauds",
+        "title": "ENTREMETS CHAUDS",
+        "class": "serie pg_686",
+        "parent": 484
+    },
+    {
+        "pk": 486,
+        "slug": "sauces-pour-entremets-chauds",
+        "title": "Sauces pour entremets chauds",
+        "class": "serie pg_686",
+        "parent": 485
+    },
+    {
+        "pk": 487,
+        "slug": "appareils-divers",
+        "title": "Appareils divers",
+        "class": "serie pg_688",
+        "parent": 485
+    },
+    {
+        "pk": 488,
+        "slug": "pates-diverses-pour-entremets",
+        "title": "Pâtes diverses pour entremets",
+        "class": "serie pg_689",
+        "parent": 485
+    },
+    {
+        "pk": 489,
+        "slug": "beignets",
+        "title": "Beignets",
+        "class": "serie pg_691",
+        "parent": 485
+    },
+    {
+        "pk": 490,
+        "slug": "beignets-de-fruits-frais-et-de-fleurs",
+        "title": "Beignets de fruits frais et de fleurs",
+        "class": "serie pg_691",
+        "parent": 489
+    },
+    {
+        "pk": 491,
+        "slug": "beignets-de-creme",
+        "title": "Beignets de Crème",
+        "class": "serie pg_692",
+        "parent": 489
+    },
+    {
+        "pk": 492,
+        "slug": "beignets-viennois",
+        "title": "Beignets Viennois",
+        "class": "serie pg_692",
+        "parent": 489
+    },
+    {
+        "pk": 493,
+        "slug": "beignets-souffles",
+        "title": "Beignets Soufflés",
+        "class": "serie pg_693",
+        "parent": 489
+    },
+    {
+        "pk": 494,
+        "slug": "beignets-divers",
+        "title": "Beignets divers",
+        "class": "serie pg_693",
+        "parent": 489
+    },
+    {
+        "pk": 495,
+        "slug": "charlottes",
+        "title": "Charlottes",
+        "class": "serie pg_694",
+        "parent": 485
+    },
+    {
+        "pk": 496,
+        "slug": "cremes",
+        "title": "Crèmes",
+        "class": "serie pg_694",
+        "parent": 485
+    },
+    {
+        "pk": 497,
+        "slug": "crepes",
+        "title": "Crèpes",
+        "class": "serie pg_695",
+        "parent": 485
+    },
+    {
+        "pk": 498,
+        "slug": "croquettes",
+        "title": "Croquettes",
+        "class": "serie pg_695",
+        "parent": 485
+    },
+    {
+        "pk": 499,
+        "slug": "croutes",
+        "title": "Croûtes",
+        "class": "serie pg_696",
+        "parent": 485
+    },
+    {
+        "pk": 500,
+        "slug": "omelettes",
+        "title": "Omelettes",
+        "class": "serie pg_697",
+        "parent": 485
+    },
+    {
+        "pk": 501,
+        "slug": "pannequets",
+        "title": "Pannequets",
+        "class": "serie pg_699",
+        "parent": 485
+    },
+    {
+        "pk": 502,
+        "slug": "puddings-types",
+        "title": "Puddings types",
+        "class": "serie pg_700",
+        "parent": 485
+    },
+    {
+        "pk": 503,
+        "slug": "puddings-divers",
+        "title": "Puddings divers",
+        "class": "serie pg_702",
+        "parent": 485
+    },
+    {
+        "pk": 504,
+        "slug": "rissoles",
+        "title": "Rissoles",
+        "class": "article pg_706",
+        "parent": 485
+    },
+    {
+        "pk": 505,
+        "slug": "souffles",
+        "title": "Soufflés",
+        "class": "serie pg_706",
+        "parent": 485
+    },
+    {
+        "pk": 506,
+        "slug": "souffles-divers",
+        "title": "Soufflés divers",
+        "class": "serie pg_707",
+        "parent": 485
+    },
+    {
+        "pk": 507,
+        "slug": "subrics",
+        "title": "Subrics",
+        "class": "article pg_708",
+        "parent": 485
+    },
+    {
+        "pk": 508,
+        "slug": "timbales",
+        "title": "Timbales",
+        "class": "serie pg_709",
+        "parent": 485
+    },
+    {
+        "pk": 509,
+        "slug": "entremets-de-fruits-chauds",
+        "title": "ENTREMETS DE FRUITS CHAUDS",
+        "class": "serie pg_710",
+        "parent": 484
+    },
+    {
+        "pk": 510,
+        "slug": "abricots",
+        "title": "Abricots",
+        "class": "serie pg_710",
+        "parent": 509
+    },
+    {
+        "pk": 511,
+        "slug": "ananas",
+        "title": "Ananas",
+        "class": "serie pg_711",
+        "parent": 509
+    },
+    {
+        "pk": 512,
+        "slug": "bananes",
+        "title": "Bananes",
+        "class": "serie pg_711",
+        "parent": 509
+    },
+    {
+        "pk": 513,
+        "slug": "cerises",
+        "title": "Cerises",
+        "class": "serie pg_712",
+        "parent": 509
+    },
+    {
+        "pk": 514,
+        "slug": "nectarines-ou-brugnons",
+        "title": "Nectarines ou brugnons",
+        "class": "article pg_712",
+        "parent": 509
+    },
+    {
+        "pk": 515,
+        "slug": "oranges-et-mandarines",
+        "title": "Oranges et mandarines",
+        "class": "serie pg_712",
+        "parent": 509
+    },
+    {
+        "pk": 516,
+        "slug": "peches",
+        "title": "Pêches",
+        "class": "serie pg_713",
+        "parent": 509
+    },
+    {
+        "pk": 517,
+        "slug": "poires",
+        "title": "Poires",
+        "class": "serie pg_714",
+        "parent": 509
+    },
+    {
+        "pk": 518,
+        "slug": "pommes",
+        "title": "Pommes",
+        "class": "serie pg_714",
+        "parent": 509
+    },
+    {
+        "pk": 519,
+        "slug": "entremets-chauds-divers",
+        "title": "Entremets chauds divers",
+        "class": "serie pg_716",
+        "parent": 509
+    },
+    {
+        "pk": 520,
+        "slug": "entremets-froids",
+        "title": "ENTREMETS FROIDS",
+        "class": "serie pg_718",
+        "parent": 484
+    },
+    {
+        "pk": 521,
+        "slug": "bavarois",
+        "title": "Bavarois",
+        "class": "serie pg_718",
+        "parent": 520
+    },
+    {
+        "pk": 522,
+        "slug": "bavarois-divers",
+        "title": "Bavarois divers",
+        "class": "serie pg_719",
+        "parent": 520
+    },
+    {
+        "pk": 523,
+        "slug": "blanc-manger",
+        "title": "Blanc-manger",
+        "class": "serie pg_719",
+        "parent": 520
+    },
+    {
+        "pk": 524,
+        "slug": "blancs-mangers-divers",
+        "title": "Blancs-mangers divers",
+        "class": "serie pg_720",
+        "parent": 520
+    },
+    {
+        "pk": 525,
+        "slug": "charlottes",
+        "title": "Charlottes",
+        "class": "serie pg_720",
+        "parent": 520
+    },
+    {
+        "pk": 526,
+        "slug": "cremes",
+        "title": "Crèmes",
+        "class": "serie pg_722",
+        "parent": 520
+    },
+    {
+        "pk": 527,
+        "slug": "flamri",
+        "title": "Flamri",
+        "class": "article pg_724",
+        "parent": 520
+    },
+    {
+        "pk": 528,
+        "slug": "gelees",
+        "title": "Gelées",
+        "class": "serie pg_724",
+        "parent": 520
+    },
+    {
+        "pk": 529,
+        "slug": "macedoine-de-fruits-(voir-suedoise)-et-mont-blanc",
+        "title": "Macédoine de fruits (Voir Suédoise) et Mont blanc",
+        "class": "serie pg_726",
+        "parent": 520
+    },
+    {
+        "pk": 530,
+        "slug": "pains-de-fruits",
+        "title": "Pains de fruits",
+        "class": "article pg_726",
+        "parent": 520
+    },
+    {
+        "pk": 531,
+        "slug": "puddings",
+        "title": "Puddings",
+        "class": "serie pg_726",
+        "parent": 520
+    },
+    {
+        "pk": 532,
+        "slug": "entremets-de-fruits-froids",
+        "title": "ENTREMETS DE FRUITS FROIDS",
+        "class": "serie pg_728",
+        "parent": 484
+    },
+    {
+        "pk": 533,
+        "slug": "abricots",
+        "title": "Abricots",
+        "class": "serie pg_728",
+        "parent": 532
+    },
+    {
+        "pk": 534,
+        "slug": "ananas",
+        "title": "Ananas",
+        "class": "serie pg_729",
+        "parent": 532
+    },
+    {
+        "pk": 535,
+        "slug": "fraises",
+        "title": "Fraises",
+        "class": "serie pg_729",
+        "parent": 532
+    },
+    {
+        "pk": 536,
+        "slug": "mandarines",
+        "title": "Mandarines",
+        "class": "serie pg_730",
+        "parent": 532
+    },
+    {
+        "pk": 537,
+        "slug": "oranges",
+        "title": "Oranges",
+        "class": "serie pg_730",
+        "parent": 532
+    },
+    {
+        "pk": 538,
+        "slug": "peches-et-brugnons",
+        "title": "Pêches et Brugnons",
+        "class": "serie pg_730",
+        "parent": 532
+    },
+    {
+        "pk": 539,
+        "slug": "poires",
+        "title": "Poires",
+        "class": "serie pg_731",
+        "parent": 532
+    },
+    {
+        "pk": 540,
+        "slug": "pommes",
+        "title": "Pommes",
+        "class": "serie pg_731",
+        "parent": 532
+    },
+    {
+        "pk": 541,
+        "slug": "suedoise",
+        "title": "Suédoise",
+        "class": "article pg_731",
+        "parent": 532
+    },
+    {
+        "pk": 542,
+        "slug": "entremets-froids-divers",
+        "title": "Entremets froids divers",
+        "class": "serie pg_732",
+        "parent": 532
+    },
+    {
+        "pk": 543,
+        "slug": "glaces",
+        "title": "GLACES",
+        "class": "chapter pg_735",
+        "parent": null
+    },
+    {
+        "pk": 544,
+        "slug": "appareils-et-compositions-pour-glaces-simples",
+        "title": "Appareils et compositions pour glaces simples",
+        "class": "article pg_735",
+        "parent": 543
+    },
+    {
+        "pk": 545,
+        "slug": "appareil-a-glace-creme",
+        "title": "Appareil à glace crème",
+        "class": "article pg_735",
+        "parent": 543
+    },
+    {
+        "pk": 546,
+        "slug": "appareils-divers-a-la-creme",
+        "title": "Appareils divers à la crème",
+        "class": "serie pg_736",
+        "parent": 543
+    },
+    {
+        "pk": 547,
+        "slug": "appareils-a-glaces-aux-fruits",
+        "title": "Appareils à glaces aux fruits",
+        "class": "article pg_736",
+        "parent": 543
+    },
+    {
+        "pk": 548,
+        "slug": "appareils-divers-a-glaces-aux-fruits",
+        "title": "Appareils divers à glaces aux fruits",
+        "class": "serie pg_737",
+        "parent": 543
+    },
+    {
+        "pk": 549,
+        "slug": "appareil-a-glaces-aux-liqueurs",
+        "title": "Appareil à glaces aux liqueurs",
+        "class": "article pg_738",
+        "parent": 543
+    },
+    {
+        "pk": 550,
+        "slug": "preparation-des-glaces",
+        "title": "Préparation des glaces",
+        "class": "article pg_739",
+        "parent": 543
+    },
+    {
+        "pk": 551,
+        "slug": "moulage-des-glaces",
+        "title": "Moulage des glaces",
+        "class": "article pg_739",
+        "parent": 543
+    },
+    {
+        "pk": 552,
+        "slug": "glaces-diverses",
+        "title": "Glaces diverses",
+        "class": "serie pg_740",
+        "parent": 543
+    },
+    {
+        "pk": 553,
+        "slug": "coupes",
+        "title": "Coupes",
+        "class": "serie pg_741",
+        "parent": 543
+    },
+    {
+        "pk": 554,
+        "slug": "glaces-legeres",
+        "title": "Glaces légères",
+        "class": "article pg_742",
+        "parent": 543
+    },
+    {
+        "pk": 555,
+        "slug": "appareils-divers",
+        "title": "Appareils divers",
+        "class": "article pg_742",
+        "parent": 543
+    },
+    {
+        "pk": 556,
+        "slug": "moulages-des-biscuits-glaces",
+        "title": "Moulages des biscuits glacés",
+        "class": "article pg_743",
+        "parent": 543
+    },
+    {
+        "pk": 557,
+        "slug": "biscuits-glaces-divers-glaces",
+        "title": "Biscuits glacés divers glacés",
+        "class": "article pg_743",
+        "parent": 543
+    },
+    {
+        "pk": 558,
+        "slug": "bombes",
+        "title": "Bombes",
+        "class": "article pg_743",
+        "parent": 543
+    },
+    {
+        "pk": 559,
+        "slug": "bombes-diverses-(tableau)",
+        "title": "Bombes diverses (tableau)",
+        "class": "special pg_744",
+        "parent": 543
+    },
+    {
+        "pk": 560,
+        "slug": "mousses",
+        "title": "Mousses",
+        "class": "article pg_746",
+        "parent": 543
+    },
+    {
+        "pk": 561,
+        "slug": "mousses-diverses",
+        "title": "Mousses diverses",
+        "class": "article pg_746",
+        "parent": 543
+    },
+    {
+        "pk": 562,
+        "slug": "parfaits",
+        "title": "Parfaits",
+        "class": "article pg_746",
+        "parent": 543
+    },
+    {
+        "pk": 563,
+        "slug": "puddings-glaces",
+        "title": "Puddings glacés",
+        "class": "serie pg_747",
+        "parent": 543
+    },
+    {
+        "pk": 564,
+        "slug": "souffles-glaces",
+        "title": "Soufflés glacés",
+        "class": "article pg_748",
+        "parent": 543
+    },
+    {
+        "pk": 565,
+        "slug": "sorbets",
+        "title": "Sorbets",
+        "class": "serie pg_749",
+        "parent": 543
+    },
+    {
+        "pk": 566,
+        "slug": "granites",
+        "title": "Granités",
+        "class": "article pg_750",
+        "parent": 565
+    },
+    {
+        "pk": 567,
+        "slug": "marquises",
+        "title": "Marquises",
+        "class": "article pg_750",
+        "parent": 565
+    },
+    {
+        "pk": 568,
+        "slug": "punch-a-la-romaine",
+        "title": "Punch à la romaine",
+        "class": "article pg_750",
+        "parent": 565
+    },
+    {
+        "pk": 569,
+        "slug": "spooms",
+        "title": "Spooms",
+        "class": "article pg_751",
+        "parent": 565
+    },
+    {
+        "pk": 570,
+        "slug": "savorys",
+        "title": "SAVORYS",
+        "class": "chapter pg_752",
+        "parent": null
+    },
+    {
+        "pk": 571,
+        "slug": "savorys",
+        "title": "Savorys",
+        "class": "serie pg_752",
+        "parent": 570
+    },
+    {
+        "pk": 572,
+        "slug": "sandwichs",
+        "title": "Sandwichs",
+        "class": "serie pg_757",
+        "parent": 570
+    },
+    {
+        "pk": 573,
+        "slug": "compotes-et-confitures",
+        "title": "COMPOTES ET CONFITURES",
+        "class": "chapter pg_759",
+        "parent": null
+    },
+    {
+        "pk": 574,
+        "slug": "compotes-simples",
+        "title": "Compotes simples",
+        "class": "serie pg_759",
+        "parent": 573
+    },
+    {
+        "pk": 575,
+        "slug": "compotes-composees",
+        "title": "Compotes composéés",
+        "class": "article pg_764",
+        "parent": 574
+    },
+    {
+        "pk": 576,
+        "slug": "confitures",
+        "title": "Confitures",
+        "class": "article pg_761",
+        "parent": 573
+    },
+    {
+        "pk": 577,
+        "slug": "marmelades",
+        "title": "Marmelades",
+        "class": "serie pg_762",
+        "parent": 573
+    },
+    {
+        "pk": 578,
+        "slug": "gelees",
+        "title": "Gelées",
+        "class": "serie pg_763",
+        "parent": 573
+    },
+    {
+        "pk": 579,
+        "slug": "boissons-et-rafraichissements",
+        "title": "Boissons et rafraîchissements",
+        "class": "article pg_764",
+        "parent": 573
+    },
+    {
+        "pk": 580,
+        "slug": "bavaroise",
+        "title": "Bavaroise",
+        "class": "article pg_764",
+        "parent": 579
+    },
+    {
+        "pk": 581,
+        "slug": "bischoff",
+        "title": "Bischoff",
+        "class": "article pg_785",
+        "parent": 579
+    },
+    {
+        "pk": 582,
+        "slug": "cafe-glace",
+        "title": "Café glacé",
+        "class": "article pg_785",
+        "parent": 579
+    },
+    {
+        "pk": 583,
+        "slug": "citronnade",
+        "title": "Citronnade",
+        "class": "article pg_785",
+        "parent": 579
+    },
+    {
+        "pk": 584,
+        "slug": "orangeade",
+        "title": "Orangeade",
+        "class": "article pg_785",
+        "parent": 579
+    },
+    {
+        "pk": 585,
+        "slug": "punchs",
+        "title": "Punchs",
+        "class": "serie pg_785",
+        "parent": 579
+    }
+]

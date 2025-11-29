@@ -1,0 +1,1070 @@
+[
+    {
+        "parent": 11,
+        "slug": "purees-ou-cremes-intro",
+        "text": "NOTA. – Les quantités de purées indiquées ci-dessous sont comprises à consistance de potage prêt à servir. Pour la transposition de ces Purées en Crèmes on remplace tout ou partie du consommé de mouillement par du lait. De même, l'élément de liaison, quand la purée en comporte, est remplacé par une quantité équivalente de béchamel ou de Velouté à la Crème. Nous répétons que les purées se finissent avec 80 à 100 grammes de beurre au litre, et les crèmes avec 2 décilitres et demi de crème double. Tous les potages décrits dans cette série peuvent donc être inscrits sur les menus, soit comme Purée, soit comme Crème. Enfin, partout où une garniture spéciale n'est pas indiquée, la garniture est de croûtons frits pour les Purées, et est empruntée à l'élément principal pour les Crèmes : soit, boules de carottes pour la Crécy ; de navets pour la Freneuse, etc.",
+        "pk": 0
+    },
+    {
+        "parent": 12,
+        "slug": "veloutes-ou-cremes-intro",
+        "text": "NOTA. – Nous réitérons : 1° Que les Veloutés se lient à raison de 3 jaunes et 1 décilitre de crème, et se beurrent dans les proportions de 80 à 100 grammes au litre de potage. 2° Que les Crèmes ne se lient ni ne se beurrent, et se mettent à point avec 2 décilitres et demi de crème bien fraîche, au litre. 3° Que les proportions des Veloutés énumérés ci-dessous sont nettes, c'est-à-dire que ceux indiqués sont à consistance de potage. 4° Que les proportions totales sont toujours pour 4 litres de potage. 5° Que le lait pour les potages doit toujours être employé bouillant, et surtout non écrémé.",
+        "pk": 1
+    },
+    {
+        "parent": 13,
+        "slug": "potages-invariables-intro",
+        "text": "NOTA. – Les proportions de beurre pour mise à point finale de ces potages sont les mêmes, c'est-à-dire de 80 à 100 grammes au litre. Dans ceux qui figurent ci-dessous et qui en comportent moins, elles sont spécifiées.",
+        "pk": 2
+    },
+    {
+        "parent": 14,
+        "slug": "potages-de-legumes-intro",
+        "text": "OBSERVATIONS. – 1° La plupart des potages, dont la « paysanne » est le type initial, doivent subir un lent étuvage préalable au beurre ; lequel a pour double but de les imprégner par le beurre, et de provoquer l'exsudation de l'eau de végétation. D'autres, au contraire, doivent, pour conserver le caractère originel de leur provenance, être traités immédiatement par le mouillement<br> 2° Sauf pour quelques-uns, la précision mathématique dans le dosage de leurs éléments, n'est pas de rigueur absolue ; et nous établirons simplement, en ce qui les concerne, que le poids total du, ou des légumes de base que comporte leur composé, peut être fixé à 1 kil. 200 par 4 litres de mouillement. Ce poids peut être diminué de 100 grammes dans les potages qui s'additionnent d'une garniture complémentaire, comme pâtes, vermicelle, riz, etc.",
+        "pk": 3
+    },
+    {
+        "parent": 17,
+        "slug": "potages-etrangers-intro",
+        "text": "OBSERVATION. – Ces recettes de potages étrangers qui ont eu pour auteurs principaux Petit, Dubois, Suzanne et Scheibenbogen, ont été résumées d'aprèsles principes personnels et les procédés d'exécution de M. Escoffier.",
+        "pk": 4
+    },
+    {
+        "parent": 20,
+        "slug": "hors-d-oeuvre-chauds-ou-entrees-volantes-intro",
+        "text": "OBSERVATION. – Ces hors-d'oeuvre chauds que nous avons réunis en série spéciale pour faciliter les recherches relèvent : les uns des Petites Entrées (les assiettes volantes d'autrefois), les autres des Savorys, et sont assimilables à ces derniers dont ils ne se différencient guère, comme hors-d'oeuvre, que par l'assaisonnement qui est moins accentué.<br> Si nous avons tenu à faire figurer dans la série tous les genres usités, nous avons du moins réduit l'exposé en bien des cas ; en nous en tenant à la formule type ; laissant à l'esprit d'à-propos de l'ouvrier le soin d'en combiner les dérivés, selon ses idées et ses ressources.<br> Nous avons confondu aussi, dans la classification alphabétique, les hors-d'oeuvre russes chauds, jugeant inutile de leur consacrer un chapitre spécial.",
+        "pk": 5
+    },
+    {
+        "parent": 30,
+        "slug": "beurres-composes-intro",
+        "text": "OBSERVATION. – Nous n'exposons ici que la série complémentaire des Beurres simples et composés, ceux qui trouvent leur emploi dans les hors-d'oeuvre ayant été décrits à ce chapitre.<br> En ce qui concerne spécialement les beurres de crustacés, une remarque s'impose : « L'expérience nous a démontré péremptoirement que les beurres obtenus par fusion au bain-marie, des débris de crustacés pilés avec le beurre nécessaire, puis passés sur de l'eau glacée, étaient d'une coloration plus chaude, et absolument indemnes de fins débris de carapaces ; mais que, par contre, le calorique qui les frappe pendant la fusion leur fait perdre une grande partie de leur finesse, et même contracter un goût désagréable. Pour obvier à cet inconvénient, nous avons adopté le système de faire deux beurres distincts : l'un qui est exclusivement colorant, et l'autre qui est préparé à cru. C'est-à-dire que l'élément, crevettes ou écrevisses, est pilé avec le beurre et passé à l'étamine. En certains cas, nous remplaçons le beurre par de la crème, et nous obtenons ainsi un coulis qui, ajouté à la sauce au dernier moment, lui donne une saveur absolument parfaite. La substitution de ce coulis au beurre ordinaire de crustacés, comme écrevisses ou crevettes, est à recommander, ainsi que l'emploi du « beurre colorant » qui donne aux sauces la teinte nette et franche qui doit les caractériser, et qui, en toutes circonstances, est à préférer au carmin, qui ne peut donner aux sauces et potages qu'une teinte indécise et criarde.",
+        "pk": 6
+    },
+    {
+        "parent": 31,
+        "slug": "marinades-et-saumures-intro",
+        "text": "Elles sont de plusieurs sortes, quoique tendant au même but final qui est de : 1° pénétrer les substances qui sont soumises à leur action de la note combinée des aromates qui entrent dans leur préparation ; 2° attendrir la fibre de certaines chairs ; 3° assurer parfois leur conservation ; surtout quand les perturbations atmosphériques en font craindre la décomposition. Enfin, leurs éléments sont associés et réglés selon leur destination finale.",
+        "pk": 7
+    },
+    {
+        "parent": 39,
+        "slug": "oeufs-sur-le-plat-intro",
+        "text": "Les oeufs traités par ce mode représentent une espèce particulière d'oeufs pochés, dont le parfait à-point fait tout le mérite. Leur apprêt s'équilibre sur ces trois points : 1° juste cuisson du blanc ; 2° miroitement du jaune, et 3° soins attentifs, en la plupart des cas, à prévenir l'attachement au fond du plat.<br> <em>Principe de traitement :</em> Les proportions établies dans cette série le sont uniformément pour 2 oeufs au nombre. La quantité normale de beurre pour leur traitement est de 15 grammes, dont moitié dans l'ustensile, et l'autre moitié versée fondue sur les jaunes. L'assaisonnement est de 32 centigrammes de sel pour les 2 oeufs.",
+        "pk": 8
+    },
+    {
+        "parent": 40,
+        "slug": "oeufs-poches-et-mollets-intro",
+        "text": "Les formules applicables aux oeufs pochés l'étant également aux oeufs mollets, nous réunissons ces deux modes d'apprêt.<br> <em>Principe de traitement</em>. – Condition essentielle dans un cas comme dans l'autre : l'absolue fraîcheur des oeufs.<br> <em>Oeufs pochés</em>. – 1° Les casser en sautoir d'eau bouillante additionnée de 10 grammes de sel et 1 cuillerée de vinaigre au litre, et à l'endroit où se manifeste l'ébullition. – 2° Pour l'uniformité du pochage, opérer par 10 oeufs à la fois seulement. – 3° Temps de pochage : 3 minutes, l'eau étant maintenue à la température de 95 degrés ; degré suffisant pour assurer la solidification du blanc, l'oeuf poché n'étant, en somme, que l'oeuf à la coque dépourvu de coquille. – Rafraîchir les oeufs, les parer, et les tenir ensuite à l'eau chaude salée à 6 grammes au litre.<br> <em>Oeufs mollets. —</em> 1° Temps de cuisson : 6 minutes, étant plongés à l'eau bouillante. – 2° Rafraîchir, écaler aussitôt, et tenir au chaud comme les oeufs pochés.<br> <em>Dressage</em>. – Se fait le plus généralement : 1° Sur croûtons en pain de mie légèrement évidés, facultativement historiés ; ovales pour oeufs pochés, ronds pour oeufs mollets, et frits au beurre clarifié. – 2° Sur légers feuilletés ovales ou autres pour oeufs pochés ; en anneaux cannelés ou petits feuilletés genre « puits d'amour » pour oeufs mollets. – 3° En bordures de farces ou appareils divers, selon la fin de l'apprêt ; lesquelles sont couchées ou dressées sur plat beurré, de forme ovale ou ronde, simple ou historiée, et pochées ou colorées au four. – 4° Sur croûtes tartelettes cuites à blanc, garnies selon le genre d'apprêt. Pour les dressages sur croûtons frits, feuilletés et tartelettes, les oeufs doivent être saucés à l'avance.<br> <strong>LE POCHE-OEUFS CIEUX</strong><br> Nous considérons comme un devoir de recommander à nos collègues le poche-oeufs de M. Léon Cieux. Le succès a d'ailleurs consacré l'usage rapide, pratique, et l'impeccable correction de pochage, qui résulte de son emploi. Il nous est d'autant plus agréable de le faire ici que, tout en recommandant un ustensile parfait, ce nous est une occasion de manifester nos sentiments sympathiques à l'endroit d'un charmant et serviable collègue, qui se double d'un savant praticien et d'un infatigable chercheur.<br> <strong>Oeufs pochés et mollets.</strong>",
+        "pk": 9
+    },
+    {
+        "parent": 41,
+        "slug": "oeufs-moules-intro",
+        "text": "Parmi les apprêts divers des oeufs, celui qui consiste à les mouler est certainement le plus décoratif, seulement le temps relativement long qu'il exige fait que, le plus souvent, les oeufs pochés, mollets ou autres sont préférés. Ces oeufs se font en moules de formes diverses, décorés selon la nature de l'apprêt, et les oeufs y sont cassés directement ou mis sous forme d'appareils, et pochés au bain-marie. Le temps normal de pochage est de 10 à 12 minutes, et l'ensemble de l'apprêt exige 15 minutes au minimum.<br> Ces oeufs sont presque toujours démoulés surpetits toasts, après avoir reposé pendant 2 ou 3 minutes après leur sortie du bain. Ceci pour opérer une sorte de tassement qui rend le démoulage plus facile. Quelle que soit la nature de l'apprêt, les moules doivent toujours être très grassement beurrés.",
+        "pk": 10
+    },
+    {
+        "parent": 42,
+        "slug": "oeufs-en-cocottes-et-en-caisses-intro",
+        "text": "Sont encore un genre d'oeuf poché spécial. Leur traitement se fait au bain-marie, et leur temps de cuisson est normalement fixé à 10 minutes. Ce temps peut être sujet à une variation de quelques minutes, ayant pour cause : soit la forme des ustensiles, soit l'épaisseur de leurs parois que le calorique doit pénétrer d'abord avant de pouvoir exercer son action sur les oeufs. Se dressent sur serviettes ou sur papier dentelle. Nous conseillons, pour une exécution plus rapide, de toujours chauffer les cocottes avant d'y casser les oeufs.",
+        "pk": 11
+    },
+    {
+        "parent": 43,
+        "slug": "oeufs-frits-intro",
+        "text": "Dans la cuisine française, l'usage des oeufs frits est pour ainsi dire circonscrit aux garnitures. Ce n'est qu'accidentellement qu'ils figurent sur les menus à titre de plat spécial, et, de ce fait, leurs formules sont peu nombreuses ; mais ces formules, dans la plupart des cas, ressortent de l'idée du moment, de combinaisons soudain conçues et oubliées ensuite. Les Anglais et les Américains les prisent beaucoup comme plat de breakfast, avec accompagnement de bacon ou de jambon grillés ou frits.<br> En général, les garnitures que comporte ce genre d'oeufs sont servies à part. Ceux-ci sont dressés sur serviettes ou toasts avec persil frit. Ces oeufs peuvent se traiter avec toute espèce de corps gras purifiés, mais leur agent ordinaire de cuisson est l'huile. Ils sont simplement glissés dans l'huile légèrement fumante, après avoir été cassés sur une assiette et assaisonnés ; ou bien ils sont cassés directement dans la poêle, et le blanc solidifié par le brusque contact avec l'huile bouillante est replié sur lui-même, pour enfermer parfaitement le jaune qui doit rester mollet.<br> Nous ne donnerons que quelques formules de ces oeufs, dont l'originalité sera l'excuse.",
+        "pk": 12
+    },
+    {
+        "parent": 45,
+        "slug": "oeufs-brouilles-intro",
+        "text": "L'oeuf brouillé représente incontestablement, la plus fine des préparations auxquelles peuvent être soumis les oeufs, à condition qu'il ne dépasse pas le degré de cuisson voulu, et qu'il reste moelleux et crémeux. Le mode de service usuel de ce genre d'oeuf est principalement en timbales, mais il peut se faire aussi en petites croustades spéciales, en brioches évidées, croûtes de tartelettes, etc. Il était d'usage, autrefois, d'entourer les oeufs brouillés de petits croûtons de formes diverses, ou de minuscules détails en feuilletage, comme croissants, losanges, anneaux ou palmettes, invariablement cuits à blanc. La méthode a du bon et elle est encore pratiquée en quelques endroits.<br> <em>Principe d'exécution.</em>. – Les cuisiniers de l'ancienne École n'admettaient les oeufs brouillés que cuits au bain-marie. Sans pousser aussi loin le rigorisme, nous n'en établissons pas moins que les oeufs brouillés doivent être traités sans violence, et que leur cuisson doit être progressive et régulière, pour atteindre à la parfaite homogénéité des molécules d'où naît le moelleux.<br> <em>Prop. de base</em>. – Chauffer légèrement 50 grammes de beurre dans une sauteuse à fonds épais ; ajouter 6 oeufs battus en omelette avec sel et poivre ; vanner à feu doux et à la cuiller de bois, en évitant les trop vives atteintes de calorique qui, en solidifiant instantanément les molécules d'oeuf forment les grumeaux qui ne doivent point exister dans des oeufs brouillés traités selon la règle.<br> Dès que la masse a atteint la consistance convenable, retirer la casserole hors du feu, et mettre les oeufs à point avec 50 grammes de beurre divisé en petites parties et un demi-décilitre de crème. Ces oeufs ne doivent être travaillés au fouet qu'en cas d'absolue nécessité.<br> NOTA. – Les proportions des formules suivantes sont établies pour 6 oeufs au nombre.",
+        "pk": 13
+    },
+    {
+        "parent": 46,
+        "slug": "oeufs-de-vanneaux-et-de-pluviers-intro",
+        "text": "<strong>(CHAUDS ET FROIDS)</strong><br> Toutes les préparations ordinaires des oeufs sont applicables aux oeufs de vanneaux et de pluviers, mais on les sert plutôt durs et froids, dressés sur un lit de cresson ou de persil.",
+        "pk": 14
+    },
+    {
+        "parent": 47,
+        "slug": "omelettes-intro",
+        "text": "OBSERVATION. – Nous adoptons comme type, pour l'établissement des proportions des recettes ci-dessous, l'omelette de 3 oeufs. L'assaisonnement se règle à 2 grammes de sel et 1 pincée de poivre. La quantité de beurre pour l'apprêt est de 15 grammes. Le cordon de sauce que nous indiquons autour de la plupart des omelettes n'est pas obligatoire, mais très recommandable pourtant. Quoique très simple, la préparation d'une omelette demande beaucoup d'attention pour être parfaite. Les oeufs doivent être battus au dernier moment, et versés dans la poêle lorsque le beurre est presque à la noisette. Il communique alors à l'omelette un goût exquis, en même temps qu'il en facilite singulièrement l'exécution.",
+        "pk": 15
+    },
+    {
+        "parent": 48,
+        "slug": "oeufs-froids-intro",
+        "text": "OBSERVATION. – Le traitement des oeufs froids relevant de l'idée du moment, du goût de l'ouvrier et surtout de la fantaisie, la série en serait inépuisable. Nous en citerons donc seulement quelques-uns, en recommandant encore une fois à nos collègues, pour cet usage, le poche-oeufs Cieux, qui permet, par la correction du pochage, de combiner des dressages dont la mièvre élégance fait ressortir davantage les combinaisons originales de ces genres de compositions.",
+        "pk": 16
+    },
+    {
+        "parent": 65,
+        "slug": "brochet--intro",
+        "text": "Le brochet ne tient pas, dans la cuisine moderne, la place qu'il tenait dans l'ancienne cuisine ; pourtant, certaines de ses préparations méritent d'être conservées. Faire choix, autant que possible, de pièces pesant de 2 à 3 kil. et, en tous cas, ne dépassant pas 7 à 8 kil., à moins qu'elles ne soient spécialement destinées à des farces.",
+        "pk": 17
+    },
+    {
+        "parent": 67,
+        "slug": "carpe-intro",
+        "text": "<strong>(<em>Prop</em>. <em>pour 1 service 1 kil. 5</em> à <em>600 en une ou plusieurs pièces</em>.)</strong>",
+        "pk": 18
+    },
+    {
+        "parent": 68,
+        "slug": "laitances-intro",
+        "text": "Selon leur destination, les laitances sont pochées au court-bouillon, au vinaigre ou au vin blanc, ou traitées à cru, après avoir été dégorgées à l'eau froide. Les courts-bouillons doivent être cuits à l'avance, pour diffusion de la note aromatique.",
+        "pk": 19
+    },
+    {
+        "parent": 69,
+        "slug": "esturgeon-intro",
+        "text": "Poisson à chair ferme, sans grande saveur, qui ne se sert guère que braisé, ou en fricandeaux, grenadins, etc.",
+        "pk": 20
+    },
+    {
+        "parent": 72,
+        "slug": "lamproie-intro",
+        "text": "Peut recevoir toutes les préparations de l'anguille, Elle est plus fine, plus grasse que celle-ci, et on doit l'échauder pour la dépouiller de son enveloppe visqueuse, et la faire dégorger soigneusement. Nous donnerons simplement, en ce qui la concerne, l'originale formule suivante :",
+        "pk": 21
+    },
+    {
+        "parent": 78,
+        "slug": "saumon-intro",
+        "text": "<strong>(<em>Prop</em>. <em>pour 1 service : 1 kil.</em>)</strong><br> <em>Principe de traitement</em>. – Les pièces de saumon entières et les grosses darnes sont le plus généralement traitées par le court-bouillon au vinaigre ; inondées à froid, couvertes d'une serviette et portées doucement à l'ébullition. La cuisson se fait ensuite sur le côté du feu, et sans ébullition. Le temps de pochage, toujours compté depuis l'instant où le court-bouillon entre en ébullition est de 15 minutes par kilo pour les grosses pièces et de 20 à 25 pour les tronçons.<br> L'accompagnement du saumon court-bouillonné comporte généralement 2 sauces, comme : anchois, câpres, crevettes, genevoise, hollandaise, homard, huîtres, mousseline, nantua, noisette, ravigote, vénitienne, etc.<br> En Angleterre, le saumon est toujours accompagné de concombres en tranches nature ou en salade. Quand le poisson est servi froid, le concombre sert à le décorer.",
+        "pk": 22
+    },
+    {
+        "parent": 82,
+        "slug": "truites-de-riviere-intro",
+        "text": "Bleu (au). – Doivent être traitées vivantes par le court-bouillon, selon le procédé indiqué (voir <em>Poissons au bleu</em>). – Pour accomp. : Voir <em>Brochet</em>.",
+        "pk": 23
+    },
+    {
+        "parent": 90,
+        "slug": "cabillaud-intro",
+        "text": "<strong>(<em>Prop. pour 1 service : 1 kil. 250.</em>)</strong><br> Se cuit à l'eau salée, et toutes les sauces qui conviennent au turbot lui sont applicables. Ses trois préparations principales sont les suivantes :",
+        "pk": 24
+    },
+    {
+        "parent": 91,
+        "slug": "carrelet-intro",
+        "text": "N'est que peu usité, et peut s'accommoder de certains apprêts du Turbotin. Reçoit plus spécialement les apprêts suivants.",
+        "pk": 25
+    },
+    {
+        "parent": 96,
+        "slug": "haddock-intro",
+        "text": "Petite merluche, décapitée et fumée. Le Haddock constitue l'un des meilleurs éléments de breakfast et se traite :",
+        "pk": 26
+    },
+    {
+        "parent": 100,
+        "slug": "morue-intro",
+        "text": "<strong>(<em>Prop</em>. <em>pour 1 service : 1 kil. 250.</em>)</strong><br> Celle d'Islande est préférable, surtout pour la Brandade. – Quelle que soit sa provenance, ne l'employer que dessalée à point, et rectifier l'assaisonnement après cuisson s'il y a lieu.",
+        "pk": 27
+    },
+    {
+        "parent": 105,
+        "slug": "raie-intro",
+        "text": "<strong>(<em>Prop. pour 1 service : 2 kil. brut.</em>)</strong><br> Parmi les différentes espèces de Raies, celle dite « bouclée » est la préférable. En Angleterre, en Belgique et en Hollande, elle est mise en vente dépouillée et nettoyée, et il n'y a plus qu'à procéder à sa cuisson.<br> <em>Principe de traitement</em>. – Si elle est brute, la brosser, laver et détailler. La pocher à l'eau salée, à raison de 12 grammes, et acidulée de 2 décilitres de vinaigre au litre. Étant cuite, l'égoutter pour en enlever la peau.",
+        "pk": 28
+    },
+    {
+        "parent": 106,
+        "slug": "rougets-intro",
+        "text": "<strong>(<em>Prop</em>. <em>pour 1 service : 10 rougets du poids</em></strong><br> \n<em>de 125 grammes en moyenne.)</em>\n<br> Poisson dépourvu de fiel, ce qui fait que beaucoup se contentent d'en retirer seulement les ouïes, sans le vider. Le meilleur des rougets est celui de roche, de la Méditerranée. Il est pré férable, pour n'importe quel apprêt, de sauter ou griller le Rouget que de le pocher.",
+        "pk": 29
+    },
+    {
+        "parent": 108,
+        "slug": "sardines-et-royans-intro",
+        "text": "Les sardines fraîches sont susceptibles de recevoir de multiples préparations, et notre collaborateur Caillat a consacré, à cette clupée, 150 excellentes recettes, dont nous recommandons l'étude à nos collègues. Titre de l'ouvrage : <em>150 Manières d'accommoder les Sardines,</em> par A. Caillat. Les formules suivantes en sont extraites.",
+        "pk": 30
+    },
+    {
+        "parent": 110,
+        "slug": "soles-entieres-intro",
+        "text": "(<em>Prop. pour 1 service : 3 soles du poids de 400 grammes chaque</em>).<br> Nous conseillons de parer les soles destinées à être saucées au ras des filets. Elles y perdent en apparence, mais leur service y gagne, sans compter que l'on économise sauce et garniture. Les parures trouvent leur placement dans l'apprêt des fumets.<br> NOTA. – Il est indiqué dans nombre de formules de « couvrir d'un papier beurré », mais il est sous-entendu que le papier d'office employé doit être de pâte excellente, et ne pas risquer de donner aux objets avec lesquels il prend contact un goût désagréable. Il vaut infiniment mieux, dans ce cas, couvrir non pas l'objet, mais l'ustensile où il est mis en cuisson.",
+        "pk": 31
+    },
+    {
+        "parent": 111,
+        "slug": "filets-de-soles-intro",
+        "text": "<strong>(<em>Prop. pour 1 service : 15 filets. Soles de 350 grammes poids brut.</em>)</strong>",
+        "pk": 32
+    },
+    {
+        "parent": 113,
+        "slug": "thon-intro",
+        "text": "<strong>(<em>Prop. pour 1 service : 1 kil. 250</em>.)</strong>",
+        "pk": 33
+    },
+    {
+        "parent": 114,
+        "slug": "turbot-intro",
+        "text": "Les grosses pièces de turbot se traitent le plus ordinairement par le court-bouillon D (voir <em>Courts-bouillons</em>), et se dressent avec persil autour, après avoir passé un morceau de beurre à la surface pour leur donner du brillant.<br> Le mouillement du turbot se fait à froid et il est porté doucement à l'ébullition. De l'instant ou celle-ci se manifeste, le temps de pochage se règle à raison de <em>12 minutes au kil.,</em> en maintenant le court-bouillon à 95 degrés, pour la régularité du pochage. Avoir toujours soin de brider la tête du turbot, pour le conserver entier.<br> <em>Turbot pour service de détail</em>. – La pièce est sectionnée dans la longueur en suivant l'épine dorsale, et les parties sont détaillées selon les genres de service. Elles sont traitées par le même court-bouillon et selon les mêmes règles de pochage. Il est bon de remarquer, cependant, que le temps de pochage ne décroît pas avec le poids des morceaux, et qu'un morceau de 300 à 400 grammes exige au moins 20 minutes.<br> <em>Accompagnements du turbot bouilli</em>. – Sauces : Câpres, Hollandaise, Crevettes, Homard, Noisette, Vénitienne, etc., et, invariablement : pommes de terre à l'anglaise.<br> <em>Turbot braisé</em>. – Ce n'est qu'accidentellement, et dans des circonstances spéciales, que le turbot est braisé.<br> Dans ce cas, le facteur de cuisson peut être préparé à l'avance, mais être versé froid sur la pièce. Celle-ci est posée sur grille beurrée et disposée de façon à ce que le turbot puisse être facilement glissé sur le plat. Le braisage se fait au four et toujours à couvert jusqu'au moment du glaçage. Les aromates se placent sous la grille ; on tient le mouillement court et on arrose souvent.<br> NOTA. – Le turbot détaillé est couramment servi, en Angleterre, grillé, et accompagné d'une sauce quelconque, ou à la Meunière.",
+        "pk": 34
+    },
+    {
+        "parent": 115,
+        "slug": "turbotin-intro",
+        "text": "Poisson exquis, qui a l'avantage de se prêter à tous les genres de services. On peut le pocher à l'eau salée comme le turbot ; mais, le plus généralement, il est braisé au vin blanc, rouge ou au Champagne ; ou bien on le fait griller. La cuisson par pochage s'évalue à 15 minutes au kilo et à 16 minutes quand il est traité par la grillade. Indépendamment des quelques formules ci-dessus, toutes les préparations décrites aux grosses pièces de soles lui sont applicables. Nous rappelons enfin que tous les apprêts du turbotin conviennent à la barbue.",
+        "pk": 35
+    },
+    {
+        "parent": 118,
+        "slug": "crevettes-intro",
+        "text": "Indépendamment de leur emploi en hors-d'oeuvre et garnitures, les crevettes se traitent de différentes façons, parmi lesquelles :",
+        "pk": 36
+    },
+    {
+        "parent": 119,
+        "slug": "ecrevisses-intro",
+        "text": "<strong>(<em>Prop</em>. <em>pour 1 service : 30 écrevisses.)</em></strong>",
+        "pk": 37
+    },
+    {
+        "parent": 120,
+        "slug": "homard-intro",
+        "text": "<strong>(<em>Prop. pour 1 service : 2 homards.</em>)</strong>",
+        "pk": 38
+    },
+    {
+        "parent": 122,
+        "slug": "langoustine-intro",
+        "text": "<strong>(<em>Prop</em>. <em>de service : 1 par personne.</em>)</strong>",
+        "pk": 39
+    },
+    {
+        "parent": 123,
+        "slug": "terrapene-intro",
+        "text": "<strong>(<em>Prop</em>. <em>pour 1 service : 2 terrapènes ou 2 boites.</em>)</strong><br> Petite tortue de l'Amérique du Nord dénommée « diamant back, » très estimée des Américains.",
+        "pk": 40
+    },
+    {
+        "parent": 124,
+        "slug": "tortue-intro",
+        "text": "Si la chair et les nageoires de tortue employées pour préparer le potage doivent être utilisées, elles ne doivent être cuites qu'aux deux tiers, et finies en les braisant au madère. On les accompagne d'une garniture brune comme financière ou tortue.",
+        "pk": 41
+    },
+    {
+        "parent": 125,
+        "slug": "oursins-intro",
+        "text": "Les oursins fournissent une purée qui est un excellent élément pour les sauces de poissons. On l'associe particulièrement à la béchamel dans les proportions de 3 douzaines d'oursins par litre de sauce.",
+        "pk": 42
+    },
+    {
+        "parent": 127,
+        "slug": "moules-intro",
+        "text": "<strong>(<em>Prop</em>. <em>pour 1 service : 2 litres et demi grosses, 2 litres moyennes</em>.)</strong>",
+        "pk": 43
+    },
+    {
+        "parent": 128,
+        "slug": "escargots-intro",
+        "text": "<strong>(<em>Prop</em>. : <em>6 par personne</em>.)</strong><br> <em>Principe de traitement :</em> 1° Les laver à plusieurs eaux, retirer la cloison calcaire qui les ferme et les mettre à dégorger pendant 1 heure avec une forte poignée de sel gris, 2 verres de vinaigre et une petite poignée de farine ; 2° les laver à nouveau à grande eau froide pour les débarrasser des mucosités, et les blanchir 5 minutes en les couvrant amplement d'eau. Égoutter et rafraîchir ; 3° les marquer en cuisson avec moitié vin blanc et eau ; carotte, oignon et échalotes émincés, fort bouquet garni. Saler à 8 grammes au litre de mouillement et cuire pendant 3 heures au moins ; 4° égoutter, et les sortir bien entiers de la coquille ; supprimer le bout noir dit « le cloaque » ; les sauter à la poêle avec 100 grammes de beurre, 8 grammes de sel, 2 grammes de poivre, et 1 gramme d'épices. Mettre en coquilles ou réserver en terrine.",
+        "pk": 44
+    },
+    {
+        "parent": 129,
+        "slug": "grenouilles-intro",
+        "text": "<strong>(<em>Prop</em>. : <em>6 par couvert</em>.)</strong>",
+        "pk": 45
+    },
+    {
+        "parent": 131,
+        "slug": "viandes-de-boucherie-intro",
+        "text": "les volailles et viandes blanches servies comme Relevés ou Entrées, sont toujours braisées, poêlées, sautées ou pochées. – Les pièces de Boeuf, Mouton, Agneau et Pièces de venaison destinées aux mêmes services, sont quelquefois rôties ; mais, le plus souvent, elles sont traitées par l'un des quatre modes de cuisson indiqués ci-dessous. – Ces modes de cuisson relèvent tous du travail des Sauces, et c'est leur extrême importance qui donne à cette partie la prépondérance absolue dans le travail culinaire.<br> Les Principes généraux qui régissent la Conduite de ces opérations fondamentales sont les mêmes pour toutes les viandes auxquelles ils s'appliquent : soit Boucherie, Volailles ou Gibiers. Quelques détails seulement, qui sont indiqués à la suite des opérations qui les concernent spécialement, diffèrent du procédé général.",
+        "pk": 46
+    },
+    {
+        "parent": 142,
+        "slug": "entrecote-intro",
+        "text": "<strong>(<em>Prop</em>. <em>pour 1 service : 3 entrecôtes de 400 grammes.</em>)</strong><br> Bien que, comme son nom l'indique, l'entrecôte soit la partie qui se trouve entre deux côtes, il est généralement pris sur le contrefilet dans le service de détail ; et c'est pourquoi nous le classons comme son dérivé.",
+        "pk": 47
+    },
+    {
+        "parent": 147,
+        "slug": "filet-de-boeuf-et-derives-intro",
+        "text": "<strong>BIFTECKS, BITOKES, CHATEAUBRIAND, FILETS MIGNONS ET EN CHEVREUIL, FILETS SAUTÉS, KEFTÉDÈS ET TOURNEDOS</strong><br> Le filet représente la partie la plus fine du boeuf et, logiquement, il devrait s'appeler « filet mignon », le filet réel étant représenté par ce que la boucherie dénomme « le contre-filet »<br> Les filets pour pièces de relevés sont généralement piqués de lard ou, incidemment, de truffes ou de langue écarlate ; ou bien encore, enveloppés d'une duxelles sèche ou d'une matignon. Lors même que la préparation indique, par sa nature, un piquage autre que le lard, nous sommes partisan d'adopter le piquage panaché, c'est-à-dire lard et truffes, ou lard et langue, le lard ayant surtout pour but de nourrir la viande pendant sa cuisson.<br> Ils sont, selon les cas, poêlés ou rôtis, mais le traitement par le premier mode est préférable, parce qu'il permet de donner au fonds un supplément important de saveur. A moins d'indication contraire, le filet doit être tenu rosé intérieurement.<br> Le poids de filet est généralement fixé à 1 kil. 100 grammes (poids brut) par service de 10.<br> <strong>FORMULES</strong><br> (Pour l'explication complète des <em>Garnitures,</em> voir ce chapitre.)",
+        "pk": 48
+    },
+    {
+        "parent": 148,
+        "slug": "biftecks-intro",
+        "text": "<strong>(<em>Prop</em>. <em>par couvert : 200 grammes.</em>)</strong><br> En principe, le bifteck est pris sur le filet, mais il peut tout aussi bien être fourni par le contre-filet ou la tête d'aloyau, sans qu'il y ait de dérogation à la règle ; puisque son étymologie anglaise, qui se traduit littéralement par tranche de boeuf ou <em>Beefsteack</em>, n'indique pas de partie spéciale pour le prendre. Peut recevoir toutes les préparations de l'entrecôte, indépendamment de celles ci-dessous.",
+        "pk": 49
+    },
+    {
+        "parent": 155,
+        "slug": "tournedos-et-medaillons-intro",
+        "text": "Trop de discussions se sont élevées autour de l'origine du Tournedos et de son étymologie, sans parvenir à fixer l'une ni à déterminer l'autre, pour que nous reprenions le sujet auquel, d'ailleurs, notre cadre ne se prête pas. Nous établirons simplement qu'il se prend en plein filet, et du poids moyen de 100 à 110 grammes.<br> <em>Principe de traitement :</em> Les tournedos et les médaillons, leur succédané, se sautent ou se grillent. Il est dans les habitudes de les dresser sur croûtons de pain frits, ou sur croquettes combinées avec l'un, ou les éléments de la garniture, ou tout au moins d'éléments s'y rapportant directement. Nous avons exprimé notre opinion, dans la « Théorie du dressage », sur ces sortes d'accessoires, et nous n'y reviendrons pas. Nous dirons seulement que, en toute occasion où les tournedos sont dressés sur croûtons, il est utile que ceux-ci soient nappés de glace de viande, qui forme isolant entre la viande et le pain, et empêche celui-ci d'absorber le jus qui s'échappe de celle-là.<br> – En toute occasion où les tournedos sont sautés, la sauteuse doit être déglacée avec un jus ou condiment liquide en rapport avec leur jus ou sauce d'accompagnement, comme : vin rouge ou blanc, madère, cuisson de champignons, essence de truffes, etc. Toutes choses que l'expérience indique, et qu'il est inutile de préciser. (Pour les détails concernant les garnitures indiquées pour les tournedos, voir au chap. des <em>Garnitures.)</em><br> <strong>FORMULES</strong>",
+        "pk": 50
+    },
+    {
+        "parent": 156,
+        "slug": "langue-intro",
+        "text": "S'emploie fraîche ou salée ; mais même lorsqu'elle doit être servie fraîche, elle gagne d'être mise au sel quelques jours à l'avance. Pour la saler elle est mise en saumure spéciale, pendant un temps qui est déterminé par sa grosseur et l'état de la température. (Voir <em>Saumure</em>, chap. des <em>Sauces,</em> série des <em>Marinades</em>.)<br> La langue s'accompagne de garnitures de légumes, mais principalement de purées ou de sauces relevés.<br> <em>Principe de traitement :</em> Se traite par le braisage selon le procédé établi.",
+        "pk": 51
+    },
+    {
+        "parent": 158,
+        "slug": "palais-intro",
+        "text": "Très usité dans l'ancienne cuisine et complètement négligé par la cuisine moderne, sauf en quelques endroits.<br> <em>Principe de traitement</em> : Dégorger, blanchir et dépouiller. La cuisson traitée par un blanc très léger comme pour la tête de veau, mais plus longue. Elle est de 4 heures au moins.<br> <strong>USAGES DIVERS :</strong>",
+        "pk": 52
+    },
+    {
+        "parent": 160,
+        "slug": "pointe-de-culotte-intro",
+        "text": "Partie à préférer pour les pièces de Bouilli, et les Braisés particulièrement. Quel que soit son emploi, le poids des morceaux doit être limité à 3 ou 4 kilos au plus, et leur détail doit se faire plutôt en longueur qu'en épaisseur pour la facilité de la cuisson. Toutes les garnitures applicables à l'aloyau conviennent aux pièces de boeufs braisées.<br> Les pièces bouillies s'accompagnent généralement de leurs légumes de cuisson, ou de purées quelconques, légumes verts ou secs, farinages, etc.",
+        "pk": 53
+    },
+    {
+        "parent": 163,
+        "slug": "queue-intro",
+        "text": "Est l'élément de base du potage Ox-Tail, et trouve son emploi encore sous les formes suivantes :",
+        "pk": 54
+    },
+    {
+        "parent": 164,
+        "slug": "rognon-intro",
+        "text": "Le rognon de boeuf ne s'emploie que sauté. Cependant, en Angleterre, il sert à la préparation des « Steacks and Kidneys pies et Puddings. »<br> <em>Principe de traitement :</em> Dénervé, dégraissé et escalopé en morceaux pas trop minces. S'il semble venir d'une bête vieille, il est prudent de le plonger à l'eau bouillante un instant et de l'éponger aussitôt. Il est alors sauté au beurre à feu vif et tenu vert cuit, puis versé dans une passoire, pour laisser égoutter le sang qui, portant une odeur alcaline, doit être jeté.<br> Le sautoir est déglacé au vin blanc, rouge, ou au madère, selon les cas et, à ce déglaçage réduit, on ajoute la sauce qui convient à la préparation (soit 1 décilitre et demi par service). La sauce passée, les rognons y sont ajoutés avec la garniture que comporte la préparation, et on met à point avec 80 grammes de beurre, en roulant la casserole pour mélange. Il est de principe absolu que, aussitôt le rognon dans la sauce, l'ébullition ne doit plus se faire sentir, sinon il devient coriace.",
+        "pk": 55
+    },
+    {
+        "parent": 165,
+        "slug": "tete-d-aloyau-intro",
+        "text": "Est l'extrémité de la culotte de boeuf et se trouve détachée de celle-ci quand on détaille le boeuf, de façon à laisser le filet tout entier après l'aloyau. On la braise comme la culotte, mais elle est surtout le véritable élément des Rumpsteacks. En France, on sert généralement sous ce nom des morceaux épais de Contrefilet, ce qui est une erreur, car Rumpsteack veut dire tranche de <em>Rump, </em>qui est précisément la traduction anglaise de « Tête d'aloyau ». – Il peut être grillé ou sauté ; mais, dans un cas comme dans l'autre, il doit être <em>saisi.</em><br> Toutes les formules des Entrecôtes, Biftecks et Filets lui sont applicables. En Angleterre, pays d'origine du Rumpsteack, on le sert surtout grillé ou sauté.",
+        "pk": 56
+    },
+    {
+        "parent": 170,
+        "slug": "beefsteack-pies-et-puddings-a-l-anglaise-intro",
+        "text": "<strong>A L'ANGLAISE</strong><br> Rien d'aussi simple à faire que ces articles anglais ; mais rien d'aussi difficile à bien réussir par qui n'en a pas l'habitude, car ce sont des mets qui ne peuvent se retoucher, et qui doivent se trouver à point du premier coup, comme assaisonnement, mouillement et cuisson.",
+        "pk": 57
+    },
+    {
+        "parent": 173,
+        "slug": "daube-intro",
+        "text": "<em>Procédé type :</em> 1 kil. 500 de Culotte ou Paleron maigre, détaillé en escalopes épaisses. – Larder transversalement ces escalopes avec un bout de lardon roulé dans le persil haché mélangé d'une pointe d'ail écrasé. – Assaisonner de 12 grammes de sel et 2 grammes poivre ; saupoudrer d'échalote hachée et mariner pendant 2 heures avec 1 bouteille de vin rouge et bouquet garni.<br> Foncer de bardes une daubière en terre de dimensions proportionnées. – Eponger les escalopes, et les colorer des deux côtés, à la graisse et à la poêle. – Les ranger dans la daubière avec la marinade (bouquet compris) ; couvrir, luter au repère et ne laisser qu'une toute petite ouverture. – Cuire doucement pendant 4 heures, et servir tel après avoir retiré le bouquet.",
+        "pk": 58
+    },
+    {
+        "parent": 174,
+        "slug": "eminces-intro",
+        "text": "Se font de préférence avec les viandes rôties et braisées de dessertes, comme aloyau, contrefilet, filet.<br> <em>Principe de traitement :</em> Détailler en tranches excessivement minces ; ranger sur plat et couvrir avec la sauce bouillante. Dans aucun cas, les émincés provenant de viandes rôties ne doivent bouillir avec la sauce, l'ébullition ayant pour effet immédiat de durcir la viande et de la rendre coriace.",
+        "pk": 59
+    },
+    {
+        "parent": 175,
+        "slug": "estouffade-intro",
+        "text": "<em>Procédé</em> : 1° Détailler en morceaux carrés de 100 grammes, poids moyen, 600 grammes de paleron et autant de chair de côtes couvertes entrelardée. – Faire revenir au beurre 250 grammes de lard maigre en dés, blanchi. – Egoutter et, dans la même graisse, faire revenir les morceaux de boeuf et 250 grammes d'oignons moyens en quartiers. – Ajouter 1 gousse d'ail écrasée, 12 grammes de sel et 2 grammes de poivre ; singer de 40 grammes de farine (2 moyennes cuillerées) et faire roussir en remuant. – Mouiller d'une bouteille de vin rouge et un litre de fonds brun ; faire partir en ébullition, ajouter un bouquet garni, et cuire au four pendant 2 heures et demie à 3 heures.<br> 2° Renverser le tout sur un tamis placé au-dessus d'une terrine. Recueillir morceaux de boeuf et lardons dans un sautoir, et leur adjoindre 250 grammes de champignons sautés à beurre à cru. – Laisser reposer la sauce pendant 3 quarts d'heure pour que la graisse monte à la surface. – Dégraisser ; mettre à point de consistance en réduisant ou relâchant, et passer sur l'Estouffade. Laisser mijoter encore un quart d'heure avant de servir.",
+        "pk": 60
+    },
+    {
+        "parent": 177,
+        "slug": "goulash-et-sautes-intro",
+        "text": "Le principe hongrois du Goulash est aussi vague que celui de notre Navarin, dont il est l'équivalent dans la cuisine hongroise, et en l'appropriant aux exigences des services du restaurant, on a encore augmenté la confusion des formules. Nous en donnons ci-dessous deux recettes : L'une nous a été démontrée par Mme Katinka, la célèbre artiste hongroise ; l'autre est celle qui est pratiquée dans les restaurants. La valeur de ce mets dépend essentiellement de la qualité du paprika que l'on emploie pour son apprêt, et sur 10 marques de ce condiment, il en est au moins 9 de mauvaises.<br> Il y a donc lieu de prendre en considération ce détail important. Le bon paprika est doux, très parfumé et coloré.",
+        "pk": 61
+    },
+    {
+        "parent": 178,
+        "slug": "hachis-intro",
+        "text": "Les hachis suivent le principe de traitement des Émincés, c'est-à-dire que, pour les raisons énumérées, ils ne doivent pas bouillir dans la sauce. Leur liaison se fait à la demi-glace bouillante, et à raison de 2 décilitres et demi de sauce par kilo de hachis.",
+        "pk": 62
+    },
+    {
+        "parent": 179,
+        "slug": "paupiettes-intro",
+        "text": "S'obtiennent au moyen d'escalopes de tête de contrefilet (partie nerveuse), ayant 10 centimètres de long sur 5 de large et du poids moyen de 100 à 110 grammes. – Après avoir été aplaties légèrement, elles sont farcies, roulées, ficelées, braisées selon le procédé général, et glacées finalement avec leur fonds de cuisson.",
+        "pk": 63
+    },
+    {
+        "parent": 180,
+        "slug": "sale-et-fume-(boeuf)-intro",
+        "text": "Le boeuf salé doit être trempé à l'avance, et il est cuit ensuite à grande eau, à raison de 30 minutes au kilo. Le boeuf fumé se traite de même. Toutes les garnitures du boeuf bouilli leur sont applicables, mais celles qui leur conviennent le mieux sont : la choucroute, les choux rouges, et les choux ordinaires braisés ou farcis.",
+        "pk": 64
+    },
+    {
+        "parent": 182,
+        "slug": "amourettes-et-cervelles-intro",
+        "text": "Nous classons ces deux articles ensemble, en raison de leur similitude, et parce que les mêmes méthodes leur conviennent. Leur traitement préalable est exactement celui des amourettes et cervelle de Boeuf.",
+        "pk": 65
+    },
+    {
+        "parent": 185,
+        "slug": "cotes-intro",
+        "text": "<strong>(<em>1 au nombre.</em>)</strong><br> <em>Observations</em> : 1° Pour toutes les côtes qui sont indiquées « sautées », le sautoir est déglacé avec un élément liquide en rapport avec la sauce d'accompagnement, et ajouté à cette sauce.<br> 2° Dans l'article « Modes divers, » nous résumons les différentes formules applicables aux Côtes de veau, qui ont été indiquées dans la Série des Tournedos, et qui partent du même principe ; abstraction faite des croûtons de dressage.",
+        "pk": 66
+    },
+    {
+        "parent": 187,
+        "slug": "filet-intro",
+        "text": "Est parfois, et à tort, confondu sur les menus avec la Longe-Filet et Longe ont leurs emplois spéciaux et, ici, il ne s'agit que du Filet de veau.",
+        "pk": 67
+    },
+    {
+        "parent": 189,
+        "slug": "fraise-intro",
+        "text": "Se cuit dans un <em>blanc</em>, comme la tète de veau, mais après avoir été bien dégorgée. Elle doit être servie brûlante, sous quelque forme que ce soit et avec accompagnement relevé.",
+        "pk": 68
+    },
+    {
+        "parent": 191,
+        "slug": "langues-intro",
+        "text": "Sont blanchies d'abord, puis braisées, selon le procédé général de cette opération. Pour le service, elles sont dépouillées, dressées sur plat rond et en rond, la pointe en dedans appuyée sur un tampon de pain ; ou bien entières ou sectionnées dans la longueur selon les cas. La garniture est disposée dans les intervalles, et les langues sont saucées de leur fonds réduit.",
+        "pk": 69
+    },
+    {
+        "parent": 193,
+        "slug": "mou-intro",
+        "text": "<strong>(<em>Prop</em>. <em>pour 1 service : 1.250 grammes</em>).</strong>",
+        "pk": 70
+    },
+    {
+        "parent": 194,
+        "slug": "noix-de-veau-intro",
+        "text": "<strong>ET SES DÉRIVÉS : ESCALOPES, FRICANDEAU, GRENADINS, MÉDAILLONS,</strong><br> <strong>NOISETTES</strong><br> La noix de veau est généralement piquée, mais seulement sur la partie découverte qui touche l'os du quasi. On peut la rôtir, mais le braisage est le mode de traitement qui lui convient le mieux.<br> <strong>Garnitures qui lui sont applicables, non encore indiquées.</strong>",
+        "pk": 71
+    },
+    {
+        "parent": 195,
+        "slug": "escalopes-intro",
+        "text": "\n<em>100 à 120 gramme</em>\n<br> Se prennent de préférence dans le filet ou le contrefilet, ou, à défaut, dans la noix. On les aplatit très minces et on leur donne la forme d'ovales ou de coeurs. Étant donné leur peu d'épaisseur, elles sont toujours panées et sautées vivement. Les sauces et garnitures sont servies à part, sauf quand il s'agit de purées ou de garnitures de légumes verts.",
+        "pk": 72
+    },
+    {
+        "parent": 198,
+        "slug": "medaillons-et-noisettes-intro",
+        "text": "Sont détaillés comme leurs noms l'indiquent, plus épais et moins grands que les escalopes. Ils sont invariablement sautés, parce que le braisage les durcit et les sèche.",
+        "pk": 73
+    },
+    {
+        "parent": 199,
+        "slug": "oreilles-intro",
+        "text": "Quel que soit l'emploi auquel on les destine, elles doivent être bien nettoyées et blanchies.",
+        "pk": 74
+    },
+    {
+        "parent": 200,
+        "slug": "paupiettes-intro",
+        "text": "S'obtiennent en taillant sur la noix ou la sous-noix des escalopes de 10 à 12 centimètres de long sur 5 de large qui, après avoir été légèrement aplaties sont masquées d'une farce en rapport avec leur destination, roulées, ficelées, et braisées.<br> Pour le dressage, si la garniture comporte des tartelettes, demi-tomates, ronds de concombres ou d'aubergines garnis, les paupiettes sont de préférence dressées sur ces détails. Les sauces des garnitures ci-dessous sont indiquées au chapitre des dites.",
+        "pk": 75
+    },
+    {
+        "parent": 201,
+        "slug": "pieds-intro",
+        "text": "Sont blanchis d'abord, puis désossés et cuits au blanc ou braisés, selon leur destination.",
+        "pk": 76
+    },
+    {
+        "parent": 202,
+        "slug": "poitrine-intro",
+        "text": "Quand elle doit être employée entière, la poitrine est généralement désossée, ouverte en poche et garnie d'une farce quelconque dont la plus usuelle est celle-ci : 1 kilo de chair à saucisses fine, 125 grammes de duxelles sèche ; 125 grammes beurre, 5 grammes persil haché, pincée d'estragon, 1 oeuf et bien mélanger le tout. Avoir soin de bien recoudre l'ouverture de la poitrine.<br> Braiser doucement et à court mouillement. – Temps de cuisson pour une poitrine du poids de 5 kil. pesant : 3 heures et demie à 4 heures, à four de chaleur douce, mais bien soutenue.",
+        "pk": 77
+    },
+    {
+        "parent": 203,
+        "slug": "tendrons-intro",
+        "text": "Quand les tendrons doivent être servis braisés, certains praticiens les font revenir et les marquent ensuite comme un braisé ordinaire. Il est préférable de les cuire comme un morceau de veau à la casserole, c'est-à-dire les étuver au beurre avec très court mouillement, renouvelé souvent ainsi que l'arrosage. – Le tendron doit comprendre un morceau de toute la largeur de la poitrine ; s'il est coupé en travers ce n'est plus un tendron, c'est un morceau de veau à sauter quelconque.",
+        "pk": 78
+    },
+    {
+        "parent": 205,
+        "slug": "ris-intro",
+        "text": "Les ris destinés à être servis entiers doivent être bien dégorgés, blanchis pour raffermissement de l'épiderme, rafraîchis, et mis à refroidir sous presse légère. On les pique de lard, langue ou truffes, ou on les cloute selon les cas, et on les braise à blanc ou à brun.",
+        "pk": 79
+    },
+    {
+        "parent": 206,
+        "slug": "rognons-intro",
+        "text": "Les rognons de veau pour sauter ne doivent pas être détaillés trop minces, ce qui les expose à durcir ; et ils sont d'abord dégraissés et dénervés. S'ils doivent être grillés, on les pare de façon à laisser autour une mince couche de graisse, et on les fend en deux en longueur pour les embrocher.",
+        "pk": 80
+    },
+    {
+        "parent": 207,
+        "slug": "selle-intro",
+        "text": "La Selle de veau pour Relevé se sert braisée ou rôtie. On doit préférer le braisage qui fournit pour cette pièce un fonds de grande valeur. Quelque soit le mode adopté, on supprime les rognons, on dégraisse fortement, et les bavettes sont rognées de façon à ce que, étant repliées, elles couvrent juste les filets. Puis la pièce est rognée, d'un côté au ras des os du quasi, et de l'autre au ras des côtes. – Temps de braisage : 3 heures.",
+        "pk": 81
+    },
+    {
+        "parent": 208,
+        "slug": "tete-intro",
+        "text": "La cuisson de la tête de veau est toujours traitée par un <em>Blanc</em>. Si la tête est pour être détaillée, elle est désossée avant d'être mise à dégorger. Quand elle est blanchie entière (sans être désossée), il faut 30 minutes de blanchissage ; si elle est désossée, 15 minutes suffisent. Étant rafraîchie, elle est frottée avec un morceau de citron, et mise immédiatement dans le <em>Blanc</em> bouillant. – Pour la cuire entière, elle est emballée dans une serviette afin de pouvoir la sortir facilement ; si elle est cuite désossée, elle est également couver te d'une serviette pour éviter le contact de l'air qui la noircirait.<br> Le Blanc se marque à raison de 10 grammes de farine et 8 grammes de sel au litre d'eau, et s'acidule d'une cuillerée de vinaigre ou de la chair d'un demi-citron, au litre également.<br> Quelle que soit la façon dont la Tête est servie, elle doit toujours être accompagnée d'une escalope de langue et de cervelle.",
+        "pk": 82
+    },
+    {
+        "parent": 211,
+        "slug": "blanquette-intro",
+        "text": "<strong><em>(1500 à 1800 grammes pour 1 service.</em>)</strong>",
+        "pk": 83
+    },
+    {
+        "parent": 216,
+        "slug": "sautes-intro",
+        "text": "<strong>(<em>1 kil. 700 par service</em>.)</strong>",
+        "pk": 84
+    },
+    {
+        "parent": 218,
+        "slug": "animelles-intro",
+        "text": "Les animelles jouaient un rôle assez important dans l'ancienne cuisine, et sont encore très estimées dans certains pays. Elles doivent être échaudées, dépouillées, et longuement dégorgées ensuite. Au moment de l'apprêt, elles sont escalopées et épongées.",
+        "pk": 85
+    },
+    {
+        "parent": 225,
+        "slug": "pieds-intro",
+        "text": "<strong>(<em>20 pieds pour 1 service.</em>)</strong><br> Désossés et flambés. Enlever la touffe de poils qui se trouve entre les orteils et supprimer ceux-ci. – Se cuisent généralement au Blanc, selon le procédé indiqué aux « Pieds de veau. »",
+        "pk": 86
+    },
+    {
+        "parent": 226,
+        "slug": "poitrine-intro",
+        "text": "Est généralement employée pour les Navarins, Irish-Stew, Cassoulets, etc. Elle s'emploie aussi pour Épigrammes après avoir été bouillie ou braisée ; mais cette préparation s'applique plutôt à l'agneau qu'au mouton. Enfin elle s'apprête d'après les différents modes suivants :",
+        "pk": 87
+    },
+    {
+        "parent": 228,
+        "slug": "selle-intro",
+        "text": "Toutes les garnitures indiquées à l'article « Baron et Double » sont applicables à cette pièce. C'est des filets de la selle que sont tirées les noisettes qui, avec les tournedos, représentent l'un des articles les plus usités du travail courant. – La selle de mouton se sert braisée ou rôtie.",
+        "pk": 88
+    },
+    {
+        "parent": 233,
+        "slug": "daube-a-l-avignonnaise-intro",
+        "text": "Gigot désossé, détaillé en morceaux carrés de 80 à 90 grammes. Traverser chaque morceau, et dans le sens du fil de la viande, d'un bout de lardon assaisonné de sel épicé. Mettre à mariner pendant 2 heures avec vin rouge, huile (1 décilitre par litre de vin), carottes et oignons émincés, gousses d'ail, thym et laurier, queues de persil.<br> Ranger en terrine tapissée de minces bardes de lard, en alternant les couches de mouton d'un semis d'oignons hachés, pointe d'ail, lard de poitrine en dés blanchi, et couennes fraîches blanchies et détaillées en petits carrés de 2 centimètres de côté, pincée de thym et de laurier pulvérisés. Assaisonner très légèrement chaque couche, et placer au centre un fort bouquet de persil, enfermant une lanière d'écorce d'orange séchée. Mouiller avec la marinade passée, compléter avec fonds pour mouillement à hauteur ; couvrir de bardes, puis fermer et luter hermétiquement la terrine. Cuire pendant 5 heures dans un four de chaleur rigoureusement égale. Se sert en terrines (petites terrines pour service de détail).",
+        "pk": 89
+    },
+    {
+        "parent": 240,
+        "slug": "navarin-intro",
+        "text": "<em>Pour 1 service.</em>. – 2 kil. 500 de mouton (poitrine, collet, épaule, basses côtes) taillé en morceaux de 90 à 100 grammes, revenu vivement en plein feu avec de la graisse clarifiée. Assaisonner de 12 grammes de sel, poivre du moulin, 5 grammes de sucre en poudre (celui-ci se dépose lentement au fond de la casserole où il s'attache et caramélise ; il est ensuite décomposé par le mouillement auquel il communique la couleur nécessaire en même temps qu'il donne du moelleux au fonds). Quand les viandes sont bien rissolées, égoutter presque toute la graisse, singer de 60 grammes de farine et mouiller d'un litre et demi d'eau ou de fonds. Ajouter 300 grammes de tomates fraîches ou 1 décilitre et demi de purée, 1 gousse d'ail écrasé, 1 bon bouquet garni. Laisser cuire une heure. Égoutter ensuite le navarin sur un tamis : prendre les morceaux un à un, pour les parer et les remettre dans une autre casserole. Ajouter 300 grammes de petits oignons glacés et 30 pommes de terre tournées comme pour les pommes à l'anglaise. Passer la sauce sur le navarin après l'avoir bien dégraissée. Faites partir en ébullition. Couvrir hermétiquement, et cuire encore 1 heure. En sortant la casserole du four, la pencher d'un côté pour faciliter le dégraissage. Servir très chaud en timbale.",
+        "pk": 90
+    },
+    {
+        "parent": 243,
+        "slug": "agneau-de-lait-intro",
+        "text": "L'agneau employé en cuisine est de deux sortes : l'agneau de lait qui n'a pas encore brouté, qui est classé parmi les Viandes blanches, et dont le type est l'agneau de Pauillac ; et l'agneau sevré, dont la chair se rapproche déjà de celle du mouton tout en étant plus tendre. – Ce dernier genre, qu'on appelle « pré-salé » à cause de la finesse de sa chair qui rappelle celle des moutons des prés salés, est employé comme le mouton et peut recevoir toutes les préparations qui conviennent à ceux-ci. Dans cette série, nous ne considérons que <em>l'Agneau de lait.</em>",
+        "pk": 91
+    },
+    {
+        "parent": 246,
+        "slug": "carres-intro",
+        "text": "Les carrés d'agneau de pré-salé se traitent comme ceux de mouton. – Ceux d'agneau de lait sont poêlés ou grillés, de préférence à tout autre mode.",
+        "pk": 92
+    },
+    {
+        "parent": 247,
+        "slug": "cotelettes-intro",
+        "text": "Dans l'ordre normal des services, les côtelettes d'agneau se servent par deux, comme les noisettes. Celles d'agneau de pré-salé se préparent comme celles de mouton, et peuvent être traitées également comme les côtelettes d'agneau de lait. A moins d'indication contraire, les côtelettes d'agneau sont panées au beurre quand elles doivent être grillées, et à l'anglaise si elles doivent être sautées ; sauf, toutefois, quand, comme dans certains de leurs modes d'apprêt, elles sont garnies à nu ou farcies.<br> <strong>FORMULES PRINCIPALES</strong>",
+        "pk": 93
+    },
+    {
+        "parent": 248,
+        "slug": "epaules-intro",
+        "text": "Celles d'agneau de pré-salé se traitent comme les épaules de mouton. Quelle que soit la préparation de celles d'agneau de lait, elles ne doivent pas être désossées.",
+        "pk": 94
+    },
+    {
+        "parent": 249,
+        "slug": "gigot-intro",
+        "text": "Toutes les garnitures indiquées aux Barons et Doubles d'agneau sont applicables au gigot, auquel se rattachent en outre les formules suivantes :",
+        "pk": 95
+    },
+    {
+        "parent": 253,
+        "slug": "selle-intro",
+        "text": "La selle d'agneau de pré salé se traite d'après les mêmes formules que celle de mouton.<br> La selle d'agneau de lait, d'après les procédés indiqués à la selle de veau, en tenant compte de la différence de proportions des pièces. Elle se prépare en outre d'après les deux modes ci-dessous qui lui sont particuliers.",
+        "pk": 96
+    },
+    {
+        "parent": 262,
+        "slug": "irish-stew-et-pilaw-a-la-turque-sautes-intro",
+        "text": "Même procédé que pour le mouton, en observant la différence de temps pour le traitement.<br> <strong>Sautés.</strong>",
+        "pk": 97
+    },
+    {
+        "parent": 264,
+        "slug": "carre-intro",
+        "text": "<strong>(<em>Prop. pour 1 service : 1 kil. 400 grammes.</em>)</strong><br> Est généralement rôti et servi avec une purée quelconque ou une garniture de légumes et une sauce relevée. – Le jus d'accompagnement doit toujours provenir du déglaçage de la plaque à rôtir, et être tenu un peu gras.",
+        "pk": 98
+    },
+    {
+        "parent": 272,
+        "slug": "jambon-intro",
+        "text": "Le temps de cuisson des jambons varie selon leur provenance et leur qualité. On compte en moyenne 40 minutes au kilo pour un Yorkshire extra ; temps qui est également celui des jambons de Hambourg ou de Westphalie, tandis que les jambons doux de Bohême et d'Espagne ne demandent guère que 30 minutes.<br> <em>Principe de traitement :</em> Le York est celui qui est le plus employé et le plus fin. – Après 6 heures de trempage, il est brossé, désossé (os du quasi) et marqué en cuisson à grande eau froide, sans aucun assaisonnement ni accompagnement aromatique. L'ébullition étant prise est maintenue ensuite en simple frémissement, de façon à ce que la cuisson se fasse en <em>pochant.</em><br> Le jambon est, autant que possible, refroidi dans sa cuisson.<br> S'il est destiné à être braisé, il est retiré une demi-heure avant la fin de sa cuisson ; dépouillé, débarrassé de son excès de graisse, et mis en braisière qui le contienne juste, avec une demi-bouteille de vin fumeux, soit madère, porto, xérès, chypre, etc., selon sa destination. La braisière étant fermée hermétiquement, le jambon est mis au four pendant une heure, et retourné de temps à autre. – S'il doit être présenté, on le glace au dernier moment. – Son accompagnement le plus ordinaire est une demi-glace corsée, claire, additionnée d'une partie de son fonds de braisage dégraissé.<br> <strong>FORMULES USUELLES</strong>",
+        "pk": 99
+    },
+    {
+        "parent": 276,
+        "slug": "souffles-intro",
+        "text": "L'appareil des soufflés de jambon se fait à cuit ou à cru. L'appareil à cru s'adopte pour les grands services. Il a l'avantage de pouvoir s'apprêter un peu à l'avance et d'attendre quelques minutes quand ils sont cuits, sans qu'il en résulte trop de dommage.",
+        "pk": 100
+    },
+    {
+        "parent": 278,
+        "slug": "oreilles-intro",
+        "text": "Elles doivent être bien flambées et nettoyées à l'intérieur. – Se marquent en cuisson à l'eau salée à raison de 8 grammes au litre, avec garniture de marmite, si elles doivent être servies au naturel ou avec sauce. – Si elles doivent être accompagnées de CHOUCROUTE, CHOUX A LA FLAMANDE OU LENTILLES, elles sont cuites avec ces garnitures. – Si elles sont servies « à la flamande, » le lard est supprimé de la garniture ; si elles sont servies aux lentilles, celles-ci sont mises en purée après cuisson.",
+        "pk": 101
+    },
+    {
+        "parent": 279,
+        "slug": "pieds-intro",
+        "text": "Peuvent se traiter d'après les différents procédés appliqués aux oreilles ; mais se servent particulièrement panés et grillés, ou truffés.",
+        "pk": 102
+    },
+    {
+        "parent": 284,
+        "slug": "andouilles-et-andouillettes-intro",
+        "text": "Les andouilles, étant généralement préparées à cru, doivent être cuites d'abord à l'eau légèrement salée et pendant un temps qui est déterminé par leur grosseur. Elles se traitent ensuite par la grillade.<br> Les andouillettes s'achetant toutes prêtes, sont simplement ciselées ou grillées et, autant que possible, emballées dans un papier beurré ou graissé au saindoux. – Garniture usuelle : purée de pommes de terre.",
+        "pk": 103
+    },
+    {
+        "parent": 285,
+        "slug": "boudins-blancs-et-noirs-intro",
+        "text": "Bien que les boudins s'achètent généralement préparés, il ne nous semble pas inutile d'en indiquer quelques apprêts :",
+        "pk": 104
+    },
+    {
+        "parent": 287,
+        "slug": "crepinettes-intro",
+        "text": "<em>Appareil à crépinettes ordinaires</em>. – 1 kilo de chair à saucisses fine 15 grammes persil haché et petit verre de cognac.<br> <em>Appareil à crépinettes truffées</em>. – 1 kilo de chair à saucisses fine, 125 gr. de truffes hachées, 2 cuillerées de cuisson de truffes. Diviser en parties du poids de 100 grammes, et emballer en crépine en leur donnant une forme rectangulaire.",
+        "pk": 105
+    },
+    {
+        "parent": 295,
+        "slug": "cochon-de-lait-intro",
+        "text": "Le cochon de lait est toujours rôti entier, farci ou non ; l'essentiel est de conduire la cuisson de façon à ce qu'elle soit à point au moment où la peau est devenue croustillante et dorée. La durée de la cuisson varie entre 1 heure et demie et 2 heures pour un cochon d'un poids moyen. S'il est farci, le temps est augmenté de 1 quart d'heure par livre de farce. Il doit être arrosé de préférence avec de l'huile pendant sa cuisson, cet élément permettant d'obtenir la peau très croustillante. – Servir en même temps une saucière de bon jus.<br> <strong>FARCE POUR COCHON DE LAIT</strong><br> Avec le foie du cochon, apprêter une farce gratin en la tenant très saignante. L'ajouter à : son poids de chair à saucisses, 200 gr. de mie de pain trempée et exprimée, 2 oeufs, 1 décilitre de fine-champagne, 3 grammes de serpolet ou de thym à défaut.<br> Emplir le cochon avec cette farce, le recoudre, et le mettre en forme sur plaque ou à la broche.",
+        "pk": 106
+    },
+    {
+        "parent": 298,
+        "slug": "filets--supremes--cotelettes-intro",
+        "text": "Les filets ou suprêmes comprennent le filet proprement dit et le filet mignon. Dans les suprêmes de poulet, le filet mignon est généralement soudé au filet, étant trop petit pour être employé seul. Par contre, les filets mignons de poulardes sont utilisés séparément et selon les cas. – Pour les services importants, les suprêmes peuvent être escalopés en 2 ou 3 morceaux qui sont aplatis légèrement et parés en forme de coeurs. Les filets mignons sont pliés en deux (mais non doublés) et légèrement aplatis.<br> Les côtelettes de volaille sont généralement prises sur des poulets. Ce sont les suprêmes, auxquels on laisse adhérer le moignon et un bout d'os de l'aile qui figure le manche de la côtelette. Leurs apprêts sont identiques à ceux des suprêmes.<br> On farcit quelquefois les suprêmes. A cet effet, ils sont détaillés en 2 ou 3 morceaux (selon grosseur et en forme de coeurs) qui sont ouverts en sac, et farcis à la poche.<br> La cuisson des suprêmes se fait généralement en sauteuse beurrée, et couverts d'un papier ; et quand ils commencent à raidir, on y ajoute quelques gouttes de jus de citron. L'essentiel est de ne les pocher qu'au dernier moment pour les avoir bien moelleux. On les saute aussi au beurre clarifié, et, quand ils sont traités par ce mode, ils doivent être tenus légèrement blonds. De même, ils peuvent être panés à l'anglaise pour être sautés ou frits, ou panés au beurre pour les griller.<br> Règle générale : Le moins de dressage possible, mais les servir à la fois, moelleux et brûlants.<br> <strong>SUPRÊMES</strong>",
+        "pk": 107
+    },
+    {
+        "parent": 299,
+        "slug": "poulets-sautes-intro",
+        "text": "Les beaux poulets de Houdan et de Bruxelles, ou les Surreys anglais, peuvent recevoir les divers apprêts applicables aux poulardes. Les poulets Reine peuvent être traités comme les poulets de grain, mais les véritables modes d'apprêts de ces volailles sont : rôtis ou sautés. – C'est pourquoi la série des Poulardes a été placée en tête du chapitre, leurs apprêts s'appliquant, au besoin, aux gros poulets. Par le même motif, les poulets en cocotte ou grillés sont classés aux poulets de grain, parce que ceux-ci conviennent mieux pour ces sortes de préparations.<br> Le traitement du poulet sauté s'équilibre sur ces trois points : 1° Mettre les morceaux au beurre clarifié bien chaud et les faire colorer légèrement de chaque côté. Couvrir alors le plat à sauter et compléter la cuisson au four ou sur le fourneau. Observer que les cuisses doivent recevoir quelques minutes de cuisson en plus. – 2° Le poulet étant cuit, retiré de la casserole, et le beurre égoutté, celle-ci est déglacée au vin blanc, rouge, madère, ou champagne selon les circonstances, et ce déglaçage s'ajoute à la sauce du poulet. – 3° Le poulet sauté doit être cuit entièrement au beurre et mijoter seulement en certains cas dans la sauce pour s'imprégner de l'arome de celle-ci. Une ébullition tant soit peu vive durcirait infailliblement le poulet.<br> Les poulets sautés finis avec sauce blanche quelconque se déglacent, soit à la crème, soit avec un vin ou jus quelconque, et ce déglaçage est ajouté à la sauce. Ces poulets sont cuits à couvert et ne doivent pas colorer.",
+        "pk": 108
+    },
+    {
+        "parent": 300,
+        "slug": "poulets-grilles-en-cocotte-et-poeles-intro",
+        "text": "Les poulets de grain, qui sont trop fragiles pour être sautés, conviennent très bien pour être grillés ou mis en cocotte, selon les divers modes décrits ci-dessous, qui comportent également quelques formules où le poulet est dressé sur plat comme un poulet poché ou poêlé.",
+        "pk": 109
+    },
+    {
+        "parent": 301,
+        "slug": "poussins-intro",
+        "text": "Le type parfait de ce genre de volaille est le poussin de Hambourg qui est très fin, mais de conservation difficile.",
+        "pk": 110
+    },
+    {
+        "parent": 303,
+        "slug": "abatis-intro",
+        "text": "Se composent des ailerons, cous, gésiers, et foies défiellés. Les mêmes formules sont applicables à tous les abatis : seulement, les gros abatis, comme ceux de dinde, doivent être détaillés en plus de morceaux que ceux de poulet ou de canard.",
+        "pk": 111
+    },
+    {
+        "parent": 318,
+        "slug": "fricassee-intro",
+        "text": "Pour cet apprêt de la vieille cuisine française, le poulet est découpé comme pour sauter, et les cuisses sont partagées en deux. Le traitement est identiquement semblable à celui de la « Fricassée de Veau. »<br> <strong>MODES DIVERS :</strong>",
+        "pk": 112
+    },
+    {
+        "parent": 319,
+        "slug": "fritot-ou-marinade-intro",
+        "text": "Escalopes de volaille marinées avec huile, jus de citron et fines nerbes hachées. Tremper en pâte à frire légère, frire au moment, dresser avec persil frit, et accompagner invariablement d'une sauce tomates.<br> NOTA. – La volaille bouillie convient mieux pour cet apprêt que la volaille rôtie, parce que la chair plus poreuse prend mieux la marinade. Ces deux apprêts, confondus aujourd'hui, se différenciaient autrefois en ce sens que le Fritot avait pour élément de la volaille cuite, et que la Marinade se faisait avec la volaille crue.",
+        "pk": 113
+    },
+    {
+        "parent": 321,
+        "slug": "mousses-et-mousselines-de-volaille-intro",
+        "text": "Ces deux genres de préparations ont pour base la farce mousseline. Ce qui les différencie, c'est que la mousse se fait par service, tandis que les mousselines se font au détail à raison de 1 ou 2 par personne.",
+        "pk": 114
+    },
+    {
+        "parent": 322,
+        "slug": "pilafs-de-volaille-intro",
+        "text": "Le pilaf est, à proprement dire, le plat national des pays orientaux, et comporte une infinité de formules. – Les différents curries de veau, d'agneau et de volaille sont des pilafs ; et tous, sauf celui « à la parisienne, » qui est indiqué plus bas, relèvent du même mode d'apprêt qui est celui du currie, sauf la différenciation des aromates, et le traitement du riz qui n'est pas le même que celui du riz à l'indienne.",
+        "pk": 115
+    },
+    {
+        "parent": 323,
+        "slug": "souffles-de-volaille-intro",
+        "text": "Pour les grands services, il est préférable en tous points de les faire à cru. Pour les petits services on peut employer de la volaille cuite.",
+        "pk": 116
+    },
+    {
+        "parent": 326,
+        "slug": "pintade-intro",
+        "text": "La pintade n'a certainement pas la valeur gastronomique du faisan, mais elle en est en quelque sorte le succédané, quand la fermeture de la chasse prive la cuisine du noble gallinacé. Presque toutes les formules applicables au faisan le sont également à la pintade.",
+        "pk": 117
+    },
+    {
+        "parent": 327,
+        "slug": "oie-intro",
+        "text": "Le principal mérite de l'oie est de fournir un foie gras qui rivalise de finesse avec celui du canard. En dehors de ce produit, l'oie ne fournit pas un appoint important à la grande cuisine.",
+        "pk": 118
+    },
+    {
+        "parent": 328,
+        "slug": "canards-et-canetons-intro",
+        "text": "On distingue culinairement trois sortes de canards : les Nantais, les Rouennais, et les diverses variétés de canards sauvages. Ces derniers sont principalement usités en rôtis et, incidemment, en Salmis, Mousses Mousselines, etc.<br> Le Rouennais figure également plutôt comme rôti que comme entrée. Sa caractéristique étant d'être saignant, on ne le braise que rarement. Ce canard est étouffé et non saigné.<br> Le Nantais, moins en chair que le Rouennais, est employé en braisé et en rôti.",
+        "pk": 119
+    },
+    {
+        "parent": 330,
+        "slug": "caneton-rouennais-intro",
+        "text": "Sauf quand il doit être servi froid à la cuillère, le rouennais ne se braise pas : il est poêlé ou rôti, et toujours tenu saignant. Il est également farci avec la préparation suivante : 125 grammes de lard gras revenu avec 25 grammes d'oignons hachés ; ajouter 250 grammes de foies de canard, 5 grammes de persil haché, sel, poivre et épices. Tenir les foies très saignants (les raidir seulement) ; laisser refroidir à moitié, piler, et passer au tamis fin.",
+        "pk": 120
+    },
+    {
+        "parent": 331,
+        "slug": "foies-gras-intro",
+        "text": "On utilise les foies d'oie ou de canard suivant les circonstances. En général, on préfère le foie d'oie pour les préparations chaudes, tandis que celui de canard est réservé pour les conserves ou le froid.<br> Bien que le foie gras soit servi assez souvent comme Entrée, son rôle dans la cuisine chaude est plutôt limité aux garnitures ou à servir d'appui aux condimentations riches.",
+        "pk": 121
+    },
+    {
+        "parent": 334,
+        "slug": "chevreuil-intro",
+        "text": "Le cerf, le daim, l'isard et le chamois, qui forment avec le chevreuil la classe des gibiers de venaison usités en France, se préparent comme le chevreuil. Il n'y a donc pas lieu d'en faire des articles spéciaux.<br> Le chevreuil est mariné facultativement, mais il vaut mieux s'en dispenser quand il s'agit de bêtes jeunes et fraîches. – Les marinades ayant été décrites au chapitre des <em>Sauces,</em> il n'y a pas lieu d'y revenir, mais il faut rappeler que la force en est réglée selon le temps pendant lequel les viandes y doivent séjourner, et surtout selon leur tendreté, ce qui est à bien observer pour le chevreuil.",
+        "pk": 122
+    },
+    {
+        "parent": 336,
+        "slug": "cotelettes-intro",
+        "text": "Se parent comme Les côtelettes d'agneau et se servent généralement à raison de deux pour une. Le mode de traitement qui leur convient le mieux consiste à les sauter à l'huile très vivement ; les éponger ensuite pour les dresser.",
+        "pk": 123
+    },
+    {
+        "parent": 339,
+        "slug": "noisettes-intro",
+        "text": "Comme les grenadins et les escalopes, les noisettes se prennent dans le gros filet de la selle de chevreuil. Indépendamment des apprêts ci-dessous, ceux des côtelettes et filets mignons leur sont applicables.",
+        "pk": 124
+    },
+    {
+        "parent": 340,
+        "slug": "selle-ou-cimier-intro",
+        "text": "Selon les cas, la selle comprend la partie comprise entre les carrés et les cuissots ; ou bien elle est augmentée des deux carrés rognés très court du côté de la poitrine. Dans un cas comme dans l'autre, elle est tranchée en pointe, en suivant une ligne diagonale qui va de la pointe de hanche à la naissance de la queue. Elle est généralement piquée.",
+        "pk": 125
+    },
+    {
+        "parent": 341,
+        "slug": "sanglier-et-marcassin-intro",
+        "text": "Quand le sanglier a dépassé l'âge où il est appelé marcassin, il n'est que peu usité pour la cuisine, sauf les cuissots, et encore ceux-ci doivent-ils être soumis à l'action d'une forte marinade. Le jeune sanglier ou marcassin est au contraire très apprécié.<br> Les <em>escalopes, noiselles, grenadins</em>, <em>filets</em> ou <em>quartiers</em> de marcassin peuvent se préparer comme ceux de chevreuil. Il en est de même pour les <em>carrés</em> et la <em>selle</em> rôtis entiers. Enfin les formules indiquées aux côtelettes de chevreuil sont également applicables à celles de marcassin.<br> Flamande (côtelettes de marcassin à la). – Se traitent comme les côtes de porc à la flamande.",
+        "pk": 126
+    },
+    {
+        "parent": 343,
+        "slug": "lapin-de-choux-et-garennes-intro",
+        "text": "Les formules suivantes déjà décrites leur sont applicables : CÔTELETTES, CRÉPINETTES, MOUSSES et MOUSSELINES, QUENELLES, RABLES, etc.<br> <strong>FORMULES DIVERSES</strong>",
+        "pk": 127
+    },
+    {
+        "parent": 347,
+        "slug": "perdreaux-et-perdrix-intro",
+        "text": "Les perdreaux gris sont généralement préférés aux perdreaux rouges et aux Bartavelles ; mais les uns et les autres doivent être jeunes. Les perdrix sont toujours sèches et dures et ne peuvent guère se servir que braisées aux choux, ou être utilisées en pâtés et en terrines.",
+        "pk": 128
+    },
+    {
+        "parent": 351,
+        "slug": "alouettes-ou-mauviette-intro",
+        "text": "Le terme Alouette désigne l'oiseau vivant, le chantre des sillons : quand cet oiseau est mort et qu'il arrive à la cuisine pour y être employé, on ne le désigne plus, ainsi que sur les menus, que par le terme de Mauviette.",
+        "pk": 129
+    },
+    {
+        "parent": 352,
+        "slug": "ortolans-intro",
+        "text": "L'ortolan se suffit à lui-même et ne devrait être dégusté que rôti. Les éléments qui lui sont donnés comme auxiliaires, tels que le foie gras et la truffe, lui sont plutôt nuisibles, parce qu'ils lui enlèvent la subtilité de son fumet, et cette atténuation est d'autant plus sensible que l'arôme <em>sui generis</em> de ces éléments est plus prononcé lui-même.<br> C'est alors un mets classé parmi les grands mets, parce que son prix est élevé ; mais ce n'est point un mets de véritable gastronome. C'est donc simplement à titre de renseignement que sont exposées les recettes ci-dessous.<br> NOTA. – A notre avis, l'ortolan ne devrait jamais être désossé.",
+        "pk": 130
+    },
+    {
+        "parent": 353,
+        "slug": "bec-figues-et-beguinettes-intro",
+        "text": "Bien que ces oiseaux soient d'espèces différentes, leur valeur culinaire les réserve aux mêmes apprêts.<br> <em>Les becs-figues</em> se trouvent surtout dans les contrées méridionales, tandis que les <em>béguinettes</em> sont originaires des pays du Nord. Il en est consommé beaucoup en Belgique.<br> Les formules ci-dessous peuvent donc être appliquées indifféremment aux becs-figues et aux béguinettes.",
+        "pk": 131
+    },
+    {
+        "parent": 354,
+        "slug": "becasses-et-becassines-intro",
+        "text": "La bécasse serait incontestablement le premier des gibiers à plumes si la grouse n'existait pas. Mais elle a du moins sur cette dernière, qui ne peut être estimée à sa valeur, sinon dans les pays qu'elle habite, cet avantage que son fumet est moins fugace et qu'elle peut attendre assez longtemps, car elle n'acquiert sa réelle valeur que quand elle est faisandée, mais sans excès.",
+        "pk": 132
+    },
+    {
+        "parent": 375,
+        "slug": "saumon-intro",
+        "text": "NOTA. – Le Saumon froid s'accompagne de toutes sauces froides ainsi que de Salades de légumes. Servi à l'anglaise, il est toujours accompagné d'une salade de concombres.",
+        "pk": 133
+    },
+    {
+        "parent": 378,
+        "slug": "turbot-intro",
+        "text": "Peut se prêter à plusieurs préparations froides, mais se sert plus généralement au naturel avec accompagnement d'une salade quelconque et d'une sauce froide.",
+        "pk": 134
+    },
+    {
+        "parent": 393,
+        "slug": "lapereau-intro",
+        "text": "Les formules indiquées pour le lièvre lui sont applicables.",
+        "pk": 135
+    },
+    {
+        "parent": 398,
+        "slug": "mauviettes-intro",
+        "text": "S'apprêtent en chaud-froid en prunes et en cerises, en chaud-froid en Belle-Vue, en Aspic, en Mousse, etc. – Pour ces différents articles, suivre le procédé général.",
+        "pk": 136
+    },
+    {
+        "parent": 401,
+        "slug": "becassines-et-becots-intro",
+        "text": "Les préparations de ces gibiers sont identiques à celles de la Bécasse, en y apportant les modifications nécessitées par la différence de grosseur. Différentes préparations des Cailles leur sont également applicables.<br> <strong>Modèles de décors pour Mousses de Volaille et de Gibier.</strong>",
+        "pk": 137
+    },
+    {
+        "parent": 405,
+        "slug": "pates-de-poisson-intro",
+        "text": "Ces pâtés nécessitent l'emploi d'une farce spéciale qui se fait dans ces proportions : 1 kilo de chair de brochet (poids net) ; 400 grammes de panade de riz (ou de frangipane), 500 grammes de beurre, 4 blancs d'oeufs, 30 grammes de sel, 5 grammes de poivre, pointe de cayenne et de muscade ; 3 décilitres de crème double. Traitement ordinaire des farces.",
+        "pk": 138
+    },
+    {
+        "parent": 413,
+        "slug": "salades-composees-intro",
+        "text": "A moins qu'elles ne doivent être finies en cuisine, les salades composées sont dressées sans en mélanger les éléments. Ceux-ci sont assaisonnés séparément à l'avance, et dressés par bouquets alternés. Ce dressage peut être complété par des bordures, dont la betterave, les cornichons, les oeufs, les truffes, les pommes de terre, fournissent les éléments. Ce décor ne s'indique pas, il est inspiré par l'idée et le goût.<br> Le procédé de mouler les salades composées n'est pas à conseiller, parce que l'oeil n'y gagne pas grand chose, et le palais y perd considérablement. Le dressage le plus simple est celui qui doit être préféré, et tout au plus doit-on admettre le dressage en pyramide au milieu d'une bordure de gelée décorée.",
+        "pk": 139
+    },
+    {
+        "parent": 414,
+        "slug": "mayonnaises-intro",
+        "text": "Se différencient des salades en ce que leurs éléments sont invariablement dissimulés sous la sauce.",
+        "pk": 140
+    },
+    {
+        "parent": 427,
+        "slug": "observations-preliminaires-intro",
+        "text": "<em>Blanchissage</em>. – Cette opération répond à deux buts différents : Dans l'un de ses emplois, par exemple pour le traitement des épinards, petits pois, haricots verts, et légumes verts en général, ce blanchissage est, en réalité, une cuisson conduite rapidement, et à grande eau, pour conserver à ces légumes le chlorophylle ou principe de la couleur verte. Dans l'autre, ce traitement a pour but de faire disparaître l'âcreté naturelle des légumes : comme choux, céleri, chicorée, etc. – En principe, les légumes nouveaux ne se blanchissent pas. Pour ceux dont le blanchissage assure la cuisson, l'eau se sale à raison de 7 grammes au litre.<br> <em>Rafraîchissage</em>. – On ne devrait rafraîchir, après blanchissage, que les légumes destinés à être braisés, et ceux que les exigences du travail obligent à blanchir à l'avance. Mais un légume destiné à être lié de suite, ne peut que perdre de sa saveur en étant rafraîchi.<br> <em>Cuisson des légumes à l'anglaise</em>. – Sont traités simplement à l'eau bouillante. Ils sont ensuite égouttés, séchés, dressés en timbale, et servis accompagnés de coquilles de beurre. L'assaisonnement est fait par le convive lui-même. – Tous les légumes verts peuvent se traiter et se servir à l'anglaise.<br> <em>Cuisson des légumes secs</em>. – C'est un mauvais procédé que de tremper les légumes secs. S'ils sont de l'année et de bonne qualité, il suffit de les marquer à l'eau froide et de ne les amener que très lentement à l'ébullition. On les écume alors ; on les garnit, puis on les laisse cuire très doucement et couverts.<br> Si on se trouve en présence de légumes trop vieux, ou de qualité inférieure, on peut les tremper ; mais à la condition de ne les laisser que le temps strictement nécessaire pour les gonfler, soit 1 heure et demie ou 2 heures.<br> Le trempage prolongé pendant plusieurs heures détermine un commencement de germination ; les éléments constitutifs du légume s'altèrent, il perd beaucoup de sa valeur et peut même occasionner des indispositions.<br> <em>Braisage des légumes</em>. – Ces légumes sont préalablement blanchis, rafraîchis, parés, et ficelés par trois ensemble. Déposés en casserole bardée, foncée comme pour Braisage, et recouverts de bardes. Après avoir été mis à suer, à casserole couverte, les légumes sont mouillés à couvert de fonds blanc et cuits doucement. Après cuisson, ils sont égouttés, déficelés, parés selon la forme qui leur convient, et tenus au chaud dans un sautoir avec le fonds dégraissé et réduit, s'ils doivent être servis immédiatement. – S'ils sont apprêtés à l'avance, on les débarrasse en plats ou terrines spéciaux, avec leur cuisson passée dessus, bouillante, sans être dégraissée ; et ils sont tenus en réserve, couverts d'un papier.<br> <em>Sauces des légumes braisés</em>. – Est le fonds de braisage réduit et bien dégraissé ; complété en certains cas par une addition de glace de viande et, en d'autres, par une petite quantité de demi-glace, filet de citron et beurre.<br> <em>Liaison des Légumes verts au beurre</em>. – Ils doivent être égouttés à fond. On ajoute alors l'assaisonnement qu'ils comportent, le beurre, et la liaison se fait en sautant le légume. Le beurre de liaison d'un légume doit toujours être ajouté <em>hors du feu </em>pour conserver sa saveur intégrale.<br> <em>Liason des Légumes à la crème</em>. – Les légumes destinés à être traités de cette façon doivent être tenus un peu fermes. Les égoutter à fond et les mettre en casserole avec assez de crème fraîche bouillante pour les baigner sans cependant les couvrir. – Laisser finir de cuire en vannant de temps en temps. La crème étant presque entièrement réduite, compléter avec beurre, et filet de jus de citron. – La liaison peut être légèrement augmentée au besoin par une addition de sauce crème.<br> <em>Crèmes et Purées de légumes</em>. – Les <em>purées</em> de légumes secs et de farineux s'obtiennent en passant ces légumes au tamis ; en les desséchant ensuite sur le feu avec un morceau de beurre, et en les mettant à point avec lait ou crème.<br> Les purées de légumes aqueux, comme haricots verts, choux-fleurs, etc., doivent s'additionner d'une certaine quantité de purée de pommes (le tiers ou le quart) pour la liaison.<br> Les <em>crèmes</em> de légumes s'obtiennent en remplaçant, pour la liaison, la purée de pommes par une béchamel succulente et serrée.",
+        "pk": 141
+    },
+    {
+        "parent": 429,
+        "slug": "asperges-intro",
+        "text": "Il y a quatre variétés principales d'asperges qui sont : celle d'Argenteuil, type de l'asperge française ; l'asperge verte ; l'asperge violette de Gênes, type de l'asperge italienne, très fine, mais un peu âcre ; et l'asperge blanche de Belgique, qui est très fine aussi, mais supporte difficilement le transport. Les asperges doivent être employées fraîchement récoltées, <em>pelées</em> avec soin et non pas seulement ratissées ; puis lavées, bottelées et cuites à l'eau bouillante salée. Se dressent sur grille ou serviette.",
+        "pk": 142
+    },
+    {
+        "parent": 431,
+        "slug": "cardons-intro",
+        "text": "<em>Traitement</em> : Supprimer les feuilles du tour, détacher les feuilles blanches, et les diviser en tronçons de 6 à 8 centimètres de long. Peler ces tronçons, les frotter de citron, et les jeter au fur et à mesure dans de l'eau acidulée. Traiter de même le coeur après en avoir enlevé les parties ligneuses. Cuire le tout dans un <em>Blanc, </em>avec 500 grammes de graisse de veau hachée répandue à la sur face pour empêcher la pénétration de l'air, et pendant 1 heure et demie environ.",
+        "pk": 143
+    },
+    {
+        "parent": 433,
+        "slug": "celeris-intro",
+        "text": "Les céleris pour braiser doivent être sans filandres, blancs, et bien tendres. Les rogner de façon à leur laisser 20 centimètres de long. Enlever les feuilles vertes, parer la racine, laver, blanchir pendant un quart d'heure et rafraîchir. – Les braiser ensuite selon le procédé indiqué aux « Opérations préliminaires ; » diviser chaque pied en deux ou trois après cuisson, et replier chaque partie en deux pour servir.",
+        "pk": 144
+    },
+    {
+        "parent": 435,
+        "slug": "cepes-intro",
+        "text": "Les cèpes qui ne sont pas ouverts, ou à peine, ne se blanchissent pas. Ceux qui sont complètement ouverts doivent être lavés, épongés, et ensuite grillés ou étuvés au beurre.",
+        "pk": 145
+    },
+    {
+        "parent": 437,
+        "slug": "champignons-intro",
+        "text": "On ne désigne sous ce nom, en cuisine, que le champignon dit « de couche », et le champignon de prairie dont il est fait un très grand usage en Angleterre. Les autres sont indiqués sous leurs noms propres.",
+        "pk": 146
+    },
+    {
+        "parent": 439,
+        "slug": "chicoree-intro",
+        "text": "Il y a deux sortes de chicorées à cuire : la frisée et la flamande, appelée « Endive » en Belgique, tandis que l'Endive y est appelée « Chicorée de Bruxelles. »",
+        "pk": 147
+    },
+    {
+        "parent": 442,
+        "slug": "choux-feurs-et-brocolis-intro",
+        "text": "Sont cuits à l'eau salée, soit entiers, soit divisés en petits bouquets. L'apprêt à la Milanaise est celui qui convient le mieux au Brocolis. Le chou-fleur à l'anglaise se sert entier, avec ses feuilles vertes conservées autour.",
+        "pk": 148
+    },
+    {
+        "parent": 448,
+        "slug": "endives-intro",
+        "text": "<em>Traitement</em>. – Parer l'extrémité des feuilles et faire tremper 10 minutes à l'eau froide. Égoutter et mettre en cuisson bouillante (cuisson identique à celle, des champignons), composée, pour 1 kilo d'endives, de : 2 décilitres d'eau, 50 grammes de beurre, 12 grammes de sel et un jus de citron. Temps de cuisson : 30 à 35 minutes.<br> NOTA. – Les endives ainsi préparées sont très blanches. Dans aucun cas ce légume ne doit être blanchi.",
+        "pk": 149
+    },
+    {
+        "parent": 449,
+        "slug": "epinards-intro",
+        "text": "Sont blanchis à l'eau bouillante salée, rafraîchis, pressés, et hachés ou passés au tamis. S'ils sont servis en feuilles, les égoutter sans les presser. Les épinards doivent, autant que possible, être apprêtés au moment.",
+        "pk": 150
+    },
+    {
+        "parent": 452,
+        "slug": "gombos-intro",
+        "text": "Ce légume, qui est d'un emploi usuel dans les pays américaine et orientaux, n'est encore que peu usité en Europe où, cependant, sa vulgarisation est certaine et prochaine. Il y en a deux variétés : le Gombo long, et le rond qui se dénomme aussi <em>bamia</em> ou <em>bamiès. </em>Les formules données ci-dessous conviennent aux deux genres.",
+        "pk": 151
+    },
+    {
+        "parent": 453,
+        "slug": "houblon-intro",
+        "text": "La partie comestible se sépare de la partie ligneuse en cassant les jets comme des pointes d'asperges. Les laver à plusieurs eaux, et les blanchir à l'eau salée avec jus de citron.<br> Se servent au beurre, à la crème, au velouté, etc. Lorsque les jets de houblon sont servis comme légume, ils sont invariablement accompagnés d'oeufs pochés, dressés dessus, en couronne, et alternés de croûtons, en crêtes frits au beurre.",
+        "pk": 152
+    },
+    {
+        "parent": 461,
+        "slug": "marrons-intro",
+        "text": "Inciser l'écorce sur le côté bombé, et les mettre au four pendant 7 à 8 minutes dans une plaque contenant un peu d'eau. Ou bien : les tremper pendant quelques minutes dans une friture bien chaude et les décortiquer pendant qu'ils sont brûlants.",
+        "pk": 153
+    },
+    {
+        "parent": 462,
+        "slug": "morilles-intro",
+        "text": "Le champignon du Renouveau est celui que, entre tous, préfèrent les amateurs. Il y a deux espèces de morilles : la blonde et la brune, et le débat qui s'est élevé au sujet de leur valeur respective n'est pas encore tranché. Il pourrait l'être en convenant que les deux genres sont excellents.<br> <em>Préparation</em> : Sans nous soucier de l'opinion des amateurs qui déclarent que c'est une hérésie de laver les morilles, nous conseillons de le faire, et très attentivement, en ayant soin de bien écarter les alvéoles pour que l'eau en chasse les grains de sable. Il est même prudent de faire ce lavage à plusieurs eaux.<br> <em>Cuisson :</em> Égoutter les morilles, les fractionner si leur grosseur l'exige, et les mettre en casserole avec 50 grammes de beurre, un jus de citron, pincée de sel et prise de poivre à la livre de morilles. Faire partir, et étuver ensuite pendant 10 à 12 minutes. – Ne pas oublier que l'eau de végétation qu'elles rendent doit toujours être réduite et ajoutée à leur sauce d'accompagnement.",
+        "pk": 154
+    },
+    {
+        "parent": 471,
+        "slug": "riz-intro",
+        "text": "Pour les préparations où le riz doit rester en grains bien entiers, les riz glacés comme le Patna ou le Caroline sont à employer de préférence.",
+        "pk": 155
+    },
+    {
+        "parent": 475,
+        "slug": "truffes-intro",
+        "text": "Bien qu'elles soient surtout usitées comme élément de garniture, elles sont également servies à titre de légume ou de hors-d'oeuvre. Dans ce cas, elles doivent toujours être préparées de façon très simple, n'ayant besoin d'aucun raffinement pour être parfaites.",
+        "pk": 156
+    },
+    {
+        "parent": 478,
+        "slug": "gnokis-intro",
+        "text": "Gratin (au). – Pâte à choux dans les proportions suivantes : 5 décilitres de lait, pincée de sel et muscade, 100 grammes de beurre, 250 grammes de farine et 6 oeufs. Y ajouter 100 grammes de parmesan râpé quand elle est finie. – Diviser en parties de la grosseur d'une noix et les pocher à l'eau bouillante salée. Dès que les gnokis montent à la surface et sont élastiques sous le doigt, les égoutter sur un linge. – Napper de Sauce Mornay le fond d'un plat à gratin, ranger les gnokis dessus, couvrir de la même sauce, saupoudrer de fromage râpé, arroser de beurre fondu et gratiner à four moyen pendant 15 à 20 minutes.",
+        "pk": 157
+    },
+    {
+        "parent": 480,
+        "slug": "macaronis-intro",
+        "text": "Sont désignées, sous ce nom, toutes les pâtes de forme cylindrique, depuis le spaghetti dont la grosseur est celle d'un gras vermicelle, jusqu'au canneloni dont le tube intérieur a 1 centimètre de diamètre. Toutes ces pâtes sont cuites à l'eau bouillante salée à raison de 10 grammes au litre.",
+        "pk": 158
+    },
+    {
+        "parent": 482,
+        "slug": "polenta-ou-pouleinte-intro",
+        "text": "Celle usitée en cuisine s'apprête ainsi : 250 grammes de farine de maïs versée en remuant dans 1 litre d'eau bouillante salée à 15 grammes. Cuire pendant 25 minutes, et ajouter à la pâte 60 grammes de beurre et 75 grammes de parmesan râpé.<br> Si elle est apprêtée pour légume ou garniture, elle est étalée en couche mince sur plaque mouillée. Étant froide, elle est détaillée en ronds ou losanges qui sont d'abord colorés au beurre ; puis dressés sur plat, saupoudrés de fromage et arrosés de beurre noisette.",
+        "pk": 159
+    },
+    {
+        "parent": 483,
+        "slug": "raviolis-ou-ravioles-intro",
+        "text": "L'apprêt est le même pour tous, mais la garniture intérieure peut être très variée. Les farces décrites ci-dessous représentent les types les plus usuels.",
+        "pk": 160
+    },
+    {
+        "parent": 485,
+        "slug": "entremets-chauds-intro",
+        "text": "OBSERVATION. – Il ne s'agit ici que des entremets de cuisine, et nous devons faire remarquer que leur composition variant selon les goûts dans chaque pays, on doit s'attacher à en subordonner les genres, selon la nationalité et les goûts de ceux pour qui ils sont apprêtés. Ainsi, il ne faut servir qu'exceptionnellement des entremets légers tels qu'on les sert en France, à des Anglais et à des Américains ; ceux-ci leur préféreront toujours les entremets substantiels auxquels ils sont habitués. De là, pour le cuisinier, l'obligation d'avoir tout au moins quelques notions des entremets étrangers, surtout de ceux de la cuisine anglaise.<br> <strong>FORMULES PRÉLIMINAIRES</strong>",
+        "pk": 161
+    },
+    {
+        "parent": 489,
+        "slug": "beignets-intro",
+        "text": "Cinq genres : 1° Beignets de fruits ; 2° Beignets de crèmes ; 3° Beignets viennois ; 4° Beignets soufflés ; 5° Beignets divers relevant de ces différents genres, sans se rattacher absolument à aucun d'eux.",
+        "pk": 162
+    },
+    {
+        "parent": 490,
+        "slug": "beignets-de-fruits-frais-et-de-fleurs-intro",
+        "text": "3 Types : 1° De fruits à pulpe compacte, comme : pommes, poires, bananes, abricots, etc. ; 2° de fruits aqueux, comme : fraises, cerises, etc ; 3° de fleurs, comme : acacia, lys, courge, etc.",
+        "pk": 163
+    },
+    {
+        "parent": 500,
+        "slug": "omelettes-intro",
+        "text": "Les Omelettes d'Entremets se subdivisent en 4 genres : 1° Celles aux liqueurs ; 2° celles aux marmelades et confitures qui sont glacées au fer ; 3° les omelettes soufflées, et 4° les omelettes en surprise.",
+        "pk": 164
+    },
+    {
+        "parent": 505,
+        "slug": "souffles-intro",
+        "text": "Les appareils à Soufflés sont de deux sortes : 1° Ceux à la crème qui, à la rigueur, pourraient servir pour tous les soufflés ; 2° Ceux à base de purée de fruits qui permettent d'obtenir un parfum plus frais qu'en les associant à la crème.",
+        "pk": 165
+    },
+    {
+        "parent": 521,
+        "slug": "bavarois-intro",
+        "text": "Se font de deux façons : à la crème et au sirop. Ce dernier procédé convient particulièrement pour les Bavarois aux fruits.",
+        "pk": 166
+    },
+    {
+        "parent": 523,
+        "slug": "blanc-manger-intro",
+        "text": "<em>App. :</em> Le fonds de cet entremets est invariable et se compose toujours d'un lait d'amandes, obtenu en pilant 500 grammes d'amandes douces et 10 grammes d'amandes amères avec 6 décilitres d'eau ajoutée cuillerée par cuillerée. Les amandes doivent être fraîchement émondées et dégorgées à l'eau froide, pour les avoir bien blanches. Le tout est placé dans un fort torchon qui est fortement tordu pour extraire le lait d'amandes.<br> Ajouter au lait obtenu (8 décilitres environ) 500 grammes de sucre en morceaux et 30 grammes de gélatine, dissoute au sirop tiède, et passée à la mousseline. – Parfumer à volonté, couler en moule huilé légèrement, et faire prendre à la glace.<br> NOTA. – Pour la préparation du lait d'amandes, la cuisine moderne a substitué au procédé ci-dessus, qui est celui de l'ancienne Ecole, un autre qui consiste à remplacer une grande partie de l'eau par de la crème. Par ce procédé les amandes sont pilées avec 1 décilitre d'eau et 5 décilitres de crème légère.<br> Lorsqu'il s'agit d'un Blanc-manger aux fruits, le lait d'amandes est diminué de moitié et remplacé par même quantité de purée du fruit en traitement, en maintenant la même dose de gélatine. – La crème employée pour les Blancs mangers doit être très fraîche et légère, dans le genre de la Fleurette normande.<br> Les moules à Blanc manger doivent toujours être pourvus d'une douille centrale.",
+        "pk": 167
+    },
+    {
+        "parent": 528,
+        "slug": "gelees-intro",
+        "text": "Sont de deux sortes : Celles aux liqueurs ou aux vins, et celles aux fruits ; mais le fonds de leur composition est constant et comporte : 1 litre d'eau ; 350 grammes de sucre ; 35 grammes de gélatine, et le parfum adopté. La proportion du sucre peut varier selon la nature de l'élément employé pour la gelée qui en peut nécessiter plus s'il est acide, ou moins s'il est déjà sucré par lui-même.<br> <em>Préparation de la gelée</em>. – Faire dissoudre le sucre dans l'eau, mettre en ébullition, et ajouter le parfum s'il est d'infusion. Verser ensuite le sirop sur 3 blancs d'oeufs fouettés, ajouter la gélatine ramollie, et porter à l'ébullition en fouettant sans interruption. Retirer sur le coin du feu, couvrir et tenir en frémissement pendant 20 minutes. Passer à la chausse ou à la serviette, et repasser les premiers jets qui sont généralement troubles. – Laisser refroidir complètement avant de verser en moule à douille.<br> NOTA. – Les proportions pour un moule d'un litre sont de : 7 décilitres d'eau, 260 grammes de sucre, 22 grammes de gélatine. Les proportions d'eau peuvent cependant varier selon que la gelée est faite au vin ou à la liqueur. Ainsi, une gelée au Champagne type de la gelée au vin) comportera 4 décilitres d'eau et 3 décilitres de champagne ; et une gelée au kirsch 6 décilitres d'eau et 1 décilitre de kirsch.",
+        "pk": 168
+    },
+    {
+        "parent": 536,
+        "slug": "mandarines-intro",
+        "text": "Almina. – Cernées à l'emporte-pièce, vidées, et les écorces remplies d'appareil bavarois aux violettes additionné de biscuit à la cuillère brisé et imbibé au marasquin. Recouvrir avec le rond d'écorce et dresser sur serviette.",
+        "pk": 169
+    },
+    {
+        "parent": 539,
+        "slug": "poires-intro",
+        "text": "Aux formules indiquées pour les Pêches et qui leur sont applicables, s'ajoutent celles-ci :",
+        "pk": 170
+    },
+    {
+        "parent": 552,
+        "slug": "glaces-diverses-intro",
+        "text": "<strong>Dérivés des formules précédentes.</strong>",
+        "pk": 171
+    },
+    {
+        "parent": 553,
+        "slug": "coupes-intro",
+        "text": "Ainsi que leur nom l'indique, les Coupes sont des glaces, associées ensemble, ou à la crème Chantilly, ou à des fruits, et dressées en Coupes de cristal.",
+        "pk": 172
+    },
+    {
+        "parent": 563,
+        "slug": "puddings-glaces-intro",
+        "text": "Les compositions connues sous ce nom, n'ont rien de fixe et ne sont pas des glaces à proprement parler. Ce sont plutôt des Entremets froids, dont la base est, le plus souvent, l'anglaise collée qui sert à la préparation des Bavarois. Les formules ci-dessous font cependant exception.",
+        "pk": 173
+    },
+    {
+        "parent": 565,
+        "slug": "sorbets-intro",
+        "text": "<strong>GRANITÉS, MARQUISES, PUCHS, SPOOMS</strong><br> Les Sorbets et leurs dérivés sont des glaces très légères et à peine congelées, qui sont servies après les Entrées. Leur utilité est de rafraîchir l'estomac, et de le préparer à bien accueillir le rôti.<br> C'est en somme, à la fois, un apéritif et un digestif.<br> <em>Appareil à Sorbets</em> : Les sorbets se font avec l'appareil de glace aux liqueurs ramené à 15 degrés, ou se préparent de cette façon. Pour 1 litre d'appareil : Le jus de 2 citrons et d'une orange ; 3 décilitres de champagne, Porto, vin de Samos, Sauterne ou autre. Sirop froid à 22 degrés jusqu'à ce que le pèse-sirop marque le degré voulu (15°). – Pour les Sorbets aux liqueurs, l'addition de celles-ci se fait à raison de 1 décilitre en moyenne par litre d'appareil, selon le genre de liqueur employée. Dans ce cas, on emploie un sirop à 18 ou 19 degrés qui se trouve à point par l'addition de liqueur. – Les Sorbets aux fruits se préparent principalement avec les jus et sirops de fruits clairs ; les purées de fruits conviennent peu pour cet apprêt.<br> <em>Glaçage des Sorbets :</em> L'appareil ne doit pas être travaillé pendant le glaçage, mais simplement détaché des parois de la sorbetière ou de la turbine, au fur et à mesure qu'il s'y solidifie, et rejeté dans la masse. Quand l'appareil est assez ferme, y incorporer le quart de son volume de meringue italienne ou de crème fouettée, mélanger doucement, et compléter par addition finale de la liqueur.<br> <em>Dressage des Sorbets</em> : Se dressent à la cuiller et en pyramide, en verres spéciaux ou en verres à vins fins. Si ce sont des sorbets au vin, l'appareil est arrosé dans le verre même d'une cuillerée de ce vin. La consistance des sorbets doit être telle qu'ils puissent être bus.",
+        "pk": 174
+    },
+    {
+        "parent": 572,
+        "slug": "sandwichs-intro",
+        "text": "Peuvent être, selon leur destination, apprêtés de deux façons distinctes. Ils se composent ordinairement de deux tranches de pain de mie tartinées de beurre assaisonné et moutardé, garnies de minces tranches de jambon, rosbif, langue écarlate, pressed-beef, volaille ou oeufs durs en lames. La forme de ces sandwichs est le plus souvent rectangulaire et leurs dimensions de 8 centimètres de long sur 4 centimètres et demi de large. – Ceux pour Buffet sont moitié plus petits, et garnis comme ceux-ci dessus ; mais, pour ce genre de service, il est préférable de couper la garniture en dés très fins, et de la lier avec même poids de beurre assaisonné et moutardé. – S'ils doivent attendre, ces Sandwichs doivent être tenus sous presse légère pour éviter le racornissement du pain.<br> Les sandwichs se font aussi avec des tranches de pain épaisses, grillées ; lesquelles sont fendues sur l'épaisseur, et garnies à volonté. Enfin, dans son excellent livre : <em>La Cuisine Anglaise</em>, M. Suzanne indique un autre genre qui mérite d'être reproduit textuellement, et qui est celui-ci :",
+        "pk": 175
+    },
+    {
+        "parent": 574,
+        "slug": "compotes-simples-intro",
+        "text": "Les fruits destinés aux Compotes sont préparés entiers, en moitiés ou en quartiers et sont pochés dans un sirop parfumé selon leur nature. Ces fruits sont dressés sur compotiers ou sur coupes, arrosés de leur sirop de cuisson réduit ou non ; ou même, en certains cas, légèrement lié à l'arrow-root.<br> Les compotes se servent indifféremment chaudes ou froides, et leur qualité dépend entièrement de celle du fruit employé. Autant que possible, les fruits pour compotes ne doivent pas être trop mûrs.",
+        "pk": 176
+    },
+    {
+        "parent": 578,
+        "slug": "gelees-intro",
+        "text": "Les Gelées s'extraient des fruits mucilagineux ou, lorsque, comme les oranges, ils ne le sont nullement, on les additionne d'un jus de fruit chargé en mucilage et neutre de goût.<br> La cuisson de ces gelées, leur mise en pots et bouchage sont identiques à ceux des marmelades.",
+        "pk": 177
+    }
+]

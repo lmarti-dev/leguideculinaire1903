@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "body-font";
+  src: url("../static/fonts/Neuton-Regular.ttf") format("truetype");
+  font-weight: 300;
+}
+
+:root {
+  --main: #25334f;
+  --light: #e2e6ee;
+  --accent: #2153c9;
+  --bg: #dad2d2;
+  --black: #292929;
+  --width-mode: auto;
+  --border-style: thin solid var(--main);
+  --radius-amount: 1px;
+}
