@@ -401,7 +401,7 @@
     {
         "pk": 57,
         "slug": "poissons-d-eau-douce-",
-        "title": "POISSONS D'EAU DOUCE ",
+        "title": "POISSONS D'EAU DOUCE",
         "class": "serie pg_256",
         "parent": 49
     },
@@ -456,8 +456,8 @@
     },
     {
         "pk": 65,
-        "slug": "brochet-",
-        "title": "Brochet ",
+        "slug": "brochet",
+        "title": "Brochet",
         "class": "serie pg_265",
         "parent": 57
     },
@@ -953,8 +953,8 @@
     },
     {
         "pk": 136,
-        "slug": "boeuf-",
-        "title": "BOEUF ",
+        "slug": "boeuf",
+        "title": "BOEUF",
         "class": "serie pg_347",
         "parent": 130
     },
@@ -1268,8 +1268,8 @@
     },
     {
         "pk": 181,
-        "slug": "veau-",
-        "title": "VEAU ",
+        "slug": "veau",
+        "title": "VEAU",
         "class": "serie pg_391",
         "parent": 130
     },
@@ -1520,8 +1520,8 @@
     },
     {
         "pk": 217,
-        "slug": "mouton-",
-        "title": "MOUTON ",
+        "slug": "mouton",
+        "title": "MOUTON",
         "class": "serie pg_425",
         "parent": 130
     },
@@ -1842,8 +1842,8 @@
     },
     {
         "pk": 263,
-        "slug": "porc-",
-        "title": "PORC ",
+        "slug": "porc",
+        "title": "PORC",
         "class": "serie pg_452",
         "parent": 130
     },

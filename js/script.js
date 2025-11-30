@@ -5,10 +5,16 @@ async function load_files(url) {
   return await (await fetch(url, { method: "GET" })).json();
 }
 
-function sectoid(pk) {
-  return `section-pk-${pk}`;
+function pktoid(pk) {
+  return `text-section-pk-${pk}`;
 }
 
+function pktotocid(pk) {
+  return `toc-section-pk-${pk}`;
+}
+function pktosbid(pk) {
+  return `sb-section-pk-${pk}`;
+}
 function bootstyle(elem, style) {
   if (style != "") {
     elem.classList.add(...style.split(" "));
@@ -28,9 +34,49 @@ function pick_header(item) {
   return [header, style];
 }
 
+function pick_toc_style(item) {
+  var style = "";
+  if (item.parent == null) {
+    style = "fw-bold p-2 fs-2";
+  } else {
+    style = "fw-bold p-2 ms-2";
+  }
+  return style;
+}
+
+function create_tocsec(item) {
+  let div = document.createElement("div");
+  div.setAttribute("id", pktotocid(item.pk));
+  // coding like it's 1999
+  let title = document.createElement("a");
+  bootstyle(title, pick_toc_style(item));
+  let title_link = document.createElement("a");
+  bootstyle(title_link, "text-decoration-none p-1 m-1");
+  let link = item.slug + `-pk-${item.pk}`;
+  title_link.href = "#" + link;
+
+  title_link.innerHTML = item.title;
+
+  let children = document.createElement("div");
+  children.setAttribute("class", "children");
+
+  let add_span = false;
+  if (add_span) {
+    let span = document.createElement("span");
+    bootstyle(span, "fst-italic fs-6 m-1");
+    span.innerHTML = ` #${item.pk}`;
+    title.appendChild(span);
+  }
+  title.appendChild(title_link);
+  div.appendChild(title);
+  div.appendChild(children);
+
+  return div;
+}
+
 function create_section(item) {
   let div = document.createElement("div");
-  div.setAttribute("id", sectoid(item.pk));
+  div.setAttribute("id", pktoid(item.pk));
   // coding like it's 1999
   let out = pick_header(item);
   let header = out[0];
@@ -86,22 +132,33 @@ function create_text(item) {
   return div;
 }
 
-function create_recipe(item) {
+function create_recipe(sections, item) {
   let div = document.createElement("div");
   const div_style = "card m-2";
   div.setAttribute("id", itemlinkid(item));
   bootstyle(div, div_style);
   let title = document.createElement("a");
+  let header = document.createElement("div");
+  bootstyle(
+    header,
+    "card-header d-flex justify-content-between align-items-center"
+  );
   bootstyle(
     title,
-    "card-header link-underline link-underline-opacity-0 link-underline-opacity-100-hover fst-italic"
+    "link-underline link-underline-opacity-0 link-underline-opacity-100-hover fst-italic"
   );
   title.href = "#" + itemlinkid(item);
   title.innerHTML = item.title;
+  let pill = document.createElement("span");
+  let pill_text = build_pill(item, sections);
+  pill.innerHTML = pill_text;
   let content = document.createElement("p");
   bootstyle(content, "card-text p-3");
   content.innerHTML = item.text;
-  div.appendChild(title);
+  header.appendChild(title);
+  header.appendChild(pill);
+  bootstyle(pill, "badge rounded-pill text-bg-primary");
+  div.appendChild(header);
   div.appendChild(content);
 
   return div;
@@ -114,12 +171,25 @@ function build_tree(obj, create) {
   }
 }
 
-function append_to_parent(item, create) {
+function build_sections(obj) {
+  for (k in obj) {
+    let item = obj[k];
+    append_to_parent(item, create_section);
+    append_to_parent(item, create_tocsec, "toc", pktotocid);
+  }
+}
+
+function append_to_parent(
+  item,
+  create,
+  which_id = "content",
+  id_func = pktoid
+) {
   let div = create(item);
-  let parent_id = sectoid(item.parent);
+  let parent_id = id_func(item.parent);
   let parent = document.getElementById(parent_id);
   if (parent == null) {
-    let content = document.getElementById("content");
+    let content = document.getElementById(which_id);
     content.appendChild(div);
   } else {
     let children_container = parent.getElementsByClassName("children")[0];
@@ -137,15 +207,24 @@ function create_sidebar() {
   let div_sbc = document.createElement("div");
   bootstyle(div_sbc, sbc_style);
   div_sbc.setAttribute("id", "sidebar-content");
-  let title = document.createElement("a");
+  let title = document.createElement("div");
   let title_span = document.createElement("span");
   bootstyle(
     title,
-    "d-flex align-items-center flex-shrink-0 p-3 link-dark text-decoration-none border-bottom"
+    "d-flex align-items-center justify-content-center flex-shrink-0 p-3 link-dark text-decoration-none border-bottom"
   );
   title_span.innerHTML = "Recettes";
   bootstyle(title_span, "fs-5 fw-semibold");
   title.appendChild(title_span);
+
+  let search = document.createElement("input");
+  search.setAttribute("id", "search-form");
+  search.setAttribute("type", "search");
+  search.setAttribute("placeholder", "Téléchargement...");
+  search.setAttribute("aria-label", "Search");
+  bootstyle(search, "form-control p-2 m-2");
+
+  title.appendChild(search);
 
   div_sb.appendChild(title);
   div_sb.appendChild(div_sbc);
@@ -177,11 +256,25 @@ function create_content() {
   return div;
 }
 
-function populate_sidebar(recipes) {
+function populate_sidebar(sections, recipes) {
   const sidebar = document.getElementById("sidebar-content");
   const a_style =
     "list-group-item list-group-item-action py-3 lh-sm " + RECETTE_KEY;
   const title_style = "";
+
+  for (s in sections) {
+    let section = sections[s];
+    let a = document.createElement("a");
+    a.href = "#" + pktoid(section.pk);
+    a.setAttribute("id", pktosbid(section.pk));
+    bootstyle(a, a_style + " fw-bold");
+    let title = document.createElement("div");
+    // bootstyle(title, title_style);
+    title.innerHTML = section.title;
+    a.appendChild(title);
+    sidebar.appendChild(a);
+  }
+
   for (k in recipes) {
     let recipe = recipes[k];
     let a = document.createElement("a");
@@ -191,7 +284,8 @@ function populate_sidebar(recipes) {
     // bootstyle(title, title_style);
     title.innerHTML = recipe.title;
     a.appendChild(title);
-    sidebar.appendChild(a);
+    let parent = document.getElementById(pktosbid(recipe.parent));
+    parent.after(a);
   }
 }
 
@@ -251,21 +345,98 @@ function filter_recettes(value) {
   current_search_value = value;
 }
 
-async function main() {
-  // document.body.appendChild(create_sidebar());
-  // document.body.appendChild(create_content());
-  const sections = await load_files("data/sections.json");
-  build_tree(sections, create_section);
-  const intros = await load_files("data/intros_merged_pk.json");
-  build_tree(intros, create_text);
-  const articles = await load_files("data/articles_merged_pk.json");
-  build_tree(articles, create_text);
-  const recipes = await load_files("data/recipes_merged_pk.json");
-  build_tree(recipes, create_recipe);
-  populate_sidebar(recipes);
-  setup_search();
+function tic() {
+  let start = performance.now();
+  return start;
+}
+function toc(start, text = "") {
+  let end = performance.now();
+  let dt = (end - start) / 1000;
+  console.log(`${text} -- ${dt} sec. elapsed`);
 }
 
-document.addEventListener("DOMContentLoaded", (event) => {
-  main();
+function get_section_from_pk(sections, pk) {
+  for (iii in sections) {
+    if (sections[iii].pk == pk) {
+      return sections[iii];
+    }
+  }
+  return null;
+}
+
+function build_pill(item, sections) {
+  let s = [];
+  let current = item;
+  // I will never use a while loop in js
+  // just like I'll never rollerskate in a china shop
+  for (let iii = 0; iii < 10; iii++) {
+    if ("parent" in current) {
+      let parent = get_section_from_pk(sections, current.parent);
+
+      if (parent == null) {
+        s = s.reverse().join(" → ");
+        return s;
+      }
+      s.push(parent.title);
+      current = parent;
+    } else {
+      return "";
+    }
+  }
+  return "";
+}
+
+async function main() {
+  const MIN_WIDTH_FOR_SIDEBAR = 800;
+  var start;
+
+  if (window.innerWidth > MIN_WIDTH_FOR_SIDEBAR) {
+    start = tic();
+    let sidebar = create_sidebar();
+    toc(start, "Created sidebar");
+    start = tic();
+    document.body.insertBefore(sidebar, document.body.children[0]);
+    toc(start, "Inserted sidebar");
+  }
+  start = tic();
+  const sections = await load_files("data/sections.json");
+  toc(start, "Loaded sections.json");
+  start = tic();
+  build_sections(sections);
+  toc(start, "Built sections");
+  start = tic();
+  const intros = await load_files("data/intros_merged_pk.json");
+  toc(start, "Loaded intros_merged_pk.json");
+  start = tic();
+  build_tree(intros, create_text);
+  toc(start, "Created intros");
+  start = tic();
+  const articles = await load_files("data/articles_merged_pk.json");
+  toc(start, "Loaded articles_merged_pk.json");
+  start = tic();
+  build_tree(articles, create_text);
+  toc(start, "Created articles");
+  start = tic();
+  const recipes = await load_files("data/recipes_merged_pk.json");
+  toc(start, "Loaded recipes_merged_pk.json");
+  start = tic();
+
+  build_tree(recipes, (item) => {
+    return create_recipe(sections, item);
+  });
+  toc(start, "Created recipes");
+  if (window.innerWidth > MIN_WIDTH_FOR_SIDEBAR) {
+    start = tic();
+    populate_sidebar(sections, recipes);
+    toc(start, "Populated sidebar");
+    start = tic();
+    setup_search();
+    toc(start, "Search setup");
+  }
+}
+
+document.addEventListener("DOMContentLoaded", async (event) => {
+  let start = tic();
+  await main();
+  toc(start, "main finished");
 });

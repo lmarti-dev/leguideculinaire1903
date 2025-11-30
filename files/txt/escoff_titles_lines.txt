@@ -1,0 +1,18 @@
+[
+{"title":"I POTAGES", "line":2},
+{"title":"II HORS-D'OEUVRE FROIDS ET CHAUDS", "line":1156},
+{"title":"III SAUCES", "line":2022},
+{"title":"IV GARNITURES", "line":2916},
+{"title":"V OEUFS", "line":3478},
+{"title":"VI POISSONS", "line":4276},
+{"title":"VII RELEVÉS ET ENTRÉES", "line":5884},
+{"title":"VIII RELEVÉS ET ENTRÉES DE VOLAILLE", "line":8620},
+{"title":"IX GIBIER", "line":9844},
+{"title":"X ENTRÉES MIXTES", "line":10406},
+{"title":"XI FROID", "line":10600},
+{"title":"XII ROTIS", "line":11498},
+{"title":"XIII LÉGUMES ET FARINAGES", "line":11716},
+{"title":"XIV ENTREMETS", "line":12630},
+{"title":"XV GLACES", "line":13560},
+{"title":"XVI SAVORYS", "line":14358},
+{"title":"XVII COMPOTES ET CONFITURES", "line":14462}]

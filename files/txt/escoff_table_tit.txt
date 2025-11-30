@@ -1,0 +1,567 @@
+TABLE DES SÉRIES ET PRINCIPAUX ARTICLES tit 3
+
+POTAGES  tit 4
+
+Formules préliminaires pg_1 # tit 5
+Série des potages clairs et consommés garnis pg_7 tit 6
+Série des potages liés pg_28 tit 7
+Formules préliminaires des potages liés pg_28 # tit 8
+Série des purées pg_32 tit 9
+Série des purées ou crèmes pg_38 tit 10
+Série des veloutés ou crèmes pg_41 tit 11
+Série des potages invariables pg_49 tit 12
+Série des potages de légumes, pg_57 tit 13
+Série des garbures pg_59 tit 14
+Soupes originales pg_65 tit 15
+Série des potages étrangers pg_67 tit 16
+
+II HORS-D'OEUVRE  tit 17
+
+Série des hors-d'oeuvre chauds pg_93 tit 18
+Série des hors-d'oeuvre froids pg_79 tit 19
+
+III SAUCES  tit 20
+
+Principes généraux pg_125 # tit 21
+Traitement des éléments de base pg_127 # tit 22
+Grandes sauces de base pg_132 # tit 23
+Petites sauces brunes pg_136 tit 24
+Petites sauces blanches et composées pg_145 tit 25
+Sauces anglaises pg_157 tit 26
+Sauces froides pg_162 tit 27
+Sauces froides anglaises pg_165 tit 28
+Beurres composés pg_166 tit 29
+Marinades et saumures pg_171 tit 30
+Gelées diverses pg_173 # tit 31
+
+IV GARNITURES  tit 32
+
+Série des Farces pg_177 tit 33
+Série des Farces gratins pg_183 tit 34
+Série des appareils divers pg_185 tit 35
+Série générale des Garnitures pg_189 tit 36
+
+V OEUFS  tit 37
+
+Série des oeufs brouillés pg_235 tit 38
+Série des oeufs en caisses pg_228 tit 39
+Série des oeufs en cocottes pg_228 tit 40
+Série des oeufs durs pg_231 tit 41
+Série des oeufs farcis pg_231 tit 42
+Série des oeufs frits pg_230 tit 43
+Série des oeufs froids pg_246 tit 44
+Série des oeufs gratinés pg_231 tit 45
+Série des oeufs mollets pg_215 tit 46
+Série des oeufs moulés pg_225 tit 47
+Série des omelettes pg_240 tit 48
+Série des oeufs sur le plat pg_209 tit 49
+Série des oeufs pochés pg_215 tit 50
+Série des oeufs de vanneaux pg_239 tit 51
+
+VI POISSONS  tit 52
+
+Formules Préliminaires pg_251 # tit 53
+Série des courts-bouillons pg_251 # tit 54
+Emploi des courts-bouillons pg_252 # tit 55
+Traitement des poissons au bleu pg_252 # tit 56
+Farces pour poissons pg_253 # tit 57
+Friture pour poissons pg_255 # tit 58
+Matelotes types pg_256 # tit 59
+Matelotes diverses pg_257 tit 60
+
+POISSONS D'EAU DOUCE.  tit 61
+
+Alose pg_258 tit 62
+Anguille pg_259 tit 63
+Barbeau et Barbillon pg_264 tit 64
+Blanchaille pg_265 tit 65
+Brême pg_265 tit 66
+Brochet pg_265  tit 67
+Brocheton pg_268 tit 68
+Carpe pg_268 tit 69
+Esturgeon pg_273 tit 70
+Féra pg_273 tit 71
+Goujon pg_273 tit 72
+Laitances pg_272 tit 73
+Lamproie pg_274 tit 74
+Lavaret pg_274 tit 75
+Lotte pg_274 tit 76
+Ombre-Chevalier pg_274 tit 77
+Perche pg_275 tit 78
+Ruthel pg_275 tit 79
+Saumon pg_275 tit 80
+Sterlet pg_278 tit 81
+Tanche pg_278 tit 82
+Truite pg_278 tit 83
+Truites de Rivière pg_279 tit 84
+White-bait pg_280 tit 85
+
+POISSONS DE MER. tit 86
+
+Bouillabaisses diverses pg_282 tit 87
+Anchois pg_284 tit 88
+Bar pg_284 tit 89
+Barbue pg_284 tit 90
+Bloaters pg_284 tit 91
+Cabillaud pg_284 tit 92
+Carrelet pg_285 tit 93
+Congre pg_285  tit 94
+Coquilles diverses pg_286 tit 95
+Dorade pg_287 tit 96
+Eperlans pg_287 tit 97
+Haddock pg_288 tit 98
+Harengs pg_288 tit 99
+Maquereaux pg_289 tit 100
+Merlans pg_290 tit 101
+Morue pg_292 tit 102
+Mostèle pg_294 tit 103
+Mulet pg_295 tit 104
+Nonats pg_295 tit 105
+Poutine pg_295 tit 106
+Raie pg_295 tit 107
+Rougets pg_296 tit 108
+Saint-Pierre pg_298 tit 109
+Sardines et Royans pg_298 tit 110
+Soles entières pg_301 tit 111
+Filets de Soles pg_307 tit 112
+Stockfish pg_320 tit 113
+Thon pg_320 tit 114
+Turbot pg_321 tit 115
+Turbotin pg_323 tit 116
+Vive pg_325 tit 117
+
+CRUSTACÉS, MOLLUSQUES ET BATRACIENS. tit 118
+
+Crevettes pg_326 tit 119
+Ecrevisses pg_326 tit 120
+Escargots pg_335 tit 121
+Grenouilles pg_337 tit 122
+Homard pg_328 tit 123
+Huîtres pg_334 tit 124
+Langouste pg_332 tit 125
+Langoustine pg_332 tit 126
+Moules pg_334 # tit 127
+Oursins pg_334 tit 128
+Terrapène pg_332 tit 129
+Tortue pg_333 tit 130
+
+VII RELEVÉS ET ENTRÉES  tit 131
+
+VIANDES DE BOUCHERIE. tit 132
+
+Principes généraux de conduite des braisés pg_338 tit 133
+Principes généraux de conduite des pochés pg_344 tit 134
+Principes généraux de conduite des poêlés pg_342 tit 135
+Principes généraux de conduite des sautés pg_343 tit 136
+Considérations sur le dressage pg_345 tit 137
+
+BOEUF  tit 138
+
+Aloyau pg_347 tit 139
+Amourettes pg_347 tit 140
+Beefsteack-pies pg_383 tit 141
+Biftecks pg_360 tit 142
+Bitokes pg_361 tit 143
+Carbonades pg_384 tit 144
+Cervelles pg_349 tit 145
+Châteaubriand pg_361 tit 146
+Choesels pg_384 tit 147
+Contrefilet pg_352 tit 148
+Côte de boeuf pg_354 tit 149
+Côtes et entrecôtes de détail pg_354 tit 150
+Culotte pg_355 tit 151
+Daube pg_385 tit 152
+Emincés pg_386 tit 153
+Entrecôte pg_352 tit 154
+Estouffade pg_386 tit 155
+Filet de boeuf et dérivés pg_355 tit 156
+Filets en chevreuil pg_362 tit 157
+Filets mignons pg_362 tit 158
+Fricadelles pg_387 tit 159
+Goulash et sautés pg_388 tit 160
+Gras-double pg_380 tit 161
+Hachis pg_389 tit 162
+Hampes ou onglées pg_355 tit 163
+Keftédès pg_362 tit 164
+Langue pg_372 tit 165
+Médaillons pg_363 tit 166
+Museau pg_373 tit 167
+Palais pg_373 tit 168
+Paleron pg_374 tit 169
+Paupiettes pg_390 tit 170
+Plat de côte pg_376 tit 171
+Pointe de culotte pg_374 tit 172
+Poitrine pg_376 tit 173
+Puddings (de) à l'anglaise pg_383 tit 174
+Queue pg_376 tit 175
+Rognon pg_378 tit 176
+Tête d'aloyau pg_379 tit 177
+Tournedos pg_363 tit 178
+Tripes pg_380 tit 179
+Salé et fumé (Boeuf) pg_390 tit 180
+
+
+VEAU  tit 181
+Amourettes et Cervelles pg_391 tit 182
+Blanquette pg_421 tit 183
+Carré pg_392 tit 184
+Coeur pg_392 tit 185
+Côtes pg_393 tit 186
+Epaule pg_396 tit 187
+Escalopes pg_404 tit 188
+
+Filet pg_396 tit 189
+Foie pg_397 tit 190
+Fraise pg_399 tit 191
+Fricadelles pg_422 tit 192
+Fricandeau pg_405 tit 193
+Fricassée pg_422 tit 194
+Grenadins pg_405 tit 195
+Jarrets pg_400 tit 196
+Langues pg_400 tit 197
+Longe pg_401 tit 198
+Matelote pg_422 tit 199
+Médaillons pg_406 tit 200
+Mou pg_402 tit 201
+Noisettes pg_406 tit 202
+Noix et ses dérivés pg_462 tit 203
+Oreilles pg_406 tit 204
+Pain de veau pg_423 tit 205
+Paupiettes pg_406 tit 206
+Pieds pg_408 tit 207
+Poitrine pg_408 tit 208
+Quasi et rouelle pg_410 tit 209
+Ris pg_410 tit 210
+Rognons pg_415 tit 211
+Sautés pg_423 tit 212
+Selle pg_417 tit 213
+Tendrons pg_409 tit 214
+Tête pg_419 tit 215
+Tétine pg_421 tit 216
+
+MOUTON  tit 217
+
+Animelles pg_425 tit 218
+Cassoulet pg_436 tit 219
+Cervelles pg_426 tit 220
+Currie à l'Indienne pg_437 tit 221
+Baron et Double pg_425 tit 222
+Côtelettes pg_426 tit 223
+Daube pg_437 tit 224
+Emincés et Hachis pg_437 tit 225
+Epaule pg_429 tit 226
+Epigramme pg_438 tit 227
+Filets pg_436 tit 228
+Filets mignons pg_436 tit 229
+Gigots pg_430 tit 230
+Haricot (de) pg_438 tit 231
+Irish-Stew pg_438 tit 232
+Langues pg_431 tit 233
+Moussaka pg_439 tit 234
+Mutton-pie pg_439 tit 235
+Navarin pg_439 tit 236
+Noisettes pg_436 tit 237
+Pieds pg_431 tit 238
+Pilaw à la Turque pg_440 tit 239
+Poitrine pg_432 tit 240
+Ragoût (de) au riz pg_440 tit 241
+Rognons pg_432 tit 242
+Selle pg_435 tit 243
+
+AGNEAU DE LAIT. tit 244
+
+Baron et Double pg_441 tit 245
+Blanquette pg_450 tit 246
+Carrés pg_441 tit 247
+Cervelles pg_441 tit 248
+
+Côtelettes pg_443 tit 249
+Crépinettes pg_459 tit 250
+Currie pg_450 tit 251
+Emincés et Hachis pg_450 tit 252
+Epaules pg_447 tit 253
+Epigrammes pg_450 tit 254
+Gigot pg_447 tit 255
+Langues pg_448 tit 256
+Noisettes pg_449 tit 257
+Pieds pg_448 tit 258
+Pilaw (d') à la turque pg_451 tit 259
+Poitrine pg_448 tit 260
+Quartier pg_449 tit 261
+Ris pg_448 tit 262
+Sautés pg_451 tit 263
+Selle pg_449 tit 264
+
+PORC  tit 265
+
+Andouilles et Andouillettes pg_461 tit 266
+Boudins blancs et noirs pg_462 tit 267
+Carbonades pg_463 tit 268
+Carré pg_452 tit 269
+Cervelles pg_453 tit 270
+Cochon de lait pg_467 tit 271
+Côtes pg_453 tit 272
+Crépinettes pg_463 tit 273
+Echinée pg_453 tit 274
+Emincés et Hachis pg_464 tit 275
+Epaule pg_454 tit 276
+Filet pg_454 tit 277
+Foie pg_454 tit 278
+Fricadelles pg_464 tit 279
+Gayettes pg_464 tit 280
+Jambon pg_454 tit 281
+Jambonneau pg_457 tit 282
+Langues pg_459 tit 283
+Mousses et Mousselines pg_457 tit 284
+Oreilles pg_460 tit 285
+Pâté à l'Anglaise pg_465 tit 286
+Petit salé pg_465 tit 287
+Pieds pg_460 tit 288
+Porc bouilli à l'Anglaise pg_465 tit 289
+Queues pg_461 tit 290
+Rognons pg_461 tit 291
+Saucisses pg_466 tit 292
+Tête pg_461 tit 293
+Zampino pg_454 tit 294
+
+VIII VOLAILLES  tit 295
+
+Poulardes entières pg_469 tit 296
+Filets, Suprêmes, Côte-lettes pg_485 tit 297
+Poulets sautés pg_491 tit 298
+Poulets grillés en cocotte et poêlés pg_501 tit 299
+Poussins pg_504 tit 300
+Préparations diverses de la Volaille pg_505 tit 301
+Dindonneau pg_515 tit 302
+Pigeons et Pigeonneaux pg_517 tit 303
+Pintade pg_521 tit 304
+Oie pg_522 tit 305
+Canards et canetons Nantais pg_524 tit 306
+Caneton Rouennais pg_527 tit 307
+Série des préparations chaudes du foie gras pg_530 tit 308
+
+IX GIBIERS tit 309
+
+GIBIERS À PLUME. tit 310
+
+alouettes pg_559 tit 311
+Bécasses pg_562 tit 312
+Bécassines pg_562 tit 313
+Bec-Figues pg_561 tit 314
+Béguinettes pg_561 tit 315
+Cailles pg_554 tit 316
+Coq de Bruyère et dérivés pg_550 tit 317
+Faisan pg_546 tit 318
+Grives et Merles pg_558 tit 319
+Ortolans pg_560 tit 320
+Perdreaux et Perdrix pg_551 tit 321
+Râle de Genêt pg_554 tit 322
+Gibiers d'eau pg_564 tit 323
+
+GIBIERS À POIL. tit 324
+
+Chevreuil pg_534 tit 325
+Lapin pg_544 tit 326
+Lièvre pg_539 tit 327
+Sanglier et Marcassin pg_538 tit 328
+
+X ENTRÉES MIXTES  tit 329
+
+Série des pâtés chauds pg_566 tit 330
+Série des Timbales pg_570 tit 331
+Série des Tourtes et Vol-au-Vent pg_577 tit 332
+
+XI FROID  tit 333
+
+Poissons et crustacés pg_583 tit 334
+Viandes de boucherie pg_591 tit 335
+Volaille pg_595 tit 336
+Volailles entières froides pg_597 tit 337
+Préparations froides du foie gras pg_601 tit 338
+Gibiers pg_605 tit 339
+Assaisonnement et liaison des farces pg_615 tit 340
+Farces pour galantines et pâtés pg_615 tit 341
+Galantine type pg_616 tit 342
+Pâtés en croûte pg_618 tit 343
+Terrines pg_621 tit 344
+Salades simples pg_623 tit 345
+Salades composées pg_624 tit 346
+Mayonnaises pg_629 tit 347
+
+XII ROTIS  tit 348
+
+Notice sur la conduite des rôtis pg_631 tit 349
+Sauces pour rôtis à l'anglaise pg_634 tit 350
+Rôtis de boeuf pg_634 tit 351
+Rôtis de veau pg_635 tit 352
+Rôtis de mouton et agneau pg_635 tit 353
+Rôtis de porc pg_636 tit 354
+Rôtis de Venaison pg_636 tit 355
+Rôtis de gibiers à plume et à poil pg_637 tit 356
+Rôtis de volaille pg_639 tit 357
+
+XIII LÉGUMES ET FARINAGES  tit 358
+
+LÉGUMES tit 359
+  tit 360
+Observations préliminaires pg_641 tit 361
+Artichauts pg_643 tit 362
+Asperges pg_646 tit 363
+Aubergines pg_647 tit 364
+Cardons pg_648 tit 365
+Carottes pg_649 tit 366
+Céleris pg_650 tit 367
+Céleri-rave pg_650 tit 368
+Cèpes pg_651 tit 369
+Cerfeuil-tubéreux pg_651 tit 370
+Champignons pg_651 tit 371
+Chayottes pg_652 tit 372
+Chicorée pg_653 tit 373
+Choux pg_653 tit 374
+Choux de Bruxelles pg_654 tit 375
+Choux-Feurs et Brocolis pg_654 tit 376
+Choux marin pg_655 tit 377
+Choux verts et rouges pg_655 tit 378
+Concombres et Courgettes pg_657 tit 379
+Crosnes pg_657 tit 380
+Endives pg_658 tit 381
+Epinards pg_658 tit 382
+Fenouil tubéreux pg_659 tit 383
+Fèves pg_659 tit 384
+Gombos pg_660 tit 385
+Haricots blancs pg_661 tit 386
+Haricots flageolets pg_661 tit 387
+Haricots rouges pg_661 tit 388
+
+Haricots verts pg_661 tit 389
+Houblon (jets de) pg_662 tit 390
+Laitues pg_662 tit 391
+Lentilles pg_662 tit 392
+Maïs pg_662 tit 393
+Marrons pg_663 tit 394
+Morilles pg_663 tit 395
+Mousserons pg_665 tit 396
+Navets pg_665 tit 397
+Oignons pg_665 tit 398
+Oseille pg_666 tit 399
+Oxalis pg_666 tit 400
+Petits pois pg_666 tit 401
+Piments pg_668 tit 402
+Pommes de terre pg_668 tit 403
+Riz pg_675 tit 404
+Salsifis pg_676 tit 405
+Tomates pg_677 tit 406
+Topinambours pg_678 tit 407
+Truffes pg_678 tit 408
+
+FARINAGES tit 409
+
+Fondus au parmesan pg_680 tit 410
+Gnokis pg_680 tit 411
+Lasagnes pg_681 tit 412
+Macaronis pg_681 tit 413
+Nouilles pg_683 tit 414
+Polenta pg_683 tit 415
+Raviolis pg_684 tit 416
+
+XIV ENTREMETS CHAUDS  tit 417
+
+ENTREMETS CHAUDS. tit 418
+
+Sauces pour entremets chauds pg_686 tit 419
+Appareils divers pg_688 tit 420
+Pâtes diverses pour entremets pg_689 tit 421
+Beignets pg_691 tit 422
+Charlottes pg_694 tit 423
+Crèmes pg_694 tit 424
+Crèpes pg_695 tit 425
+Croquettes pg_695 tit 426
+Croûtes pg_696 tit 427
+Omelettes pg_697 tit 428
+Pannequets pg_699 tit 429
+Puddings types pg_700 tit 430
+Puddings divers pg_702 tit 431
+Rissoles pg_706 tit 432
+Soufflés pg_706 tit 433
+Soufflés divers pg_707 tit 434
+Subrics pg_708 tit 435
+Timbales pg_709 tit 436
+
+ENTREMETS DE FRUITS CHAUDS. tit 437
+
+Abricots pg_710 tit 438
+Ananas pg_711 tit 439
+Bananes pg_711 tit 440
+Cerises pg_712 tit 441
+Nectarines ou brugnons pg_712 tit 442
+Oranges et mandarines pg_712 tit 443
+Pèches pg_713 tit 444
+Poires pg_714 tit 445
+Pommes pg_714 tit 446
+Entremets chauds divers pg_716 tit 447
+
+ENTREMETS FROIDS. tit 448
+
+Bavarois pg_718 tit 449
+Bavarois divers pg_719 tit 450
+Blanc-manger pg_719 tit 451
+Blancs-mangers divers pg_720 tit 452
+Charlottes pg_720 tit 453
+Crèmes pg_722 tit 454
+Flamri pg_724 tit 455
+Gelées pg_724 tit 456
+Mont blanc pg_726 tit 457
+Pains de truits pg_726 tit 458
+Pudings pg_726 tit 459
+
+ENTREMETS DE FRUITS FROIDS. tit 460
+
+Abricots pg_728 tit 461
+Ananas pg_729 tit 462
+Fraises pg_729 tit 463
+Mandarines pg_730 tit 464
+Oranges pg_730 tit 465
+Pêches et Brugnons pg_730 tit 466
+Poires pg_731 tit 467
+Pommes pg_731 tit 468
+Suédoise pg_731 tit 469
+Entremets froids divers pg_732 tit 470
+
+XV GLACES tit 471
+
+Appareils et compositions pour glaces simples pg_735 tit 472
+Appareil à glace crème pg_735 tit 473
+Appareils divers à la crème pg_736 tit 474
+Appareils à glaces aux fruits pg_736 tit 475
+Appareils divers à glaces aux fruits pg_737 tit 476
+Appareil à glaces aux liqueurs pg_738 tit 477
+Préparation des glaces pg_739 tit 478
+Moulage des glaces pg_739 tit 479
+Glaces diverses pg_740 tit 480
+Coupes pg_741 tit 481
+Glaces légères pg_742 tit 482
+Appareils divers pg_742 tit 483
+Bombes pg_743 tit 484
+Bombes diverses pg_744 tit 485
+Mousses pg_746 tit 486
+Mousses diverses pg_746 tit 487
+Parfaits pg_746 tit 488
+Puddings glacés pg_747 tit 489
+Sorbets pg_749 tit 490
+Granités pg_750 tit 491
+Marquises pg_750 tit 492
+Punch à la romaine pg_750 tit 493
+Spooms pg_751 tit 494
+
+XVI SAVORYS tit 495
+
+Savorys pg_752 tit 496
+Sandwichs pg_757 tit 497
+
+XVII COMPOTES ET CONFITURES tit 498
+
+Compotes simples pg_759 tit 499
+Confitures pg_761 tit 500
+Marmelades pg_762 tit 501
+Gelées pg_763 tit 502
+Boissons et rafraîchissements pg_764 tit 503

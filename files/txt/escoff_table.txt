@@ -1,0 +1,567 @@
+TABLE DES SÉRIES ET PRINCIPAUX ARTICLES
+
+POTAGES 
+
+Formules préliminaires pg_1 #
+Série des potages clairs et consommés garnis pg_7
+Série des potages liés pg_28
+Formules préliminaires des potages liés pg_28 #
+Série des purées pg_32
+Série des purées ou crèmes pg_38
+Série des veloutés ou crèmes pg_41
+Série des potages invariables pg_49
+Série des potages de légumes pg_57
+Série des garbures pg_59
+Soupes originales pg_65
+Série des potages étrangers pg_67
+
+II HORS-D'OEUVRE 
+
+Série des hors-d'oeuvre chauds pg_93
+Série des hors-d'oeuvre froids pg_79
+
+III SAUCES 
+
+Principes généraux pg_125 #
+Traitement des éléments de base pg_127 #
+Grandes sauces de base pg_132 #
+Petites sauces brunes pg_136
+Petites sauces blanches et composées pg_145
+Sauces anglaises pg_157
+Sauces froides pg_162
+Sauces froides anglaises pg_165
+Beurres composés pg_166
+Marinades et saumures pg_171
+Gelées diverses pg_173 #
+
+IV GARNITURES 
+
+Série des Farces pg_177
+Série des Farces gratins pg_183
+Série des appareils divers pg_185
+Série générale des Garnitures pg_189
+
+V OEUFS 
+
+Série des oeufs brouillés pg_235
+Série des oeufs en caisses pg_228
+Série des oeufs en cocottes pg_228
+Série des oeufs durs pg_231
+Série des oeufs farcis pg_231
+Série des oeufs frits pg_230
+Série des oeufs froids pg_246
+Série des oeufs gratinés pg_231
+Série des oeufs mollets pg_215
+Série des oeufs moulés pg_225
+Série des omelettes pg_240
+Série des oeufs sur le plat pg_209
+Série des oeufs pochés pg_215
+Série des oeufs de vanneaux pg_239
+
+VI POISSONS 
+
+Formules Préliminaires pg_251 #
+Série des courts-bouillons pg_251 #
+Emploi des courts-bouillons pg_252 #
+Traitement des poissons au bleu pg_252 #
+Farces pour poissons pg_253 #
+Friture pour poissons pg_255 #
+Matelotes types pg_256 #
+Matelotes diverses pg_257
+
+POISSONS D'EAU DOUCE. 
+
+Alose pg_258
+Anguille pg_259
+Barbeau et Barbillon pg_264
+Blanchaille pg_265
+Brême pg_265
+Brochet pg_265 
+Brocheton pg_268
+Carpe pg_268
+Esturgeon pg_273
+Féra pg_273
+Goujon pg_273
+Laitances pg_272
+Lamproie pg_274
+Lavaret pg_274
+Lotte pg_274
+Ombre-Chevalier pg_274
+Perche pg_275
+Ruthel pg_275
+Saumon pg_275
+Sterlet pg_278
+Tanche pg_278
+Truite pg_278
+Truites de Rivière pg_279
+White-bait pg_280
+
+POISSONS DE MER.
+
+Bouillabaisses diverses pg_282
+Anchois pg_284
+Bar pg_284
+Barbue pg_284
+Bloaters pg_284
+Cabillaud pg_284
+Carrelet pg_285
+Congre pg_285 
+Coquilles diverses pg_286
+Dorade pg_287
+Eperlans pg_287
+Haddock pg_288
+Harengs pg_288
+Maquereaux pg_289
+Merlans pg_290
+Morue pg_292
+Mostèle pg_294
+Mulet pg_295
+Nonats pg_295
+Poutine pg_295
+Raie pg_295
+Rougets pg_296
+Saint-Pierre pg_298
+Sardines et Royans pg_298
+Soles entières pg_301
+Filets de Soles pg_307
+Stockfish pg_320
+Thon pg_320
+Turbot pg_321
+Turbotin pg_323
+Vive pg_325
+
+CRUSTACÉS, MOLLUSQUES ET BATRACIENS.
+
+Crevettes pg_326
+Ecrevisses pg_326
+Escargots pg_335
+Grenouilles pg_337
+Homard pg_328
+Huîtres pg_334
+Langouste pg_332
+Langoustine pg_332
+Moules pg_334 #
+Oursins pg_334
+Terrapène pg_332
+Tortue pg_333
+
+VII RELEVÉS ET ENTRÉES 
+
+VIANDES DE BOUCHERIE.
+
+Principes généraux de conduite des braisés pg_338
+Principes généraux de conduite des pochés pg_344
+Principes généraux de conduite des poêlés pg_342
+Principes généraux de conduite des sautés pg_343
+Considérations sur le dressage pg_345
+
+BOEUF 
+
+Aloyau pg_347
+Amourettes pg_347
+Beefsteack-pies pg_383
+Biftecks pg_360
+Bitokes pg_361
+Carbonades pg_384
+Cervelles pg_349
+Châteaubriand pg_361
+Choesels pg_384
+Contrefilet pg_352
+Côte de boeuf pg_354
+Côtes et entrecôtes de détail pg_354
+Culotte pg_355
+Daube pg_385
+Emincés pg_386
+Entrecôte pg_352
+Estouffade pg_386
+Filet de boeuf et dérivés pg_355
+Filets en chevreuil pg_362
+Filets mignons pg_362
+Fricadelles pg_387
+Goulash et sautés pg_388
+Gras-double pg_380
+Hachis pg_389
+Hampes ou onglées pg_355
+Keftédès pg_362
+Langue pg_372
+Médaillons pg_363
+Museau pg_373
+Palais pg_373
+Paleron pg_374
+Paupiettes pg_390
+Plat de côte pg_376
+Pointe de culotte pg_374
+Poitrine pg_376
+Puddings (de) à l'anglaise pg_383
+Queue pg_376
+Rognon pg_378
+Tête d'aloyau pg_379
+Tournedos pg_363
+Tripes pg_380
+Salé et fumé (Boeuf) pg_390
+
+
+VEAU 
+Amourettes et Cervelles pg_391
+Blanquette pg_421
+Carré pg_392
+Coeur pg_392
+Côtes pg_393
+Epaule pg_396
+Escalopes pg_404
+
+Filet pg_396
+Foie pg_397
+Fraise pg_399
+Fricadelles pg_422
+Fricandeau pg_405
+Fricassée pg_422
+Grenadins pg_405
+Jarrets pg_400
+Langues pg_400
+Longe pg_401
+Matelote pg_422
+Médaillons pg_406
+Mou pg_402
+Noisettes pg_406
+Noix et ses dérivés pg_462
+Oreilles pg_406
+Pain de veau pg_423
+Paupiettes pg_406
+Pieds pg_408
+Poitrine pg_408
+Quasi et rouelle pg_410
+Ris pg_410
+Rognons pg_415
+Sautés pg_423
+Selle pg_417
+Tendrons pg_409
+Tête pg_419
+Tétine pg_421
+
+MOUTON 
+
+Animelles pg_425
+Cassoulet pg_436
+Cervelles pg_426
+Currie à l'Indienne pg_437
+Baron et Double pg_425
+Côtelettes pg_426
+Daube pg_437
+Emincés et Hachis pg_437
+Epaule pg_429
+Epigramme pg_438
+Filets pg_436
+Filets mignons pg_436
+Gigots pg_430
+Haricot (de) pg_438
+Irish-Stew pg_438
+Langues pg_431
+Moussaka pg_439
+Mutton-pie pg_439
+Navarin pg_439
+Noisettes pg_436
+Pieds pg_431
+Pilaw à la Turque pg_440
+Poitrine pg_432
+Ragoût (de) au riz pg_440
+Rognons pg_432
+Selle pg_435
+
+AGNEAU DE LAIT.
+
+Baron et Double pg_441
+Blanquette pg_450
+Carrés pg_441
+Cervelles pg_441
+
+Côtelettes pg_443
+Crépinettes pg_459
+Currie pg_450
+Emincés et Hachis pg_450
+Epaules pg_447
+Epigrammes pg_450
+Gigot pg_447
+Langues pg_448
+Noisettes pg_449
+Pieds pg_448
+Pilaw (d') à la turque pg_451
+Poitrine pg_448
+Quartier pg_449
+Ris pg_448
+Sautés pg_451
+Selle pg_449
+
+PORC 
+
+Andouilles et Andouillettes pg_461
+Boudins blancs et noirs pg_462
+Carbonades pg_463
+Carré pg_452
+Cervelles pg_453
+Cochon de lait pg_467
+Côtes pg_453
+Crépinettes pg_463
+Echinée pg_453
+Emincés et Hachis pg_464
+Epaule pg_454
+Filet pg_454
+Foie pg_454
+Fricadelles pg_464
+Gayettes pg_464
+Jambon pg_454
+Jambonneau pg_457
+Langues pg_459
+Mousses et Mousselines pg_457
+Oreilles pg_460
+Pâté à l'Anglaise pg_465
+Petit salé pg_465
+Pieds pg_460
+Porc bouilli à l'Anglaise pg_465
+Queues pg_461
+Rognons pg_461
+Saucisses pg_466
+Tête pg_461
+Zampino pg_454
+
+VIII VOLAILLES 
+
+Poulardes entières pg_469
+Filets, Suprêmes, Côte-lettes pg_485
+Poulets sautés pg_491
+Poulets grillés en cocotte et poêlés pg_501
+Poussins pg_504
+Préparations diverses de la Volaille pg_505
+Dindonneau pg_515
+Pigeons et Pigeonneaux pg_517
+Pintade pg_521
+Oie pg_522
+Canards et canetons Nantais pg_524
+Caneton Rouennais pg_527
+Série des préparations chaudes du foie gras pg_530
+
+IX GIBIERS
+
+GIBIERS À PLUME.
+
+alouettes pg_559
+Bécasses pg_562
+Bécassines pg_562
+Bec-Figues pg_561
+Béguinettes pg_561
+Cailles pg_554
+Coq de Bruyère et dérivés pg_550
+Faisan pg_546
+Grives et Merles pg_558
+Ortolans pg_560
+Perdreaux et Perdrix pg_551
+Râle de Genêt pg_554
+Gibiers d'eau pg_564
+
+GIBIERS À POIL.
+
+Chevreuil pg_534
+Lapin pg_544
+Lièvre pg_539
+Sanglier et Marcassin pg_538
+
+X ENTRÉES MIXTES 
+
+Série des pâtés chauds pg_566
+Série des Timbales pg_570
+Série des Tourtes et Vol-au-Vent pg_577
+
+XI FROID 
+
+Poissons et crustacés pg_583
+Viandes de boucherie pg_591
+Volaille pg_595
+Volailles entières froides pg_597
+Préparations froides du foie gras pg_601
+Gibiers pg_605
+Assaisonnement et liaison des farces pg_615
+Farces pour galantines et pâtés pg_615
+Galantine type pg_616
+Pâtés en croûte pg_618
+Terrines pg_621
+Salades simples pg_623
+Salades composées pg_624
+Mayonnaises pg_629
+
+XII ROTIS 
+
+Notice sur la conduite des rôtis pg_631
+Sauces pour rôtis à l'anglaise pg_634
+Rôtis de boeuf pg_634
+Rôtis de veau pg_635
+Rôtis de mouton et agneau pg_635
+Rôtis de porc pg_636
+Rôtis de Venaison pg_636
+Rôtis de gibiers à plume et à poil pg_637
+Rôtis de volaille pg_639
+
+XIII LÉGUMES ET FARINAGES 
+
+LÉGUMES
+ 
+Observations préliminaires pg_641
+Artichauts pg_643
+Asperges pg_646
+Aubergines pg_647
+Cardons pg_648
+Carottes pg_649
+Céleris pg_650
+Céleri-rave pg_650
+Cèpes pg_651
+Cerfeuil-tubéreux pg_651
+Champignons pg_651
+Chayottes pg_652
+Chicorée pg_653
+Choux pg_653
+Choux de Bruxelles pg_654
+Choux-Feurs et Brocolis pg_654
+Choux marin pg_655
+Choux verts et rouges pg_655
+Concombres et Courgettes pg_657
+Crosnes pg_657
+Endives pg_658
+Epinards pg_658
+Fenouil tubéreux pg_659
+Fèves pg_659
+Gombos pg_660
+Haricots blancs pg_661
+Haricots flageolets pg_661
+Haricots rouges pg_661
+
+Haricots verts pg_661
+Houblon (jets de) pg_662
+Laitues pg_662
+Lentilles pg_662
+Maïs pg_662
+Marrons pg_663
+Morilles pg_663
+Mousserons pg_665
+Navets pg_665
+Oignons pg_665
+Oseille pg_666
+Oxalis pg_666
+Petits pois pg_666
+Piments pg_668
+Pommes de terre pg_668
+Riz pg_675
+Salsifis pg_676
+Tomates pg_677
+Topinambours pg_678
+Truffes pg_678
+
+FARINAGES
+
+Fondus au parmesan pg_680
+Gnokis pg_680
+Lasagnes pg_681
+Macaronis pg_681
+Nouilles pg_683
+Polenta pg_683
+Raviolis pg_684
+
+XIV ENTREMETS CHAUDS 
+
+ENTREMETS CHAUDS.
+
+Sauces pour entremets chauds pg_686
+Appareils divers pg_688
+Pâtes diverses pour entremets pg_689
+Beignets pg_691
+Charlottes pg_694
+Crèmes pg_694
+Crèpes pg_695
+Croquettes pg_695
+Croûtes pg_696
+Omelettes pg_697
+Pannequets pg_699
+Puddings types pg_700
+Puddings divers pg_702
+Rissoles pg_706
+Soufflés pg_706
+Soufflés divers pg_707
+Subrics pg_708
+Timbales pg_709
+
+ENTREMETS DE FRUITS CHAUDS.
+
+Abricots pg_710
+Ananas pg_711
+Bananes pg_711
+Cerises pg_712
+Nectarines ou brugnons pg_712
+Oranges et mandarines pg_712
+Pèches pg_713
+Poires pg_714
+Pommes pg_714
+Entremets chauds divers pg_716
+
+ENTREMETS FROIDS.
+
+Bavarois pg_718
+Bavarois divers pg_719
+Blanc-manger pg_719
+Blancs-mangers divers pg_720
+Charlottes pg_720
+Crèmes pg_722
+Flamri pg_724
+Gelées pg_724
+Mont blanc pg_726
+Pains de truits pg_726
+Pudings pg_726
+
+ENTREMETS DE FRUITS FROIDS.
+
+Abricots pg_728
+Ananas pg_729
+Fraises pg_729
+Mandarines pg_730
+Oranges pg_730
+Pêches et Brugnons pg_730
+Poires pg_731
+Pommes pg_731
+Suédoise pg_731
+Entremets froids divers pg_732
+
+XV GLACES
+
+Appareils et compositions pour glaces simples pg_735
+Appareil à glace crème pg_735
+Appareils divers à la crème pg_736
+Appareils à glaces aux fruits pg_736
+Appareils divers à glaces aux fruits pg_737
+Appareil à glaces aux liqueurs pg_738
+Préparation des glaces pg_739
+Moulage des glaces pg_739
+Glaces diverses pg_740
+Coupes pg_741
+Glaces légères pg_742
+Appareils divers pg_742
+Bombes pg_743
+Bombes diverses pg_744
+Mousses pg_746
+Mousses diverses pg_746
+Parfaits pg_746
+Puddings glacés pg_747
+Sorbets pg_749
+Granités pg_750
+Marquises pg_750
+Punch à la romaine pg_750
+Spooms pg_751
+
+XVI SAVORYS
+
+Savorys pg_752
+Sandwichs pg_757
+
+XVII COMPOTES ET CONFITURES
+
+Compotes simples pg_759
+Confitures pg_761
+Marmelades pg_762
+Gelées pg_763
+Buissons et rafraîchissements pg_764
