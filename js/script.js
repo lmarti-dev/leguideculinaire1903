@@ -149,15 +149,16 @@ function create_recipe(sections, item) {
   );
   title.href = "#" + itemlinkid(item);
   title.innerHTML = item.title;
-  let pill = document.createElement("span");
-  let pill_text = build_pill(item, sections);
-  pill.innerHTML = pill_text;
+  let address = document.createElement("span");
+  let address_text = bubble_up_address(item, sections);
+  address.innerHTML = address_text;
   let content = document.createElement("p");
   bootstyle(content, "card-text p-3");
   content.innerHTML = item.text;
   header.appendChild(title);
-  header.appendChild(pill);
-  bootstyle(pill, "badge rounded-pill text-bg-secondary m-1");
+  header.appendChild(address);
+  bootstyle(address, "text-secondary fs-sm-1 text-monospace");
+  address.setAttribute("style", "font-size: .75em !important;");
   div.appendChild(header);
   div.appendChild(content);
 
@@ -364,7 +365,7 @@ function get_section_from_pk(sections, pk) {
   return null;
 }
 
-function build_pill(item, sections) {
+function bubble_up_address(item, sections) {
   let s = [];
   let current = item;
   // I will never use a while loop in js
@@ -374,8 +375,7 @@ function build_pill(item, sections) {
       let parent = get_section_from_pk(sections, current.parent);
 
       if (parent == null) {
-        s = s.reverse().join(" → ");
-        return s;
+        return s.reverse().join(" → ");
       }
       s.push(parent.title);
       current = parent;
@@ -383,7 +383,11 @@ function build_pill(item, sections) {
       return "";
     }
   }
-  return "";
+  if (s == []) {
+    return "";
+  } else {
+    return s.reverse().join(" → ");
+  }
 }
 
 async function main() {
