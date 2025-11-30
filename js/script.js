@@ -141,7 +141,7 @@ function create_recipe(sections, item) {
   let header = document.createElement("div");
   bootstyle(
     header,
-    "card-header d-flex justify-content-between align-items-center"
+    "card-header d-flex justify-content-between align-items-center flex-wrap"
   );
   bootstyle(
     title,
@@ -157,7 +157,7 @@ function create_recipe(sections, item) {
   content.innerHTML = item.text;
   header.appendChild(title);
   header.appendChild(pill);
-  bootstyle(pill, "badge rounded-pill text-bg-primary");
+  bootstyle(pill, "badge rounded-pill text-bg-secondary m-1");
   div.appendChild(header);
   div.appendChild(content);
 
