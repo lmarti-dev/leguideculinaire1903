@@ -37,27 +37,27 @@ function pick_header(item) {
 function pick_toc_style(item) {
   var style = "";
   if (item.parent == null) {
-    style = "fw-bold p-2 fs-2";
+    style = "fw-bold p-1 fs-3";
   } else {
-    style = "fw-bold p-2 ms-2";
+    style = "fw-bold p-1";
   }
   return style;
 }
 
 function create_tocsec(item) {
-  let div = document.createElement("div");
+  let div = document.createElement("li");
   div.setAttribute("id", pktotocid(item.pk));
   // coding like it's 1999
   let title = document.createElement("a");
   bootstyle(title, pick_toc_style(item));
   let title_link = document.createElement("a");
-  bootstyle(title_link, "text-decoration-none p-1 m-1");
+  bootstyle(title_link, "text-decoration-none");
   let link = item.slug + `-pk-${item.pk}`;
   title_link.href = "/#" + link;
 
   title_link.innerHTML = item.title;
 
-  let children = document.createElement("div");
+  let children = document.createElement("ol");
   children.setAttribute("class", "children");
 
   title.appendChild(title_link);
