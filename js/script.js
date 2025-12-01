@@ -5,6 +5,21 @@ async function load_files(url) {
   return await (await fetch(url, { method: "GET" })).json();
 }
 
+async function load_zip(fpath, callback) {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function () {
+    if (xhttp.readyState == XMLHttpRequest.DONE) {
+      data = xhttp.response;
+      callback(data);
+    }
+  };
+  xhttp.open("GET", fpath, true);
+  xhttp.responseType = "arraybuffer";
+  xhttp.overrideMimeType("text/plain; charset=x-user-defined");
+  xhttp.send();
+  xhttp.onreadystatechange();
+}
+
 function pktoid(pk) {
   return `text-section-pk-${pk}`;
 }
@@ -439,22 +454,41 @@ async function main() {
   build_tree(articles, create_text);
   toc(start, "Created articles");
   start = tic();
-  const recipes = await load_files("data/recipes_merged_pk.json");
+  // const recipes = await load_files("data/recipes_merged_pk.json");
+  var recipes;
   toc(start, "Loaded recipes_merged_pk.json");
   start = tic();
 
-  build_tree(recipes, (item) => {
-    return create_recipe(sections, item);
+  const recipes_fpath = "data/recipes_merged_pk.zip";
+  const recipes_json_fpath = "recipes_merged_pk.json";
+
+  var zip = new JSZip();
+  await load_zip(recipes_fpath, (response) => {
+    var responseArray = new Uint8Array(response);
+    var blobData = new Blob([responseArray], {
+      type: "application/zip",
+    });
+    zip.loadAsync(response).then(function (zip) {
+      zip
+        .file(`${recipes_json_fpath}`)
+        .async("text")
+        .then((jobj) => {
+          recipes = JSON.parse(jobj);
+          build_tree(recipes, (item) => {
+            return create_recipe(sections, item);
+          });
+          toc(start, "Created recipes");
+          if (window.innerWidth > MIN_WIDTH_FOR_SIDEBAR) {
+            start = tic();
+            populate_sidebar(sections, recipes);
+            toc(start, "Populated sidebar");
+            start = tic();
+            setup_search();
+            toc(start, "Search setup");
+          }
+        });
+    });
   });
-  toc(start, "Created recipes");
-  if (window.innerWidth > MIN_WIDTH_FOR_SIDEBAR) {
-    start = tic();
-    populate_sidebar(sections, recipes);
-    toc(start, "Populated sidebar");
-    start = tic();
-    setup_search();
-    toc(start, "Search setup");
-  }
 }
 
 document.addEventListener("DOMContentLoaded", async (event) => {
