@@ -53,20 +53,13 @@ function create_tocsec(item) {
   let title_link = document.createElement("a");
   bootstyle(title_link, "text-decoration-none p-1 m-1");
   let link = item.slug + `-pk-${item.pk}`;
-  title_link.href = "#" + link;
+  title_link.href = "/#" + link;
 
   title_link.innerHTML = item.title;
 
   let children = document.createElement("div");
   children.setAttribute("class", "children");
 
-  let add_span = false;
-  if (add_span) {
-    let span = document.createElement("span");
-    bootstyle(span, "fst-italic fs-6 m-1");
-    span.innerHTML = ` #${item.pk}`;
-    title.appendChild(span);
-  }
   title.appendChild(title_link);
   div.appendChild(title);
   div.appendChild(children);
@@ -74,20 +67,29 @@ function create_tocsec(item) {
   return div;
 }
 
+function sectoid(item) {
+  return item.slug + `-pk-${item.pk}`;
+}
+
 function create_section(item) {
   let div = document.createElement("div");
   div.setAttribute("id", pktoid(item.pk));
   // coding like it's 1999
   let out = pick_header(item);
+  let holder = document.createElement("div");
+  bootstyle(
+    holder,
+    "container d-flex flex-row flex-wrap align-items-center justify-content-between m-0 p-0"
+  );
   let header = out[0];
   let title_style = out[1];
   let title = document.createElement(header);
   bootstyle(title, title_style);
   let title_link = document.createElement("a");
-  bootstyle(title_link, "text-decoration-none p-1 m-1");
-  let link = item.slug + `-pk-${item.pk}`;
+  bootstyle(title_link, "text-decoration-none mx-2");
+  let link = sectoid(item);
   title_link.setAttribute("id", link);
-  title_link.href = "#" + link;
+  title_link.href = "/#" + link;
 
   title.innerHTML = item.title;
   title_link.innerHTML = "#";
@@ -95,15 +97,16 @@ function create_section(item) {
   let children = document.createElement("div");
   children.setAttribute("class", "children");
 
-  let add_span = false;
-  if (add_span) {
-    let span = document.createElement("span");
-    bootstyle(span, "fst-italic fs-6 m-1");
-    span.innerHTML = ` #${item.pk}`;
-    title.appendChild(span);
-  }
   title.appendChild(title_link);
-  div.appendChild(title);
+  holder.appendChild(title);
+  if (header == "h2") {
+    let retour = document.createElement("a");
+    retour.href = "/#toc";
+    retour.innerHTML = "Retour";
+    holder.appendChild(retour);
+  }
+
+  div.appendChild(holder);
   div.appendChild(children);
 
   return div;
@@ -123,7 +126,7 @@ function create_text(item) {
   let add_title = false;
   if (add_title) {
     let title = document.createElement("a");
-    title.href = "#" + itemlinkid(item);
+    title.href = "/#" + itemlinkid(item);
     title.innerHTML = "Article";
     div.appendChild(title);
   }
@@ -147,17 +150,15 @@ function create_recipe(sections, item) {
     title,
     "link-underline link-underline-opacity-0 link-underline-opacity-100-hover fst-italic"
   );
-  title.href = "#" + itemlinkid(item);
+  title.href = "/#" + itemlinkid(item);
   title.innerHTML = item.title;
-  let address = document.createElement("span");
-  let address_text = bubble_up_address(item, sections);
-  address.innerHTML = address_text;
+  let address = bubble_up_address(item, sections);
+  bootstyle(address, "text-secondary fs-sm-1 text-monospace");
   let content = document.createElement("p");
   bootstyle(content, "card-text p-3");
   content.innerHTML = item.text;
   header.appendChild(title);
   header.appendChild(address);
-  bootstyle(address, "text-secondary fs-sm-1 text-monospace");
   address.setAttribute("style", "font-size: .75em !important;");
   div.appendChild(header);
   div.appendChild(content);
@@ -266,7 +267,7 @@ function populate_sidebar(sections, recipes) {
   for (s in sections) {
     let section = sections[s];
     let a = document.createElement("a");
-    a.href = "#" + pktoid(section.pk);
+    a.href = "/#" + pktoid(section.pk);
     a.setAttribute("id", pktosbid(section.pk));
     bootstyle(a, a_style + " fw-bold");
     let title = document.createElement("div");
@@ -279,7 +280,7 @@ function populate_sidebar(sections, recipes) {
   for (k in recipes) {
     let recipe = recipes[k];
     let a = document.createElement("a");
-    a.href = "#" + itemlinkid(recipe);
+    a.href = "/#" + itemlinkid(recipe);
     bootstyle(a, a_style);
     let title = document.createElement("div");
     // bootstyle(title, title_style);
@@ -365,6 +366,20 @@ function get_section_from_pk(sections, pk) {
   return null;
 }
 
+function array_to_link_span(s) {
+  let span = document.createElement("span");
+  for (let iii = 0; iii < s.length; iii++) {
+    let elem = s[iii];
+    span.appendChild(elem);
+    if (iii < s.length - 1) {
+      let split = document.createElement("span");
+      split.innerHTML = "→";
+      span.appendChild(split);
+    }
+  }
+  return span;
+}
+
 function bubble_up_address(item, sections) {
   let s = [];
   let current = item;
@@ -373,20 +388,23 @@ function bubble_up_address(item, sections) {
   for (let iii = 0; iii < 10; iii++) {
     if ("parent" in current) {
       let parent = get_section_from_pk(sections, current.parent);
-
       if (parent == null) {
-        return s.reverse().join(" → ");
+        return array_to_link_span(s.reverse());
       }
-      s.push(parent.title);
+      let a = document.createElement("a");
+      bootstyle(a, "m-1 text-secondary");
+      a.innerHTML = parent.title;
+      a.href = "/#" + sectoid(parent);
+      s.push(a);
       current = parent;
     } else {
-      return "";
+      return document.createElement("span");
     }
   }
   if (s == []) {
-    return "";
+    return document.createElement("span");
   } else {
-    return s.reverse().join(" → ");
+    return array_to_link_span(s.reverse());
   }
 }
 
